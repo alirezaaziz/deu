@@ -4,7 +4,9 @@ https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist
 #EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF HD
 https://s1.hopslan.com/zdf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF HD(backup)
-https://cl.vcdn.pw/web/1/n.xcxc.cf/c10/1616368192/4ltGpwWMFyiTwown2XBLjQ/10687.m3u8
+https://www.webhd.pw/cdn/403.m3u8
+#EXTINF:-1 tvg-id="Welt (N24)" tvg-name="Welt (N24)" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Welt (N24)
+https://www.webhd.pw/?c3.xcxc.cf/web/1/www.tvdelive.com/c10/1616422553/Z5S1YdhXmp3_KzRWX_nvkg/10707.m3u8
 #EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" tvg-url="" group-title="",RTL
 https://s1.hopslan.com/rtl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
