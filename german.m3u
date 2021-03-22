@@ -2,9 +2,37 @@
 #EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-url="" group-title="",a.tv (1080p)
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.
 #EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF HD
-https://www.webhd.pw/cdn/403.m3u8?c6.xcxc.cf/web/1/www.de24.live/c10/1616366162/tDQUSNoeGX-9_J4HqMGJYQ/10687.m3u8
+https://s1.hopslan.com/zdf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF HD(backup)
 https://cl.vcdn.pw/web/1/n.xcxc.cf/c10/1616368192/4ltGpwWMFyiTwown2XBLjQ/10687.m3u8
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" tvg-url="" group-title="",RTL
+https://s1.hopslan.com/rtl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
+https://s4.hopslan.com/rtl2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Super RTL" tvg-name="Super RTL" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/4.png" tvg-url="" group-title="",Super RTL
+https://s1.hopslan.com/super/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Nitro" tvg-name="Nitro" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/6.png" tvg-url="" group-title="",Nitro
+https://s2.hopslan.com/nitrol/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Pro7" tvg-name="Pro7" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7-logo.png" tvg-url="" group-title="",Pro7
+https://s1.hopslan.com/pro7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kabel1" tvg-name="kabel1" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/kabel1doku-logo.png" tvg-url="" group-title="",kabel1
+https://s1.hopslan.com/kabel1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sat1" tvg-name="sat1" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" tvg-url="" group-title="",sat1
+https://s1.hopslan.com/sat1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sixx" tvg-name="sixx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sixx-logo.png" tvg-url="" group-title="",sixx
+https://s1.hopslan.com/sixx/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pro7maxx" tvg-name="pro7maxx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" tvg-url="" group-title="",pro7maxx
+https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tele5" tvg-name="tele5" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/tele5-logo.png" tvg-url="" group-title="",tele5
+https://s3.hopslan.com/tele55/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png tvg-url="" group-title="",COMEDY CENTRAL
+https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png" tvg-url="" group-title="",DMAX
+https://s1.hopslan.com/dmax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="N-tv" tvg-name="N-tv" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/5.png" tvg-url="" group-title="",N-tv
+https://s1.hopslan.com/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" tvg-url="" group-title="",Vox 
+https://s1.hopslan.com/vox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="Anixe HD" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/641px-Anixe_HD.svg.png" tvg-url="" group-title="",Anixe HD (720p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-id="CampusTVMagdeburg.de" tvg-name="Campus TV Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-url="" group-title="",Campus TV Magdeburg (1080p)
@@ -104,8 +132,12 @@ http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8
 #EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="München TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-url="" group-title="",München TV (1080p)
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="orf1.de" tvg-name="orf1" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png" tvg-url="" group-title="",orf1
+https://s1.hopslan.com/orf1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-url="" group-title="",NDR Fernsehen (720p)
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-url="" group-title="",NDR Fernsehen (540p)
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master_540.m3u8
 #EXTINF:-1 tvg-id="NDRHamburg.de" tvg-name="NDR Hamburg" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",NDR Hamburg (720p)
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
 #EXTINF:-1 tvg-id="NDRMecklenburgVorpommern.de" tvg-name="NDR Mecklenburg-Vorpommern" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",NDR Mecklenburg-Vorpommern (720p)
@@ -252,8 +284,12 @@ http://152.89.62.111:8080/m123/m123/146308
 http://rv.imax.re:80/4822570279/8799305052/86619
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3SAT HD
 http://152.89.62.111:8080/m123/m123/146533
+#EXTINF:0 tvg-country="DE" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/8.png" group-title="Undefined",3SAT HD
+https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",A & E
 http://mail.vipmek.com:8800/565656/565656/48073
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD
+https://s1.hopslan.com/ard/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD-alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="http" group-title="Undefined",ARD-alpha
@@ -396,6 +432,8 @@ http://152.89.62.111:8080/m123/m123/146513
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW+
+https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
