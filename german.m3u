@@ -1,40 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-url="" group-title="",a.tv (1080p)
-https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.
-#EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF HD
-https://s1.hopslan.com/zdf/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF HD(backup)
-https://www.webhd.pw/cdn/403.m3u8
-#EXTINF:-1 tvg-id="Welt (N24)" tvg-name="Welt (N24)" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Welt (N24)
-https://www.webhd.pw/?c3.xcxc.cf/web/1/www.tvdelive.com/c10/1616422553/Z5S1YdhXmp3_KzRWX_nvkg/10707.m3u8
-#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" tvg-url="" group-title="",RTL
-https://s1.hopslan.com/rtl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
 https://s4.hopslan.com/rtl2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Super RTL" tvg-name="Super RTL" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/4.png" tvg-url="" group-title="",Super RTL
-https://s1.hopslan.com/super/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Nitro" tvg-name="Nitro" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/6.png" tvg-url="" group-title="",Nitro
 https://s2.hopslan.com/nitrol/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Pro7" tvg-name="Pro7" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7-logo.png" tvg-url="" group-title="",Pro7
-https://s1.hopslan.com/pro7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kabel1" tvg-name="kabel1" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/kabel1doku-logo.png" tvg-url="" group-title="",kabel1
-https://s1.hopslan.com/kabel1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sat1" tvg-name="sat1" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" tvg-url="" group-title="",sat1
-https://s1.hopslan.com/sat1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sixx" tvg-name="sixx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sixx-logo.png" tvg-url="" group-title="",sixx
-https://s1.hopslan.com/sixx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pro7maxx" tvg-name="pro7maxx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" tvg-url="" group-title="",pro7maxx
 https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tele5" tvg-name="tele5" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/tele5-logo.png" tvg-url="" group-title="",tele5
 https://s3.hopslan.com/tele55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png tvg-url="" group-title="",COMEDY CENTRAL
 https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png" tvg-url="" group-title="",DMAX
-https://s1.hopslan.com/dmax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="N-tv" tvg-name="N-tv" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/5.png" tvg-url="" group-title="",N-tv
-https://s1.hopslan.com/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" tvg-url="" group-title="",Vox 
-https://s1.hopslan.com/vox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="Anixe HD" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/641px-Anixe_HD.svg.png" tvg-url="" group-title="",Anixe HD (720p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-id="CampusTVMagdeburg.de" tvg-name="Campus TV Magdeburg" tvg-country="DE" tvg-language="German" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-url="" group-title="",Campus TV Magdeburg (1080p)
@@ -134,8 +108,6 @@ http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8
 #EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="München TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-url="" group-title="",München TV (1080p)
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="orf1.de" tvg-name="orf1" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png" tvg-url="" group-title="",orf1
-https://s1.hopslan.com/orf1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-url="" group-title="",NDR Fernsehen (720p)
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 #EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-url="" group-title="",NDR Fernsehen (540p)
@@ -248,12 +220,6 @@ https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
 https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-url="" group-title="",TeleBärn (720p)
 https://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8
-#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="",TeleBärn
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index.m3u8
-#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-url="" group-title="",TeleBärn (720p)
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
-#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-url="" group-title="",TeleBärn
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8
 #EXTINF:-1 tvg-id="teltowkanal.de" tvg-name="teltOwkanal" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/05UB2YT.png" tvg-url="" group-title="",TeltOwkanal (1080p)
 https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/chunklist_w432758340.m3u8?ref=www.teltowkanal.de
 #EXTINF:-1 tvg-id="teltowkanal.de" tvg-name="teltOwkanal" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/05UB2YT.png" tvg-url="" group-title="",TeltOwkanal (1080p)
@@ -290,8 +256,6 @@ http://152.89.62.111:8080/m123/m123/146533
 https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",A & E
 http://mail.vipmek.com:8800/565656/565656/48073
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD
-https://s1.hopslan.com/ard/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD-alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="http" group-title="Undefined",ARD-alpha
@@ -310,8 +274,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf26
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b6f8a12a-554c-4970-82ca-4dc1f84a4016&deviceId=d548b050-1c0f-11eb-8801-b9710ba01352&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="Undefined",Auction Hunters
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=58a8da20-057f-11eb-9b92-0242ac110002&deviceId=5ede45d077746000072be0fe&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Augsburg TV
-http://mail.vipmek.com:8800/565656/565656/48130
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Sport",Auto Motor Sport
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",BBL SPORT 1 SPIELTAG
@@ -326,8 +288,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/play
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/D5wePo5.jpg" group-title="Undefined",BLK TV Hohenmцlsen
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?&ref=medienportal-sachsen-&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BOOMERANG HD
-http://152.89.62.111:8080/m123/m123/146526
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BR FERNSEHEN
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BR FERNSEHEN
@@ -500,3 +460,45 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="Super RTL" tvg-name="Super RTL" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/4.png" tvg-url="" group-title="",Super RTL
+https://s1.hopslan.com/super/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-url="" group-title="",a.tv (1080p)
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.
+#EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF HD
+https://s1.hopslan.com/zdf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF HD(backup)
+https://www.webhd.pw/cdn/403.m3u8?c6.xcxc.cf/web/1/www.tvdelive.com/c10/1616424140/Ny6LOVcoVtNeH6ZsN0p4xg/10687.m3u8&151.241.4.237&invalid
+#EXTINF:-1 tvg-id="Welt (N24)" tvg-name="Welt (N24)" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Welt (N24)
+https://www.webhd.pw/?c3.xcxc.cf/web/1/www.tvdelive.com/c10/1616422553/Z5S1YdhXmp3_KzRWX_nvkg/10707.m3u8
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" tvg-url="" group-title="",RTL
+https://s1.hopslan.com/rtl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Pro7" tvg-name="Pro7" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7-logo.png" tvg-url="" group-title="",Pro7
+https://www.webhd.pw/cdn/403.m3u8?c6.xcxc.cf/web/1/www.tvdelive.com/c10/1616424344/TSBPAF8LFW6fRzDfPRgsxQ/10695.m3u8&151.241.4.237&invalid
+#EXTINF:-1 tvg-id="kabel1" tvg-name="kabel1" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/kabel1doku-logo.png" tvg-url="" group-title="",kabel1
+https://s1.hopslan.com/kabel1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sat1" tvg-name="sat1" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" tvg-url="" group-title="",sat1
+https://s1.hopslan.com/sat1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sixx" tvg-name="sixx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sixx-logo.png" tvg-url="" group-title="",sixx
+https://s1.hopslan.com/sixx/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png" tvg-url="" group-title="",DMAX
+https://s1.hopslan.com/dmax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="N-tv" tvg-name="N-tv" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/5.png" tvg-url="" group-title="",N-tv
+https://s1.hopslan.com/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" tvg-url="" group-title="",Vox 
+https://s1.hopslan.com/vox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="orf1.de" tvg-name="orf1" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png" tvg-url="" group-title="",orf1
+https://s1.hopslan.com/orf1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="",TeleBärn
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index.m3u8
+#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-url="" group-title="",TeleBärn (720p)
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
+#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-url="" group-title="",TeleBärn
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD
+https://s1.hopslan.com/ard/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Augsburg TV
+http://mail.vipmek.com:8800/565656/565656/48130
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BOOMERANG HD
+http://152.89.62.111:8080/m123/m123/146526
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Channel
+https://www.webhd.pw/cdn/403.m3u8?c6.xcxc.cf/web/1/www.tvdelive.com/c10/1616424127/RUlalD00w3vo-igI-i-HRw/11721.m3u8&151.241.4.237&invalid
