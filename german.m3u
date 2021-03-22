@@ -460,8 +460,6 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="Super RTL" tvg-name="Super RTL" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/4.png" tvg-url="" group-title="",Super RTL
-https://s1.hopslan.com/super/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-url="" group-title="",a.tv (1080p)
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.
 #EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF HD
@@ -470,49 +468,261 @@ https://c6.xcxc.cf/web/1/www.de24.live/c10/1616422983/nbNn-DmsHkF6uCaHpQuQCA/106
 https://www.webhd.pw/cdn/403.m3u8?c6.xcxc.cf/web/1/www.tvdelive.com/c10/1616424140/Ny6LOVcoVtNeH6ZsN0p4xg/10687.m3u8&151.241.4.237&invalid
 #EXTINF:-1 tvg-id="Welt (N24)" tvg-name="Welt (N24)" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Welt (N24)
 https://www.webhd.pw/?c3.xcxc.cf/web/1/www.tvdelive.com/c10/1616422553/Z5S1YdhXmp3_KzRWX_nvkg/10707.m3u8
-#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/1.png" tvg-url="" group-title="",RTL
-https://s1.hopslan.com/rtl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Pro7" tvg-name="Pro7" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7-logo.png" tvg-url="" group-title="",Pro7
-https://www.webhd.pw/cdn/403.m3u8?c6.xcxc.cf/web/1/www.tvdelive.com/c10/1616424344/TSBPAF8LFW6fRzDfPRgsxQ/10695.m3u8&151.241.4.237&invalid
-#EXTINF:-1 tvg-id="kabel1" tvg-name="kabel1" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/kabel1doku-logo.png" tvg-url="" group-title="",kabel1
-https://s1.hopslan.com/kabel1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sat1" tvg-name="sat1" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sat1-logo.png" tvg-url="" group-title="",sat1
-https://s1.hopslan.com/sat1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sixx" tvg-name="sixx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/sixx-logo.png" tvg-url="" group-title="",sixx
-https://s1.hopslan.com/sixx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png" tvg-url="" group-title="",DMAX
-https://s1.hopslan.com/dmax/tracks-v1a1/mono.m3u8
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203849
 #EXTINF:-1 tvg-id="N-tv" tvg-name="N-tv" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/5.png" tvg-url="" group-title="",N-tv
-https://s1.hopslan.com/ntv/tracks-v1a1/mono.m3u8
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203854
 #EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" tvg-url="" group-title="",Vox 
-https://s1.hopslan.com/vox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="orf1.de" tvg-name="orf1" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2020/07/29.png" tvg-url="" group-title="",orf1
-https://s1.hopslan.com/orf1/tracks-v1a1/mono.m3u8
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203864
 #EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="",TeleBärn
 https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index.m3u8
 #EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-url="" group-title="",TeleBärn (720p)
 https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
 #EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-url="" group-title="",TeleBärn
 https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD
-https://s1.hopslan.com/ard/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Augsburg TV
 http://mail.vipmek.com:8800/565656/565656/48130
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BOOMERANG HD
 http://152.89.62.111:8080/m123/m123/146526
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Channel
 https://www.webhd.pw/cdn/403.m3u8?c6.xcxc.cf/web/1/www.tvdelive.com/c10/1616424127/RUlalD00w3vo-igI-i-HRw/11721.m3u8&151.241.4.237&invalid
-#EXTINF:-1,DE: ZDF NEO
-http://live.iptv-ksa.com:80/yunis2/yunis2/166475
-#EXTINF:-1,DE: ZDF INFO
-http://live.iptv-ksa.com:80/yunis2/yunis2/166476
-#EXTINF:-1,DE: ZDF HD
-http://live.iptv-ksa.com:80/yunis2/yunis2/166477
-#EXTINF:-1,DE: ZDF
-http://live.iptv-ksa.com:80/yunis2/yunis2/166478
 #EXTINF:-1,DE: ZDF NEO HD
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203865
 #EXTINF:-1,DE: ZDF Info
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203866
 #EXTINF:-1,DE: ZDF
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203867
+#EXTINF:-1,DE: Nick JR. HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203749
+#EXTINF:-1,DE: Goldstar TV HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203750
+#EXTINF:-1,DE: Comedy Central HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203751
+#EXTINF:-1,DE: ARD ONE HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203752
+#EXTINF:-1,DE: MDR HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203753
+#EXTINF:-1,DE: Phoenix HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203754
+#EXTINF:-1,DE: One
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203755
+#EXTINF:-1,DE: Romance TV
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203756
+#EXTINF:-1,DE: Spiegel Geschichte
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203757
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203758
+#EXTINF:-1,DE: TOGGO
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203759
+#EXTINF:-1,DE: ZEE ONE
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203760
+#EXTINF:-1,DE: Sky Select 8
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203761
+#EXTINF:-1,DE: Sky Select 7
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203762
+#EXTINF:-1,DE: SKY SELECT 6
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203763
+#EXTINF:-1,DE: SKY SELECT 5
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203764
+#EXTINF:-1,DE: SKY SELECT 4
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203765
+#EXTINF:-1,DE: SKY SELECT 3
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203766
+#EXTINF:-1,DE: SKY SELECT 2
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203767
+#EXTINF:-1,DE: SKY SELECT 1
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203768
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203769
+#EXTINF:-1,DE: Sky Germany Bundesliga 9 HD (ONLY ON MATCHDAY)
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203770
+#EXTINF:-1,DE: Sky Germany Bundesliga 8 HD (ONLY ON MATCHDAY)
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203771
+#EXTINF:-1,DE: Sky Germany Bundesliga 7 HD (ONLY ON MATCHDAY)
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203772
+#EXTINF:-1,DE: Sky Germany Bundesliga 6 HD (ONLY ON MATCHDAY)
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203773
+#EXTINF:-1,DE: Sky Germany Bundesliga 5 HD (ONLY ON MATCHDAY)
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203774
+#EXTINF:-1,DE: Sky Germany Bundesliga 4 HD (ONLY ON MATCHDAY)
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203775
+#EXTINF:-1,DE: Sky Germany Bundesliga 3 HD (ONLY ON MATCHDAY)
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203776
+#EXTINF:-1,DE: Sky Germany Bundesliga 2 HD (ONLY ON MATCHDAY)
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203777
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203778
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203779
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203780
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203781
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203782
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203783
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203784
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203785
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203786
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203787
+#EXTINF:-1,DE: Sky Sport News HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203788
+#EXTINF:-1,DE: sky sport austria
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203789
+#EXTINF:-1,DE: Sky Universal HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203790
+#EXTINF:-1,DE: Sony HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203791
+#EXTINF:-1,DE: Kinowelt TV FHD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203792
+#EXTINF:-1,DE: 3 SAT FHD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203793
+#EXTINF:-1,DE: Sky Disney Junior HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203794
+#EXTINF:-1,DE: Sky Krimi HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203795
+#EXTINF:-1,DE: Sky Cinema Thriller HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203796
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203797
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203798
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203799
+#EXTINF:-1,DE: SKY CINEMA  Premieren +24
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203800
+#EXTINF:-1,DE: Sky Cinema HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203801
+#EXTINF:-1,DE: Sky Cinema  Premieren HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203802
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203803
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203804
+#EXTINF:-1,DE: Sky Cinema Nostalgie
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203805
+#EXTINF:-1,DE: SKY ONE HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203806
+#EXTINF:-1,DE: PLANET FHD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203807
+#EXTINF:-1,DE: E! Enterteinment
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203808
+#EXTINF:-1,DE: Arte HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203809
+#EXTINF:-1,DE: NDR HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203810
+#EXTINF:-1,DE: History HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203811
+#EXTINF:-1,DE: WDR HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203812
+#EXTINF:-1,DE: Deluxe Music HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203813
+#EXTINF:-1,DE: Syfy
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203814
+#EXTINF:-1,DE: Heimat Kanal
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203815
+#EXTINF:-1,DE: TLC
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203816
+#EXTINF:-1,DE: Sat 1 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203817
+#EXTINF:-1,DE: RTL
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203818
+#EXTINF:-1,DE: RTL2
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203819
+#EXTINF:-1,DE: SUPER RTL HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203820
+#EXTINF:-1,DE: RTL Passion HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203821
+#EXTINF:-1,DE: RTL NITRO
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203822
+#EXTINF:-1,DE: RTL Crime HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203823
+#EXTINF:-1,DE: Nickelodeon HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203824
+#EXTINF:-1,DE: Kika
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203825
+#EXTINF:-1,DE: Sport 1+  HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203826
+#EXTINF:-1,DE: Disney XD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203827
+#EXTINF:-1,DE: Disney Channel
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203828
+#EXTINF:-1,DE: Disney Junior
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203829
+#EXTINF:-1,DE: ORF SPORTS HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203830
+#EXTINF:-1,DE: Orf 2
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203831
+#EXTINF:-1,DE: Orf 1
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203832
+#EXTINF:-1,DE: National Geographic Wild HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203833
+#EXTINF:-1,DE: National Geographic HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203834
+#EXTINF:-1,DE: Discovery HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203835
+#EXTINF:-1,DE: My Sports HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203836
+#EXTINF:-1,DE: Sky 13th Street
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203837
+#EXTINF:-1,DE: N24
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203838
+#EXTINF:-1,DE: ARD Alpha HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203839
+#EXTINF:-1,DE: AXN HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203840
+#EXTINF:-1,DE: Boomerang
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203841
+#EXTINF:-1,DE: Cartoon Network
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203842
+#EXTINF:-1,DE: Classica
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203843
+#EXTINF:-1,DE: Das Erste
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203844
+#EXTINF:-1,DE: TNT Comedy HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203845
+#EXTINF:-1,DE: TNT Film FHD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203846
+#EXTINF:-1,DE: TNT Serie HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203847
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203848
+#EXTINF:-1,DE: DMAX
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203849
+#EXTINF:-1,DE: Eurosport 2 xtra HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203850
+#EXTINF:-1,DE: Eurosport 2 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203851
+#EXTINF:-1,DE: Eurosport 1 HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203852
+#EXTINF:-1,DE: Sky Fox HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203853
+#EXTINF:-1,DE: RTL Living
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203855
+#EXTINF:-1,DE: Pro7 Fun HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203856
+#EXTINF:-1,DE: Prosieben HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203857
+#EXTINF:-1,DE: PROSIEBEN MAXX
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203858
+#EXTINF:-1,DE: KABEL 1 CLASSIC
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203859
+#EXTINF:-1,DE: Kabel 1
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203860
+#EXTINF:-1,DE: KABEL 1 DOKU
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203861
+#EXTINF:-1,DE: Servus TV
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203862
+#EXTINF:-1,DE: SIXX
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203863
+#EXTINF:-1,DE: sat 1 emotions
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203868
+#EXTINF:-1,DE: DAZN Bar 2
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203869
+#EXTINF:-1,DE: DAZN Bar 1
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203870
