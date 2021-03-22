@@ -465,7 +465,7 @@ https://s1.hopslan.com/super/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-url="" group-title="",a.tv (1080p)
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.
 #EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF HD
-https://c6.xcxc.cf/web/1/www.de24.live/c10/1616422726/N3ESlnBUd7esv4miBZPXtw/10687.m3u8
+https://c6.xcxc.cf/web/1/www.de24.live/c10/1616422983/nbNn-DmsHkF6uCaHpQuQCA/10687.m3u8
 #EXTINF:-1 tvg-id="ZDF HD" tvg-name="ZDF HD" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",ZDF HD(backup)
 https://www.webhd.pw/cdn/403.m3u8?c6.xcxc.cf/web/1/www.tvdelive.com/c10/1616424140/Ny6LOVcoVtNeH6ZsN0p4xg/10687.m3u8&151.241.4.237&invalid
 #EXTINF:-1 tvg-id="Welt (N24)" tvg-name="Welt (N24)" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Welt (N24)
@@ -502,3 +502,17 @@ http://mail.vipmek.com:8800/565656/565656/48130
 http://152.89.62.111:8080/m123/m123/146526
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Channel
 https://www.webhd.pw/cdn/403.m3u8?c6.xcxc.cf/web/1/www.tvdelive.com/c10/1616424127/RUlalD00w3vo-igI-i-HRw/11721.m3u8&151.241.4.237&invalid
+#EXTINF:-1,DE: ZDF NEO
+http://live.iptv-ksa.com:80/yunis2/yunis2/166475
+#EXTINF:-1,DE: ZDF INFO
+http://live.iptv-ksa.com:80/yunis2/yunis2/166476
+#EXTINF:-1,DE: ZDF HD
+http://live.iptv-ksa.com:80/yunis2/yunis2/166477
+#EXTINF:-1,DE: ZDF
+http://live.iptv-ksa.com:80/yunis2/yunis2/166478
+#EXTINF:-1,DE: ZDF NEO HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203865
+#EXTINF:-1,DE: ZDF Info
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203866
+#EXTINF:-1,DE: ZDF
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203867
