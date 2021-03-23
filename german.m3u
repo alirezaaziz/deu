@@ -5,18 +5,16 @@ https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_4.m3u8
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="",ORF 3 (720p)
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport +" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" tvg-url="" group-title="Sport",ORF Sport + (540p)
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 #EXTINF:-1,SIXX
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203863
+https://fernsehzone.online/2ix2.php/sixx/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Disney Channel
 https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616502810/FMff0MIIcRbXOZUetwCMFA/11721.m3u8
 #EXTINF:-1,ZDF
 https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616502901/fqvTqMtEHIwWIcsg8-8M9g/10687.m3u8
 #EXTINF:-1,Kabel 1
-https://c3.xcxc.cf/web/1/www.24detv.de/c10/1616502992/jS5tb6r9a-ucjmmduLsP-w/10689.m3u8
+https://fernsehzone.online/2ix2.php/kabel1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" tvg-url="" group-title="",Vox 
-https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503059/BAuNEWC9pCHC2CdyHRxe0A/10690.m3u8
+https://fernsehzone.online/2ix2.php/vox/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTL
 https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503128/Qh10MHffTSyMH5V-bmMbDw/10691.m3u8
 #EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
