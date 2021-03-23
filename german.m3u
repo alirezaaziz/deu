@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-url="" group-title="General",ORF 1 (540p)
-https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616502569/x_oRZMzmA8grtftLE85_tA/11762.m3u8
+https://s1.hopslan.com/orf1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png" tvg-url="" group-title="",ORF 2 (720p)
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="",ORF 3 (720p)
@@ -458,3 +458,13 @@ https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJ
 http://mail.vipmek.com:8800/565656/565656/48130
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BOOMERANG HD
 http://152.89.62.111:8080/m123/m123/146526
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Vox HD
+http://152.89.62.111:8080/m123/m123/146409
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VOX HEVC
+http://152.89.62.111:8080/m123/m123/146627
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",VOX
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/31537
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",VOX FHD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/82800
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",VOX MUSIC TV
+http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/33450
