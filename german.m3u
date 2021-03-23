@@ -1,4 +1,72 @@
 #EXTM3U
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deutsche Welle
+https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW+
+https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW
+https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW,DW CHANNEL,DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW (EN),DW English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW English
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW English
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",Deutsche Welle (EN),DW English
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/icDGduB.png" group-title="News;Undefined",DW Español,DW Espaсol
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/icDGduB.png" group-title="News",DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-url="" group-title="News",Deutsche Welle (400p)
+https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",Deutsche Welle (400p)
+https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News;Undefined",DE | Deutsche Welle Arabic,Deutsche Welle Arabic,DW (AR),DW Arabia
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News;Undefined",DE | Deutsche Welle Español,Deutsche Welle Español,DW Español,DW Espaсol
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-Deutsche-Welle+
+http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (720p)
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" tvg-url="" group-title="",Das Erste HD (720p)
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" tvg-url="" group-title="",Das Erste HD (720p)
+https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE FHD
+http://152.89.62.111:8080/m123/m123/146274
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE HD
+http://152.89.62.111:8080/m123/m123/146521
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Undefined",Das Erste
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Undefined",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das Erste HD
+http://mail.vipmek.com:8800/565656/565656/48186
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:-1,Das Erste
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203844
 #EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
 https://s4.hopslan.com/rtl2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Nitro" tvg-name="Nitro" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/6.png" tvg-url="" group-title="",Nitro
@@ -17,17 +85,9 @@ http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9fAlB8K.png" tvg-url="" group-title="",Couleur 3 (720p)
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" tvg-url="" group-title="",Das Erste HD (720p)
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" tvg-url="" group-title="",Das Erste HD (720p)
-https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",Deutsche Welle (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-url="" group-title="News",Deutsche Welle (400p)
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",Deutsche Welle (400p)
-https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="deutsches-musik-fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" tvg-url="" group-title="",Deutsches Musik Fernsehen (720p)
 https://tv.artcom-venture.de/dmf/tv.m3u8
 #EXTINF:-1 tvg-id="DieNeueZeit.ch" tvg-name="Die Neue Zeit" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" tvg-url="" group-title="",Die Neue Zeit (576p)
@@ -206,8 +266,6 @@ http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
 https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",SR Fernsehen (720p)
 http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (720p)
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-id="TeinsTV.at" tvg-name="Teins TV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/KJie1k5.png" tvg-url="" group-title="",Teins TV (1080p)
 https://live1.markenfunk.com/t1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleM1.de" tvg-name="Tele M1" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Tele M1
@@ -354,22 +412,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4948418101147596
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7b8923fc302800079e4f4f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=ee59b770-663e-4463-bf9b-3f7c374fbc39&deviceId=5e7b8923fc302800079e4f4f&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png" group-title="Undefined",Crime
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7b6c60fd20c50007910bf5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b2da8f50-0581-11eb-97af-0242ac110002&deviceId=5e7b6c60fd20c50007910bf5&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE FHD
-http://152.89.62.111:8080/m123/m123/146274
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE HD
-http://152.89.62.111:8080/m123/m123/146521
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAZN 1 Bar HD
 http://mail.vipmek.com:8800/565656/565656/48096
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAZN 2 Bar HD
 http://mail.vipmek.com:8800/565656/565656/48095
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAZN 2 Bar HEVC
 http://152.89.62.111:8080/m123/m123/146582
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News;Undefined",DE | Deutsche Welle Arabic,Deutsche Welle Arabic,DW (AR),DW Arabia
-https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News;Undefined",DE | Deutsche Welle Español,Deutsche Welle Español,DW Español,DW Espaсol
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-Deutsche-Welle+
-http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-HR-Fernsehen+,HR
 http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-Offener-Kanal-Magdeburg+
@@ -390,56 +438,10 @@ http://mail.vipmek.com:8800/565656/565656/48072
 http://152.89.62.111:8080/m123/m123/146303
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DRF 1 HD
 http://152.89.62.111:8080/m123/m123/146513
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW+
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW
-https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW,DW CHANNEL,DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW (EN),DW English
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW English
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW English
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",Deutsche Welle (EN),DW English
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/icDGduB.png" group-title="News;Undefined",DW Español,DW Espaсol
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/icDGduB.png" group-title="News",DW Español
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e843d849109b700075d5ada/colorLogoPNG.png" group-title="Undefined",Dark Matter
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e843d849109b700075d5ada/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=ddc64e1e-0581-11eb-82fe-0242ac110002&deviceId=5e843d849109b700075d5ada&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Undefined",Das Erste
-https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Undefined",Das Erste
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das Erste HD
-http://mail.vipmek.com:8800/565656/565656/48186
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das Erste HD
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deluxe Music HD
 http://mail.vipmek.com:8800/565656/565656/48052
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deutsche Welle
-https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
@@ -678,8 +680,6 @@ http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203841
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203842
 #EXTINF:-1,Classica
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203843
-#EXTINF:-1,Das Erste
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203844
 #EXTINF:-1,TNT Comedy HD
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203845
 #EXTINF:-1,TNT Film FHD
