@@ -25,10 +25,20 @@ https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (720p)
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8&checkedby
+#EXTINF:0 tvg-country="DE" tvg-logo="http" group-title="Undefined",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png" group-title="Undefined",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" tvg-url="" group-title="",Das Erste HD (720p)
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" tvg-url="" group-title="",Das Erste HD (720p)
 https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
+#EXTINF:-1,ARD Alpha HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203839
+#EXTINF:-1,ARD ONE HD
+http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203752
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE FHD
 http://152.89.62.111:8080/m123/m123/146274
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE HD
@@ -286,12 +296,6 @@ http://152.89.62.111:8080/m123/m123/146533
 https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",A & E
 http://mail.vipmek.com:8800/565656/565656/48073
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD-alpha
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="http" group-title="Undefined",ARD-alpha
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png" group-title="Undefined",ARD-alpha
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ATV HD
 http://mail.vipmek.com:8800/565656/565656/48171
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",AXN FHD
@@ -468,8 +472,6 @@ http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203749
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203750
 #EXTINF:-1,Comedy Central HD
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203751
-#EXTINF:-1,ARD ONE HD
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203752
 #EXTINF:-1,MDR HD
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203753
 #EXTINF:-1,Phoenix HD
@@ -642,8 +644,6 @@ http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203836
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203837
 #EXTINF:-1,N24
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203838
-#EXTINF:-1,ARD Alpha HD
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203839
 #EXTINF:-1,AXN HD
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203840
 #EXTINF:-1,Boomerang
