@@ -1,86 +1,52 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-url="" group-title="General",ORF 1 (540p)
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616502569/x_oRZMzmA8grtftLE85_tA/11762.m3u8
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png" tvg-url="" group-title="",ORF 2 (720p)
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="",ORF 3 (720p)
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport +" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" tvg-url="" group-title="Sport",ORF Sport + (540p)
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:-1,ORF SPORTS HD
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203830
-#EXTINF:-1,Orf 2
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203831
-#EXTINF:-1,Orf 1
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203832
 #EXTINF:-1,SIXX
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203863
-#EXTINF:-1,Disney Cinemagic HD
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203848
-#EXTINF:-1,Disney XD
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203827
 #EXTINF:-1,Disney Channel
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203828
-#EXTINF:-1,Disney Junior
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203829
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DISNEY CINEMAGIC
-http://supersonictv.live:25461/903310/034806/78342
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Disney Channel
-https://www.webhd.pw/cdn/403.m3u8?c6.xcxc.cf/web/1/www.tvdelive.com/c10/1616424127/RUlalD00w3vo-igI-i-HRw/11721.m3u8&151.241.4.237&invalid
+https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616502810/FMff0MIIcRbXOZUetwCMFA/11721.m3u8
 #EXTINF:-1,ZDF NEO HD
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203865
 #EXTINF:-1,ZDF Info
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203866
 #EXTINF:-1,ZDF
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203867
+https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616502901/fqvTqMtEHIwWIcsg8-8M9g/10687.m3u8
 #EXTINF:-1,KABEL 1 CLASSIC
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203859
 #EXTINF:-1,Kabel 1
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203860
+https://c3.xcxc.cf/web/1/www.24detv.de/c10/1616502992/jS5tb6r9a-ucjmmduLsP-w/10689.m3u8
 #EXTINF:-1,KABEL 1 DOKU
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203861
 #EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" tvg-url="" group-title="",Vox 
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203864
+https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503059/BAuNEWC9pCHC2CdyHRxe0A/10690.m3u8
+#EXTINF:-1,RTL
+https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503128/Qh10MHffTSyMH5V-bmMbDw/10691.m3u8
 #EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
 https://s4.hopslan.com/rtl2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTL
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203818
-#EXTINF:-1,RTL2
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203819
-#EXTINF:-1,SUPER RTL HD
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203820
-#EXTINF:-1,RTL Passion HD
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203821
 #EXTINF:-1,RTL NITRO
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203822
-#EXTINF:-1,RTL Crime HD
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203823
-#EXTINF:-1,RTL Living
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203855
+https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503218/arWQ_QVjcwDyUx8o6B53HA/10694.m3u8
 #EXTINF:-1,Sat 1 HD
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203817
 #EXTINF:-1,sat 1 emotions
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203868
 #EXTINF:-1 tvg-id="pro7maxx" tvg-name="pro7maxx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" tvg-url="" group-title="",pro7maxx
 https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PROSIEBEN MAXX
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203858
 #EXTINF:-1 tvg-id="tele5" tvg-name="tele5" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/tele5-logo.png" tvg-url="" group-title="",tele5
 https://s3.hopslan.com/tele55/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DMAX HD
-http://mail.vipmek.com:8800/565656/565656/48072
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png" tvg-url="" group-title="",DMAX
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203849
-#EXTINF:-1,DMAX
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203849
+#EXTINF:0 tvg-country="DE" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png" group-title="Undefined",DMAX HD
+https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503422/vjKRU4PT_hhDFGQ3o1kJJw/10704.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3SAT HD
 http://152.89.62.111:8080/m123/m123/146533
 #EXTINF:0 tvg-country="DE" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/8.png" group-title="Undefined",3SAT HD
 https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
 #EXTINF:-1,N24
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203838
-#EXTINF:-1 tvg-id="Welt (N24)" tvg-name="Welt (N24)" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Welt (N24)
-https://www.webhd.pw/?c3.xcxc.cf/web/1/www.tvdelive.com/c10/1616422553/Z5S1YdhXmp3_KzRWX_nvkg/10707.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deutsche Welle
 https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
