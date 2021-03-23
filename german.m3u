@@ -25,20 +25,14 @@ https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (720p)
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD-alpha
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="http" group-title="Undefined",ARD-alpha
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png" group-title="Undefined",ARD-alpha
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (540p)
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_1992_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-tagesschau24+,tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" tvg-url="" group-title="",Das Erste HD (720p)
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" tvg-url="" group-title="",Das Erste HD (720p)
 https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
-#EXTINF:-1,ARD Alpha HD
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203839
-#EXTINF:-1,ARD ONE HD
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203752
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE FHD
 http://152.89.62.111:8080/m123/m123/146274
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE HD
@@ -398,8 +392,6 @@ http://152.89.62.111:8080/m123/m123/146582
 http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-Offener-Kanal-Magdeburg+
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-tagesschau24+,tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",DEL SPORT 2 SPIELTAG
 http://152.89.62.111:8080/m123/m123/146569
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",DEL SPORT 7 SPIELTAG
