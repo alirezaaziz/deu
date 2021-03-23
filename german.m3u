@@ -16,9 +16,11 @@ https://fernsehzone.online/2ix2.php/kabel1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" tvg-url="" group-title="",Vox 
 https://fernsehzone.online/2ix2.php/vox/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTL
-https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503128/Qh10MHffTSyMH5V-bmMbDw/10691.m3u8
+https://s3.xn--stream-oe64e.gq/json/go/Njg3NDc0NzA3MzI1MzM0MTI1MzI0NjI1MzI0NjZjNjk3NjY1NzM2MzY4NjE3NTY1NmUyZTYzNmY2ZDI1MzI0NjI1MzIzMzcyNzQ2YzJkMzEyZTcwNjg3MA==~/~NjM2NDZlNzM2NTY1NmIyZTc4Nzk3YTNhMzgzNDM0MzM=~/~/6c697665/72746c6864/chunks.m3u81a.doc
 #EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
 https://s4.hopslan.com/rtl2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
+https://fernsehzone.online/2ix23.php/rtl2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTL NITRO
 https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503218/arWQ_QVjcwDyUx8o6B53HA/10694.m3u8
 #EXTINF:-1 tvg-id="Nitro" tvg-name="Nitro" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/6.png" tvg-url="" group-title="",Nitro
@@ -27,6 +29,8 @@ https://s2.hopslan.com/nitrol/tracks-v1a1/mono.m3u8
 https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503867/L2Jo6MDMG8S0TTXlGBSxhQ/10699.m3u8
 #EXTINF:-1 tvg-id="pro7maxx" tvg-name="pro7maxx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" tvg-url="" group-title="",pro7maxx
 https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pro7maxx" tvg-name="pro7maxx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" tvg-url="" group-title="",pro7maxx
+https://fernsehzone.online/2ix22.php/pro7maxx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tele5" tvg-name="tele5" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/tele5-logo.png" tvg-url="" group-title="",tele5
 https://s3.hopslan.com/tele55/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png" group-title="Undefined",DMAX HD
