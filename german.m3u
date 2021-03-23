@@ -11,18 +11,10 @@ https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203863
 #EXTINF:-1,Disney Channel
 https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616502810/FMff0MIIcRbXOZUetwCMFA/11721.m3u8
-#EXTINF:-1,ZDF NEO HD
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203865
-#EXTINF:-1,ZDF Info
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203866
 #EXTINF:-1,ZDF
 https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616502901/fqvTqMtEHIwWIcsg8-8M9g/10687.m3u8
-#EXTINF:-1,KABEL 1 CLASSIC
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203859
 #EXTINF:-1,Kabel 1
 https://c3.xcxc.cf/web/1/www.24detv.de/c10/1616502992/jS5tb6r9a-ucjmmduLsP-w/10689.m3u8
-#EXTINF:-1,KABEL 1 DOKU
-http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203861
 #EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" tvg-url="" group-title="",Vox 
 https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503059/BAuNEWC9pCHC2CdyHRxe0A/10690.m3u8
 #EXTINF:-1,RTL
