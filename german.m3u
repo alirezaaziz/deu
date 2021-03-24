@@ -5,16 +5,6 @@ https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_4.m3u8
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="",ORF 3 (720p)
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:-1,SIXX
-https://fernsehzone.online/2ix2.php/sixx/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Disney Channel
-https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616502810/FMff0MIIcRbXOZUetwCMFA/11721.m3u8
-#EXTINF:-1,ZDF
-http://185.23.213.162:8789/live/ania/ania/23777.m3u8
-#EXTINF:-1,Kabel 1
-https://fernsehzone.online/2ix2.php/kabel1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/3.png" tvg-url="" group-title="",Vox 
-https://fernsehzone.online/2ix2.php/vox/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTL
 http://rv.imax.re:80/4334276722/8502631953/81618
 #EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
@@ -33,8 +23,6 @@ https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
 https://fernsehzone.online/2ix22.php/pro7maxx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tele5" tvg-name="tele5" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/tele5-logo.png" tvg-url="" group-title="",tele5
 https://s3.hopslan.com/tele55/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/dmax-logo.png" group-title="Undefined",DMAX HD
-https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503422/vjKRU4PT_hhDFGQ3o1kJJw/10704.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3SAT HD
 http://152.89.62.111:8080/m123/m123/146533
 #EXTINF:0 tvg-country="DE" tvg-logo="https://2ix2.com/wp-content/uploads/2020/06/8.png" group-title="Undefined",3SAT HD
