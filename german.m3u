@@ -17,12 +17,8 @@ https://s2.hopslan.com/nitrol/tracks-v1a1/mono.m3u8
 https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503867/L2Jo6MDMG8S0TTXlGBSxhQ/10699.m3u8
 #EXTINF:-1 tvg-id="pro7maxx" tvg-name="pro7maxx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" tvg-url="" group-title="",pro7maxx
 https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pro7maxx" tvg-name="pro7maxx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" tvg-url="" group-title="",pro7maxx
-https://fernsehzone.online/2ix22.php/pro7maxx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" tvg-country="DE" tvg-url="" group-title="German",Prosieben
 http://188.35.9.5:10020/stolen/496w/hot.dll
-#EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" tvg-country="DE" tvg-url="" group-title="German",Prosieben
-https://wer1.wertvlive.com/d1/video.m3u8
 #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-language="German" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/prosiebenmaxx/logo/prosiebenmaxx_ox__W1000xh0.jpg" tvg-country="DE" tvg-url="" group-title="German",Prosieben Maxx
 http://188.35.9.5:10020/stolen/500w/hot.dll
 #EXTINF:-1 tvg-id="tele5" tvg-name="tele5" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/tele5-logo.png" tvg-url="" group-title="",tele5
