@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,DE.ZDF
+http://dreamstariptv.live:8080/live/H2NG91yYMp/1WqM1yl2sG/15713.m3u8
+#EXTINF:-1,DE.ZDF_neo
+http://dreamstariptv.live:8080/live/H2NG91yYMp/1WqM1yl2sG/15714.m3u8
+#EXTINF:-1,DE.ZDFinfo
+http://dreamstariptv.live:8080/live/H2NG91yYMp/1WqM1yl2sG/15715.m3u8
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-url="" group-title="General",ORF 1 (540p)
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_4.m3u8
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png" tvg-url="" group-title="",ORF 2 (720p)
