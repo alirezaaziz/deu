@@ -81,8 +81,6 @@ https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AVA Family" tvg-logo="https://i.imgur.com/izRMFzC.jpg" group-title="IRAN",AVA Family
 http://51.210.199.5/hls/stream.m3u8
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM CLASSIC
-http://rv.imax.re:80/4822570279/8799305052/84139
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/7dQioKG.png" group-title="Undefined",GEM 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/7dQioKG.png" group-title="Undefined",GEM AZ

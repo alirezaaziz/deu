@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1, ZDF HD
+http://rv.therevenge.co:80/1234560/1234560/81626
+#EXTINF:-1, ARD HD
+http://rv.therevenge.co:80/1234560/1234560/81625
+#EXTINF:-1, ZDF
+http://rv.therevenge.co:80/1234560/1234560/81624
+#EXTINF:-1, ZDF INFO
+http://rv.therevenge.co:80/1234560/1234560/81623
+#EXTINF:-1, ZDF NEO
+http://rv.therevenge.co:80/1234560/1234560/81622
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-url="" group-title="General",ORF 1 (540p)
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_4.m3u8
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png" tvg-url="" group-title="",ORF 2 (720p)
@@ -589,12 +599,6 @@ https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/smyvTHD.jpg" tvg-country="DE" tvg-url="" group-title="German",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1,##### |DE| GERMANY | HEVC (4K) #####
-http://rv.therevenge.co:80/1234560/1234560/83206
-#EXTINF:-1,##### |DE| FTA - HD  | HEVC (4K) #####
-http://rv.therevenge.co:80/1234560/1234560/83205
-#EXTINF:-1,|DE|HEVC| CORONA VIRUS INFO
-http://rv.therevenge.co:80/1234560/1234560/83204
 #EXTINF:-1,|DE|HEVC| DAS ERSTE HD
 http://rv.therevenge.co:80/1234560/1234560/83203
 #EXTINF:-1,|DE|HEVC| DAS ERSTE
@@ -881,16 +885,6 @@ http://rv.therevenge.co:80/1234560/1234560/81629
 http://rv.therevenge.co:80/1234560/1234560/81628
 #EXTINF:-1,|DE| 3 SAT
 http://rv.therevenge.co:80/1234560/1234560/81627
-#EXTINF:-1,|DE| ZDF HD
-http://rv.therevenge.co:80/1234560/1234560/81626
-#EXTINF:-1,|DE| ARD HD
-http://rv.therevenge.co:80/1234560/1234560/81625
-#EXTINF:-1,|DE| ZDF
-http://rv.therevenge.co:80/1234560/1234560/81624
-#EXTINF:-1,|DE| ZDF INFO
-http://rv.therevenge.co:80/1234560/1234560/81623
-#EXTINF:-1,|DE| ZDF NEO
-http://rv.therevenge.co:80/1234560/1234560/81622
 #EXTINF:-1,|DE| RTL HD
 http://rv.therevenge.co:80/1234560/1234560/81621
 #EXTINF:-1,|DE| RTLII HD
