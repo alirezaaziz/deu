@@ -57,10 +57,6 @@ https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_p
 http://latinoamericatv.vip:3334/Yan/Yan123/16818
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="News",Iran International
 https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Iran International
-http://mini-main.site:8080/i3/LyKP9AmYws/1420
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Iran International TV HD
-http://mini-main.site:8080/i3/LyKP9AmYws/353
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="News",VOA Persian
@@ -81,94 +77,12 @@ https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 https://d2rwmwucnr0d10.cloudfront.net/live_1500.m3u8
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto |HD 1080|
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",manoto HD
-http://mini-main.site:8080/i3/LyKP9AmYws/2
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",manoto FHD
-http://mini-main.site:8080/i3/LyKP9AmYws/1
 #EXTINF:-1 tvg-id="" tvg-name="AVA Series" tvg-logo="https://i.imgur.com/vQHPZd9.jpg" group-title="IRAN",AVA Series
 http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AVA Family" tvg-logo="https://i.imgur.com/izRMFzC.jpg" group-title="IRAN",AVA Family
 http://51.210.199.5/hls/stream.m3u8
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM TV HD
-http://mini-main.site:8080/i3/LyKP9AmYws/349
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM TV
-http://mini-main.site:8080/i3/LyKP9AmYws/2683
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Classic
-http://mini-main.site:8080/i3/LyKP9AmYws/2676
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM 24B FHD
-http://mini-main.site:8080/i3/LyKP9AmYws/2020
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Fit
-http://mini-main.site:8080/i3/LyKP9AmYws/2790
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Food
-http://mini-main.site:8080/i3/LyKP9AmYws/2791
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM BOLLYWOOD HD
-http://mini-main.site:8080/i3/LyKP9AmYws/2011
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM CLASSIC
 http://rv.imax.re:80/4822570279/8799305052/84139
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM CLASSIC HD
-http://mini-main.site:8080/i3/LyKP9AmYws/2012
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM COMEDY HD
-http://mini-main.site:8080/i3/LyKP9AmYws/2017
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM DRAMA HD
-http://mini-main.site:8080/i3/LyKP9AmYws/2013
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM JUNIOR HD
-http://mini-main.site:8080/i3/LyKP9AmYws/2015
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM KIDS HD
-http://mini-main.site:8080/i3/LyKP9AmYws/2016
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM MAXX HD
-http://mini-main.site:8080/i3/LyKP9AmYws/2014
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM MIFA FHD
-http://mini-main.site:8080/i3/LyKP9AmYws/352
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM ONYX FHD
-http://mini-main.site:8080/i3/LyKP9AmYws/388
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM RIVER HD
-http://mini-main.site:8080/i3/LyKP9AmYws/2018
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM RUBIX HD
-http://mini-main.site:8080/i3/LyKP9AmYws/2019
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM SERIES HD
-http://mini-main.site:8080/i3/LyKP9AmYws/347
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",GEM USA HD
-http://mini-main.site:8080/i3/LyKP9AmYws/348
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM 24B
-http://mini-main.site:8080/i3/LyKP9AmYws/2674
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM AZ
-http://mini-main.site:8080/i3/LyKP9AmYws/2785
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Academy
-http://mini-main.site:8080/i3/LyKP9AmYws/2786
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Arabia
-http://mini-main.site:8080/i3/LyKP9AmYws/2787
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Bollywood
-http://mini-main.site:8080/i3/LyKP9AmYws/2675
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Comedy
-http://mini-main.site:8080/i3/LyKP9AmYws/2677
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Drama +
-http://mini-main.site:8080/i3/LyKP9AmYws/2788
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Junior
-http://mini-main.site:8080/i3/LyKP9AmYws/2678
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Kids
-http://mini-main.site:8080/i3/LyKP9AmYws/2679
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Latino
-http://mini-main.site:8080/i3/LyKP9AmYws/2792
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Life
-http://mini-main.site:8080/i3/LyKP9AmYws/2793
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Maxx
-http://mini-main.site:8080/i3/LyKP9AmYws/2680
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Mifa
-http://mini-main.site:8080/i3/LyKP9AmYws/2681
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Modern Economy
-http://mini-main.site:8080/i3/LyKP9AmYws/2794
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Nature
-http://mini-main.site:8080/i3/LyKP9AmYws/2795
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Onyx
-http://mini-main.site:8080/i3/LyKP9AmYws/2682
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Property
-http://mini-main.site:8080/i3/LyKP9AmYws/2796
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM River +
-http://mini-main.site:8080/i3/LyKP9AmYws/2797
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Rubix +
-http://mini-main.site:8080/i3/LyKP9AmYws/2798
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",GEM Travel
-http://mini-main.site:8080/i3/LyKP9AmYws/2799
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/7dQioKG.png" group-title="Undefined",GEM 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/7dQioKG.png" group-title="Undefined",GEM AZ
@@ -216,17 +130,15 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/x6vlBzd.jpg" group-title="Undefined",YourTime TV
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",TAPESH TV HD
-http://mini-main.site:8080/i3/LyKP9AmYws/362
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 #EXTINF:-1 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" tvg-url="" group-title="Entertainment",4U TV (480p)
 http://live.4ulive.ir/
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Your Time TV HD
-http://mini-main.site:8080/i3/LyKP9AmYws/327
+https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOX1 TVG" tvg-logo="https://i.imgur.com/OFuIRFI.jpg" group-title="IRAN",VOX1 TVG
 http://51.210.199.8/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOX2 TVG" tvg-logo="https://i.imgur.com/DN5wvFg.jpg" group-title="IRAN",VOX2 TVG
 http://51.210.199.9/hls/stream.m3u8
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",EBC 1 HD
-http://mini-main.site:8080/i3/LyKP9AmYws/323
 #EXTINF:-1 tvg-id="EBC1TV.ir" tvg-name="EBC1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" tvg-url="" group-title="Music",EBC1 TV (720p)
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:-1 tvg-id="ITNTV.ir" tvg-name="ITN TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Iran_TV_Network.png" tvg-url="" group-title="Entertainment",ITN TV (480p)
@@ -271,6 +183,8 @@ http://51.210.199.18/hls/stream.m3u8
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PERSIANA NOSTALGIA" tvg-logo="https://i.imgur.com/lmqXkwa.png" group-title="IRAN",PERSIANA NOSTALGIA
 http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA NOSTALGIA" tvg-logo="https://i.imgur.com/lmqXkwa.png" group-title="IRAN",AMG TV
+https://nl.livekadeh.com/hls2/AMG_src.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Yar (Webradio)" tvg-logo="https://i.imgur.com/UOzAUKi.jpg" group-title="IRAN",Radio Yar (Webradio)
 http://51.210.199.55/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL 1" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="IRAN",SL 1
