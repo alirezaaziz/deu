@@ -127,12 +127,20 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/x6vlBzd.jpg" group-title="Undefined",YourTime TV
 https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1,IR: PMC SD
+http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23670
+#EXTINF:-1,IR: Persian Singer
+http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23681
+#EXTINF:-1,IR: 11 TV HD
+http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23682
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",TAPESH TV HD
 http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 #EXTINF:-1 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" tvg-url="" group-title="Entertainment",4U TV (480p)
 http://live.4ulive.ir/
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Your Time TV HD
 https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1,peepbox movie
+http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23632
 #EXTINF:-1 tvg-id="" tvg-name="VOX1 TVG" tvg-logo="https://i.imgur.com/OFuIRFI.jpg" group-title="IRAN",VOX1 TVG
 http://51.210.199.8/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOX2 TVG" tvg-logo="https://i.imgur.com/DN5wvFg.jpg" group-title="IRAN",VOX2 TVG
