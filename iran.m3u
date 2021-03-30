@@ -28,13 +28,19 @@ https://sdm.telewebion.com/live/varzesh/varzesh_dvr-480p/index.m3u8
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Mostanad HD
 https://sdm.telewebion.com/live/hdtest/hdtest_dvr-720p/index.m3u8
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Mostanad
-https://sdm.telewebion.com/live/hdtest/hdtest_dvr-720p/index.m3u8
+https://sdm.telewebion.com/live/mostanad/mostanad_dvr-576p/index.m3u8
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Tamasha HD
 https://sdm.telewebion.com/live/hdtest/hdtest_dvr-720p/index.m3u8
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Tamasha
 https://sdm.telewebion.com/live/hdtest/hdtest_dvr-480p/index.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",IRIB JAME-JAM TV
 https://sdm.telewebion.com/live/jjtv1/jjtv1_dvr-576p/index.m3u8
+#EXTINF:-1,IRIB Shoma
+https://sdm.telewebion.com/live/shoma/shoma_dvr-576p/index.m3u8
+#EXTINF:-1,IRIB Namayesh
+https://sdm.telewebion.com/live/namayesh/namayesh_dvr-576p/index.m3u8
+#EXTINF:-1,IRIB Omid
+https://sdm.telewebion.com/live/omid/omid_dvr-576p/index.m3u8
 #EXTINF:0 tvg-country="IR" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/ifilm.png" group-title="Undefined",IFILM
 https://sdm.telewebion.com/live/ifilm/ifilm_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="iFILMPersian1.ir" tvg-name="iFILM Persian 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/El4Ymh6.png" tvg-url="" group-title="Movies",iFILM Persian 1 (720p)
@@ -209,7 +215,7 @@ http://51.210.199.30/hls/stream.m3u8
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23632
 #EXTINF:-1,peepbox jounior
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23633
-#EXTINF:-1,IR. peepbox music
+#EXTINF:-1,peepbox music
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/29029
 #EXTINF:-1,iFilm Persian
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23668
@@ -413,8 +419,6 @@ http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23773
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23774
 #EXTINF:-1,4u TV HD
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23775
-#EXTINF:-1,ICnet TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23776
 #EXTINF:-1,High Vision TV
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23777
 #EXTINF:-1,ParsiLand TV
@@ -459,65 +463,3 @@ http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23804
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23806
 #EXTINF:-1,Radio Javan FHD
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/29026
-#EXTINF:-1,IRIB TV1
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23634
-#EXTINF:-1,IRIB TV2
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23635
-#EXTINF:-1,IRIB TV3 SD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23636
-#EXTINF:-1,IRIB TV3 HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23637
-#EXTINF:-1,IRIB TV3 FHD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23638
-#EXTINF:-1,IRIB TV4
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23639
-#EXTINF:-1,IRIB TV5
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23640
-#EXTINF:-1,IRIB Varzesh HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23641
-#EXTINF:-1,IRIB Tamasha HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23642
-#EXTINF:-1,IRIB Mostanad HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23643
-#EXTINF:-1,IRIB Shoma
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23644
-#EXTINF:-1,IRIB Namayesh
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23645
-#EXTINF:-1,IRIB Omid
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23646
-#EXTINF:-1,IRIB Nasim
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23647
-#EXTINF:-1,IRIB IRINN
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23648
-#EXTINF:-1,IRIB Jame Jam 1
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23651
-#EXTINF:-1,IRIB Amoozesh
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23652
-#EXTINF:-1,IRIB Markazi (Aftab TV)
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23653
-#EXTINF:-1,IRIB Boushehr
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23654
-#EXTINF:-1,IRIB Kordestan
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23655
-#EXTINF:-1,IRIB Khoozestan
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23656
-#EXTINF:-1,IRIB Zanjan (Eshragh TV)
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23657
-#EXTINF:-1,IRIB Semnan
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23658
-#EXTINF:-1,IRIB Abadan
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23659
-#EXTINF:-1,IRIB Lorestan (Aflak TV)
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23660
-#EXTINF:-1,IRIB Fars
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23661
-#EXTINF:-1,IRIB Sahand
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23662
-#EXTINF:-1,IRIB 4K
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23663
-#EXTINF:-1,IRIB Fars
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23664
-#EXTINF:-1,IRIB Ofogh
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23665
-#EXTINF:-1,IRIB Gazvin
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23666
