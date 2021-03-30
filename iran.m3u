@@ -55,8 +55,6 @@ http://51.210.227.130/hls/stream.m3u8
 http://51.210.199.6/hls/stream.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",PMC HD
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CALTEX MUSIC HD
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC Persian (S)
 http://latinoamericatv.vip:3334/Yan/Yan123/16818
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="News",Iran International
@@ -463,3 +461,25 @@ http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23804
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23806
 #EXTINF:-1,Radio Javan FHD
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/29026
+#EXTINF:-1,Zir Noor Kam (720p) 
+https://srteam.falnd.xyz/movies/1400/zire.noore.kam.720.mp4
+#EXTINF:-1,The Good, the Bad, the Corny: Radioactive Part 1 (480p)
+https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/01.480.mp4
+#EXTINF:-1,The Good, the Bad, the Corny: Radioactive Part 2 (480p)
+https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/02.480.mp4
+#EXTINF:-1,The Good, the Bad, the Corny: Radioactive Part 3 (480p)
+https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/03.480.mp4
+#EXTINF:-1,The Good, the Bad, the Corny: Radioactive Part 4 (480p)
+https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/04.480.mp4
+#EXTINF:-1,The Good, the Bad, the Corny: Radioactive Part 5 (480p)
+https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/05.480.mp4
+#EXTINF:-1,The Good, the Bad, the Corny: Radioactive Part 6 (480p)
+https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/06.480.mp4
+#EXTINF:-1,The Good, the Bad, the Corny: Radioactive Part 7 (480p)
+https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/07.480.mp4
+#EXTINF:-1,The Good, the Bad, the Corny: Radioactive Part 8 (480p)
+https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/08.480.mp4
+#EXTINF:-1,The Good, the Bad, the Corny: Radioactive Part 9 (480p)
+https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/09.480.mp4
+#EXTINF:-1,Mardome Mamooli EP1 (480p)
+https://srteam.falnd.xyz/series/mardome-mamooli/01.480.mp4
