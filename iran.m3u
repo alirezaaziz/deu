@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" tvg-url="" group-title="IRIB",IRIB TV1 720p
+#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB TV1 720p
 https://sdm.telewebion.com/live/tv1/tv1-720p/index.m3u8
-#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png" tvg-url="" group-title="IRIB",IRIB TV1 480p
+#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB TV1 480p
 https://sdm.telewebion.com/live/tv1/tv1-480p/index.m3u8
-#EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv2.png" tvg-url="" group-title="IRIB",IRIB TV2
+#EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB TV2
 https://sdm.telewebion.com/live/tv2/tv2_dvr-576p/index.m3u8
-#EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" tvg-url="" group-title="IRIB",IRIB TV3
+#EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB TV3
 https://sdm.telewebion.com/live/tv3/tv3-480p/index.m3u8
-#EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png" tvg-url="" group-title="IRIB",IRIB TV3 (PersianLeague)
+#EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB TV3 (PersianLeague)
 https://ss.90minlive.online/live/irirb3-h/chunks.m3u8
-#EXTINF:-1 tvg-id="IRIB TV4 IR" tvg-name="IRIB TV4" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv4.png" tvg-url="" group-title="IRIB",IRIB TV4
+#EXTINF:-1 tvg-id="IRIB TV4 IR" tvg-name="IRIB TV4" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB TV4
 https://sdm.telewebion.com/live/tv4/tv4_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB TV5 IR" tvg-name="IRIB TV5" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/qQBqGGf.png" tvg-url="" group-title="IRIB",IRIB TV5
 https://sdm.telewebion.com/live/tehran/tehran_dvr-576p/index.m3u8
@@ -47,8 +47,6 @@ https://sdm.telewebion.com/live/ifilm/ifilm_dvr-576p/index.m3u8
 https://live.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="iFILMPersian2.ir" tvg-name="iFILM Persian 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://fa2.ifilmtv.com/img/test-final02.png" tvg-url="" group-title="Movies",iFILM Persian 2
 https://live1.presstv.com/live/ifilm2_360p/index.m3u8
-#EXTINF:-1 tvg-id="IRIBOFOGH.ir" tvg-name="IRIB OFOGH" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/7fh4LwG.png" tvg-url="" group-title="Documentary",IRIB OFOGH
-https://sdm.telewebion.com/live/ofogh/ofogh_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="NavahangTV.ir" tvg-name="Navahang TV" tvg-country="IR" tvg-language="Persian" tvg-logo="http://www.navahang.com/apple-touch-icon.png" tvg-url="" group-title="Music",Navahang TV
 http://51.210.227.130/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Javan" tvg-logo="https://i.imgur.com/Ba2GkX3.jpg" group-title="IRAN",Radio Javan
@@ -193,8 +191,6 @@ http://51.210.199.3/hls/stream.m3u8
 http://51.210.199.2/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VARZESH TV FARSI" tvg-logo="https://i.imgur.com/ADQM8Pk.png" group-title="IRAN",VARZESH TV FARSI
 http://51.210.199.16/hls/stream.m3u8
-#EXTINF:-1 tvg-id="INTVSimayeAzadi.ir" tvg-name="INTV Simaye Azadi" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/CTIINTk.png" tvg-url="" group-title="",INTV Simaye Azadi (1080p)
-https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 #EXTINF:-1 tvg-id="RadioFarda.ir" tvg-name="Radio Farda" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/NqTGH0Q.png" tvg-url="" group-title="",Radio Farda (576p)
 https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:-1 tvg-id="HighVision.ir" tvg-name="High Vision" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="",High Vision Tv
@@ -483,3 +479,55 @@ https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/08.480.mp4
 https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/09.480.mp4
 #EXTINF:-1,Mardome Mamooli EP1 (480p)
 https://srteam.falnd.xyz/series/mardome-mamooli/01.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP1 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/01.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP2 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/02.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP3 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/03.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP4(480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/04.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP5 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/05.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP6 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/06.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP7 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/07.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP8 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/08.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP9 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/09.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP10 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/10.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP11 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/11.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP12 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/12.480.mp4
+#EXTINF:-1,Mikhaham Zende Bemanam EP1 (480p)
+https://srteam.falnd.xyz/series/mikhaham-zende-bemanam/01.480.mp4
+#EXTINF:-1,Mikhaham Zende Bemanam EP2 (480p)
+https://srteam.falnd.xyz/series/mikhaham-zende-bemanam/02.480.mp4
+#EXTINF:-1,Mikhaham Zende Bemanam EP3 (480p)
+https://srteam.falnd.xyz/series/mikhaham-zende-bemanam/03.480.mp4
+#EXTINF:-1,Mikhaham Zende Bemanam EP4 (480p)
+https://srteam.falnd.xyz/series/mikhaham-zende-bemanam/04.480.mp4
+#EXTINF:-1,Mikhaham Zende Bemanam EP5 (480p)
+https://srteam.falnd.xyz/series/mikhaham-zende-bemanam/05.480.mp4
+#EXTINF:-1,Mikhaham Zende Bemanam EP6 (480p)
+https://srteam.falnd.xyz/series/mikhaham-zende-bemanam/06.480.mp4
+#EXTINF:-1,Mankan EP1 (480p)
+https://streem.falnd.xyz/series/maankan/Maankan_E01_720.mp4
+#EXTINF:-1,Mankan EP2 (480p)
+https://streem.falnd.xyz/series/maankan/Maankan_E02_720.mp4
+#EXTINF:-1,Mankan EP3 (480p)
+https://streem.falnd.xyz/series/maankan/Maankan_E03_720.mp4
+#EXTINF:-1,Mankan EP4 (480p)
+https://streem.falnd.xyz/series/maankan/Maankan_E04_720.mp4
+#EXTINF:-1,Mankan EP5 (480p)
+https://streem.falnd.xyz/series/maankan/Maankan_E05_720.mp4
+#EXTINF:-1,Mankan EP6 (480p)
+https://streem.falnd.xyz/series/maankan/Maankan_E06_720.mp4
+#EXTINF:-1,Mankan EP7 (480p)
+https://streem.falnd.xyz/series/maankan/Maankan_E07_720.mp4
+#EXTINF:-1,Mankan EP8 (480p)
+https://streem.falnd.xyz/series/maankan/Maankan_E08_720.mp4
