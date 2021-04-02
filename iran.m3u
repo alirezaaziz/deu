@@ -133,8 +133,6 @@ https://hls.yourtime.live/hls/stream.m3u8
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23670
 #EXTINF:-1,DDTV
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23693
-#EXTINF:-1,MTC TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23694
 #EXTINF:-1 tvg-id="" tvg-name="VOX1 TVG" tvg-logo="https://i.imgur.com/OFuIRFI.jpg" group-title="IRAN",VOX1 TVG
 http://51.210.199.8/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOX2 TVG" tvg-logo="https://i.imgur.com/DN5wvFg.jpg" group-title="IRAN",VOX2 TVG
@@ -389,8 +387,6 @@ https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ahi TV Kirsehir" tvg-logo="https://i.imgur.com/bfxu8Yq.png" group-title="TURKEY",Ahi TV Kirsehir
 http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
-#EXTINF:-1 tvg-name="Akilli TV" tvg-id="" tvg-logo="https://i.imgur.com/6j0Qcgu.png" group-title="TURKEY",Akilli TV
-https://stream41.radyotelekom.com.tr/stream/m3u8/a5a7e883a71429fe9e605bb5d25d6185/chunklist_w895929071.m3u8
 #EXTINF:-1 tvg-name="AKIT TV" tvg-id="AKIT TV" tvg-logo="https://i.imgur.com/isuWM5S.jpg" group-title="TURKEY",AKIT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-name="Aksu TV" tvg-id="" tvg-logo="https://i.imgur.com/LXpXu12.png" group-title="TURKEY",Aksu TV
