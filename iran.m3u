@@ -205,6 +205,22 @@ http://51.210.199.28/hls/stream.m3u8
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4 TURK MUSIC" tvg-logo="https://i.imgur.com/hHv1tSI.png" group-title="IRAN",4 TURK MUSIC
 http://51.210.199.30/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KarbalaLive1.ir" tvg-name="Karbala Live 1" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 1 (360p)
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:-1 tvg-id="KarbalaLive2.ir" tvg-name="Karbala Live 2" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 2 (360p)
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
+#EXTINF:-1 tvg-id="KarbalaLive3.ir" tvg-name="Karbala Live 3" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 3 (360p)
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
+#EXTINF:-1 tvg-id="KarbalaLive4.ir" tvg-name="Karbala Live 4" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 4 (360p)
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
+#EXTINF:-1 tvg-id="KarbalaLive5.ir" tvg-name="Karbala Live 5" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 5 (360p)
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
+#EXTINF:-1 tvg-id="Haram 1" tvg-name="Haram 1" tvg-country="IR" tvg-language="Arabic" tvg-logo="" group-title="Religious",Haram 1 (360p)
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
+#EXTINF:-1 tvg-id="Haram 1" tvg-name="Haram 1" tvg-country="IR" tvg-language="Arabic" tvg-logo="" group-title="Religious",Haram 1 (360p)
+https://stream01.nasimrezvan.com/hls/kWpVnHbakbDBZJLBqMHMMkRT/index.m3u8
+#EXTINF:-1 tvg-id="Haram 1" tvg-name="Haram 1" tvg-country="IR" tvg-language="Arabic" tvg-logo="" group-title="Religious",Haram 1 (360p)
+https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
 #EXTINF:-1,peepbox movie
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23632
 #EXTINF:-1,peepbox jounior
@@ -221,110 +237,8 @@ http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23672
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23673
 #EXTINF:-1,T2 Tapesh HD
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23674
-#EXTINF:-1,EBC Music TV HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23675
-#EXTINF:-1,Caltex Music HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23676
-#EXTINF:-1,Radio Javan SD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23677
-#EXTINF:-1,Radio Javan HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23678
-#EXTINF:-1,4Music
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23679
-#EXTINF:-1,ManoTo TV SD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23683
-#EXTINF:-1,ManoTo TV HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23684
-#EXTINF:-1,ManoTo TV FHD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23685
-#EXTINF:-1,ManoTo +1 TV HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23686
-#EXTINF:-1,ManoTo +2 TV HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23687
-#EXTINF:-1,Navahang HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23689
-#EXTINF:-1,ITN TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23690
-#EXTINF:-1,MBC Persia HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23691
-#EXTINF:-1,MBC Persia FHD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23692
-#EXTINF:-1,DDTV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23693
-#EXTINF:-1,MTC TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23694
-#EXTINF:-1,Varzesh 1 TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23713
-#EXTINF:-1,Varzesh 2 TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23714
-#EXTINF:-1,Varzesh 3 TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23715
-#EXTINF:-1,AVA Family
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23717
-#EXTINF:-1,AVA Series
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23718
-#EXTINF:-1,Cine Film HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23719
-#EXTINF:-1,Cine Film SD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23720
-#EXTINF:-1,Cine Series HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23721
-#EXTINF:-1,Cine Series SD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23722
-#EXTINF:-1,247 Box TV HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23759
-#EXTINF:-1,Vox 1 TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23760
-#EXTINF:-1,Vox 2 TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23761
-#EXTINF:-1,Didar TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23762
-#EXTINF:-1,OXIR HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23764
-#EXTINF:-1,SL One
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23765
-#EXTINF:-1,SL Two
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23766
-#EXTINF:-1,Madar Plus TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23767
-#EXTINF:-1,PN TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23771
-#EXTINF:-1,4u TV HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23775
-#EXTINF:-1,High Vision TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23777
-#EXTINF:-1,ParsiLand TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23778
-#EXTINF:-1,Tin TV 2
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23780
-#EXTINF:-1,Radio Yar
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23781
-#EXTINF:-1,Iran Beauty
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23782
-#EXTINF:-1,Persian TV 1
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23788
-#EXTINF:-1,Royal Time TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23795
-#EXTINF:-1,AMG TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23796
-#EXTINF:-1,AFN TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23797
-#EXTINF:-1,Honarmandan HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23798
-#EXTINF:-1,Iran International
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23800
-#EXTINF:-1,Iran International HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23801
-#EXTINF:-1,BBC Persian
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23802
-#EXTINF:-1,BBC Persian HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23803
-#EXTINF:-1,VOA Persian HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23804
 #EXTINF:-1,Ekran TV
 http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23806
-#EXTINF:-1,Radio Javan FHD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/29026
 #EXTINF:-1,### ۩ Film ۩ ###
 #EXTINF:-1,Bad Az To (720p) 
 https://srteam.falnd.xyz/movies/1400/Bad.az.to.720.mp4
@@ -350,8 +264,12 @@ https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/07.480.mp4
 https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/08.480.mp4
 #EXTINF:-1,The Good, the Bad, the Corny Part 9 (480p)
 https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/09.480.mp4
+#EXTINF:-1,The Good, the Bad, the Corny Part 10 (480p)
+https://srteam.falnd.xyz/series/khoob-bad-jelf-radioactive/10.480.mp4
 #EXTINF:-1,Mardome Mamooli EP1 (480p)
 https://srteam.falnd.xyz/series/mardome-mamooli/01.480.mp4
+#EXTINF:-1,Mardome Mamooli EP2 (480p)
+https://srteam.falnd.xyz/series/mardome-mamooli/02.480.mp4
 #EXTINF:-1,Malakeye Gedayan EP1 (480p)
 https://srteam.falnd.xyz/series/malakeye-gedayan/01.480.mp4
 #EXTINF:-1,Malakeye Gedayan EP2 (480p)
