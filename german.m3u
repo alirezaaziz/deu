@@ -24,7 +24,7 @@ https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 #EXTINF:-1,RTL
 http://rv.imax.re:80/4334276722/8502631953/81618
 #EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
-https://s4.hopslan.com/rtl22/tracks-v1a1/mono.m3u8
+https://s4.hopslan.com/rtl2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
 https://fernsehzone.online/2ix23.php/rtl2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Nitro" tvg-name="Nitro" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/6.png" tvg-url="" group-title="",Nitro
