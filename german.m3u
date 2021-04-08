@@ -41,41 +41,31 @@ http://188.35.9.5:10020/stolen/500w/hot.dll
 http://152.89.62.111:8080/m123/m123/146533
 #EXTINF:-1,N24
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203838
-#EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="Deutsche Welle" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle
+#EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="DW" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",DW
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelleEN.de" tvg-name="Deutsche Welle (EN)" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle (EN)
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelleES.de" tvg-name="Deutsche Welle (ES)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle (ES)
-http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",DW+
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deutsche Welle
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW
 https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW+
 https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW
-https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-url="" group-title="News",Deutsche Welle (400p)
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",Deutsche Welle (400p)
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",DW (400p)
 https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (720p)
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",DW (480p)
+http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (540p)
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_1992_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",tagesschau 24
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (720p)
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",tagesschau 24 (720p)
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE HD
 http://152.89.62.111:8080/m123/m123/146521
@@ -143,12 +133,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e18
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45d077746000072be0fe/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=58a8da20-057f-11eb-9b92-0242ac110002&deviceId=5ede45d077746000072be0fe&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Sport",Auto Motor Sport
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",BBL SPORT 1 SPIELTAG
-http://152.89.62.111:8080/m123/m123/146564
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",BBL SPORT 2 SPIELTAG
-http://152.89.62.111:8080/m123/m123/146565
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",BBL SPORT 3 SPIELTAG
-http://152.89.62.111:8080/m123/m123/146566
 #EXTINF:0 tvg-country="DE" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" group-title="Undefined",BLK TV
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/D5wePo5.jpg" group-title="Undefined",BLK TV Hohenmцlsen
@@ -217,26 +201,6 @@ http://152.89.62.111:8080/m123/m123/146303
 http://152.89.62.111:8080/m123/m123/146513
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e843d849109b700075d5ada/colorLogoPNG.png" group-title="Undefined",Dark Matter
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e843d849109b700075d5ada/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=ddc64e1e-0581-11eb-82fe-0242ac110002&deviceId=5e843d849109b700075d5ada&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe
-https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://1.bp.blogspot.com/-PbJbgwulmgg/XlcvWvE1krI/AAAAAAAArqk/GybN3PTg-tAskuSoJQe3hfT2CvPXdA1WwCLcBGAsYHQ/s320/Bloomberg%2BTelevision.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="N-tv" tvg-name="N-tv" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/5.png" tvg-url="" group-title="",N-tv
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203854
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BOOMERANG HD
@@ -265,11 +229,6 @@ http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlis
 https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" tvg-country="CH" tvg-url="" group-title="German",Canal Alpha Jura
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",Deutsche Welle
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",Deutsche Welle (480p)
-http://ott-cdn.ucom.am/s26/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" tvg-country="CH" tvg-url="" group-title="German",Die Neue Zeit
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eJgCFh6.png" tvg-country="DE" tvg-url="" group-title="German",Donau TV
@@ -304,8 +263,6 @@ http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",HR
 http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="German",HR Event 2
-https://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
 #EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="German",HR Fernsehen
 https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="German",HR Fernsehen
@@ -542,268 +499,6 @@ https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/smyvTHD.jpg" tvg-country="DE" tvg-url="" group-title="German",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1,|DE|HEVC| ARTE HD
-http://rv.therevenge.co:80/1234560/1234560/83201
-#EXTINF:-1,|DE|HEVC| 3SAT
-http://rv.therevenge.co:80/1234560/1234560/83200
-#EXTINF:-1,|DE|HEVC| ARD HD
-http://rv.therevenge.co:80/1234560/1234560/83199
-#EXTINF:-1,|DE|HEVC| ZDF HD
-http://rv.therevenge.co:80/1234560/1234560/83198
-#EXTINF:-1,|DE|HEVC| ZDF
-http://rv.therevenge.co:80/1234560/1234560/83197
-#EXTINF:-1,|DE|HEVC| ZDF INFO
-http://rv.therevenge.co:80/1234560/1234560/83196
-#EXTINF:-1,|DE|HEVC| ZDF NEO
-http://rv.therevenge.co:80/1234560/1234560/83195
-#EXTINF:-1,|DE|HEVC| RTL HD
-http://rv.therevenge.co:80/1234560/1234560/83194
-#EXTINF:-1,|DE|HEVC| RTLII HD
-http://rv.therevenge.co:80/1234560/1234560/83193
-#EXTINF:-1,|DE|HEVC| RTL TELEVISION
-http://rv.therevenge.co:80/1234560/1234560/83192
-#EXTINF:-1,|DE|HEVC| RTL2
-http://rv.therevenge.co:80/1234560/1234560/83191
-#EXTINF:-1,|DE|HEVC| RTL PLUS
-http://rv.therevenge.co:80/1234560/1234560/83190
-#EXTINF:-1,|DE|HEVC| SIXX HD
-http://rv.therevenge.co:80/1234560/1234560/83189
-#EXTINF:-1,|DE|HEVC| PROSIEBEN HD
-http://rv.therevenge.co:80/1234560/1234560/83188
-#EXTINF:-1,|DE|HEVC| PRO7 MAXX HD
-http://rv.therevenge.co:80/1234560/1234560/83187
-#EXTINF:-1,|DE|HEVC| SAT.1
-http://rv.therevenge.co:80/1234560/1234560/83186
-#EXTINF:-1,|DE|HEVC| SAT.1 HD
-http://rv.therevenge.co:80/1234560/1234560/83185
-#EXTINF:-1,|DE|HEVC| SAT.1 GOLD
-http://rv.therevenge.co:80/1234560/1234560/83184
-#EXTINF:-1,|DE|HEVC| SAT.1 GOLD HD
-http://rv.therevenge.co:80/1234560/1234560/83183
-#EXTINF:-1,|DE|HEVC| VOX HD
-http://rv.therevenge.co:80/1234560/1234560/83182
-#EXTINF:-1,|DE|HEVC| VOX
-http://rv.therevenge.co:80/1234560/1234560/83181
-#EXTINF:-1,|DE|HEVC| PHOENIX HD
-http://rv.therevenge.co:80/1234560/1234560/83180
-#EXTINF:-1,|DE|HEVC| KABEL EINS HD
-http://rv.therevenge.co:80/1234560/1234560/83179
-#EXTINF:-1,|DE|HEVC| TELE 5 HD
-http://rv.therevenge.co:80/1234560/1234560/83178
-#EXTINF:-1,|DE|HEVC| ANIXE HD
-http://rv.therevenge.co:80/1234560/1234560/83177
-#EXTINF:-1,|DE|HEVC| DMAX HD
-http://rv.therevenge.co:80/1234560/1234560/83176
-#EXTINF:-1,##### SPORT | HEVC (4K) #####
-http://rv.therevenge.co:80/1234560/1234560/83175
-#EXTINF:-1,|DE|HEVC| SKY SPORT NEWS HD
-http://rv.therevenge.co:80/1234560/1234560/83174
-#EXTINF:-1,|DE|HEVC| SKY SPORT 1
-http://rv.therevenge.co:80/1234560/1234560/83173
-#EXTINF:-1,|DE|HEVC| SKY SPORT 1 HD
-http://rv.therevenge.co:80/1234560/1234560/83172
-#EXTINF:-1,|DE|HEVC| SKY SPORT 2
-http://rv.therevenge.co:80/1234560/1234560/83171
-#EXTINF:-1,|DE|HEVC| SKY SPORT 2 HD
-http://rv.therevenge.co:80/1234560/1234560/83170
-#EXTINF:-1,|DE|HEVC| DAZN 1 BAR HD
-http://rv.therevenge.co:80/1234560/1234560/83169
-#EXTINF:-1,|DE|HEVC| DAZN 2 BAR HD
-http://rv.therevenge.co:80/1234560/1234560/83168
-#EXTINF:-1,|DE|HEVC| SKY BUNDESLIGA 1 HD
-http://rv.therevenge.co:80/1234560/1234560/83167
-#EXTINF:-1,|DE|HEVC| SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/1234560/1234560/83166
-#EXTINF:-1,|DE|HEVC| SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/1234560/1234560/83165
-#EXTINF:-1,|DE|HEVC| SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/1234560/1234560/83164
-#EXTINF:-1,|DE|HEVC| SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/1234560/1234560/83163
-#EXTINF:-1,|DE|HEVC| BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/1234560/1234560/83162
-#EXTINF:-1,|DE|HEVC| SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/1234560/1234560/83161
-#EXTINF:-1,|DE|HEVC| SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/1234560/1234560/83160
-#EXTINF:-1,|DE|HEVC| SKY BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/1234560/1234560/83159
-#EXTINF:-1,|DE|HEVC| SKY BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
-http://rv.therevenge.co:80/1234560/1234560/83158
-#EXTINF:-1,|DE|HEVC| EUROSPORT 1 HD
-http://rv.therevenge.co:80/1234560/1234560/83157
-#EXTINF:-1,|DE|HEVC| EUROSPORT 2 HD
-http://rv.therevenge.co:80/1234560/1234560/83156
-#EXTINF:-1,|DE|HEVC| EUROSPORT 2 HD XTRA
-http://rv.therevenge.co:80/1234560/1234560/83155
-#EXTINF:-1,|DE|HEVC| MOTORVISION TV
-http://rv.therevenge.co:80/1234560/1234560/83154
-#EXTINF:-1,|DE|HEVC| SPORT1 HD
-http://rv.therevenge.co:80/1234560/1234560/83153
-#EXTINF:-1,##### MUSIK | HEVC (4K) #####
-http://rv.therevenge.co:80/1234560/1234560/83152
-#EXTINF:-1,|DE|HEVC| JUKEBOX
-http://rv.therevenge.co:80/1234560/1234560/83151
-#EXTINF:-1,|DE|HEVC| CLASSICA
-http://rv.therevenge.co:80/1234560/1234560/83150
-#EXTINF:-1,|DE|HEVC| MTV HD
-http://rv.therevenge.co:80/1234560/1234560/83149
-#EXTINF:-1,|DE|HEVC| DELUXE MUSIC HD
-http://rv.therevenge.co:80/1234560/1234560/83148
-#EXTINF:-1,##### DOKUMENTAR | HEVC (4K) #####
-http://rv.therevenge.co:80/1234560/1234560/83147
-#EXTINF:-1,|DE|HEVC| DISCOVERY HD
-http://rv.therevenge.co:80/1234560/1234560/83146
-#EXTINF:-1,|DE|HEVC| E! ENTERTAINMENT HD
-http://rv.therevenge.co:80/1234560/1234560/83145
-#EXTINF:-1,|DE|HEVC| CRIME+  INVESTIGATION
-http://rv.therevenge.co:80/1234560/1234560/83144
-#EXTINF:-1,|DE|HEVC| HISTORY HD
-http://rv.therevenge.co:80/1234560/1234560/83143
-#EXTINF:-1,|DE|HEVC| NAT GEO HD
-http://rv.therevenge.co:80/1234560/1234560/83142
-#EXTINF:-1,|DE|HEVC| NAT GEO WILD HD
-http://rv.therevenge.co:80/1234560/1234560/83141
-#EXTINF:-1,|DE|HEVC| TLC HD
-http://rv.therevenge.co:80/1234560/1234560/83140
-#EXTINF:-1,|DE|HEVC| SPIEGEL GESCHICHTE HD
-http://rv.therevenge.co:80/1234560/1234560/83139
-#EXTINF:-1,##### REGIONALEN | HEVC (4K) #####
-http://rv.therevenge.co:80/1234560/1234560/83138
-#EXTINF:-1,|DE|HEVC| 123TV HD
-http://rv.therevenge.co:80/1234560/1234560/83137
-#EXTINF:-1,|DE|HEVC| HSE24 EXTRA HD
-http://rv.therevenge.co:80/1234560/1234560/83136
-#EXTINF:-1,|DE|HEVC| HSE24 HD
-http://rv.therevenge.co:80/1234560/1234560/83135
-#EXTINF:-1,|DE|HEVC| JUWELO HD
-http://rv.therevenge.co:80/1234560/1234560/83134
-#EXTINF:-1,|DE|HEVC| MDR S-ANHALT HD
-http://rv.therevenge.co:80/1234560/1234560/83133
-#EXTINF:-1,|DE|HEVC| MDR SACHSEN HD
-http://rv.therevenge.co:80/1234560/1234560/83132
-#EXTINF:-1,|DE|HEVC| MDR THOERINGEN HD
-http://rv.therevenge.co:80/1234560/1234560/83131
-#EXTINF:-1,|DE|HEVC| NDR FS HH HD
-http://rv.therevenge.co:80/1234560/1234560/83130
-#EXTINF:-1,|DE|HEVC| NDR FS MV HD
-http://rv.therevenge.co:80/1234560/1234560/83129
-#EXTINF:-1,|DE|HEVC| NDR FS NDS HD
-http://rv.therevenge.co:80/1234560/1234560/83128
-#EXTINF:-1,|DE|HEVC| NDR FS SH HD
-http://rv.therevenge.co:80/1234560/1234560/83127
-#EXTINF:-1,|DE|HEVC| NITRO
-http://rv.therevenge.co:80/1234560/1234560/83126
-#EXTINF:-1,|DE|HEVC| PEARL.TV HD SHOP
-http://rv.therevenge.co:80/1234560/1234560/83125
-#EXTINF:-1,|DE|HEVC| QVC HD
-http://rv.therevenge.co:80/1234560/1234560/83124
-#EXTINF:-1,|DE|HEVC| QVC2 HD
-http://rv.therevenge.co:80/1234560/1234560/83123
-#EXTINF:-1,|DE|HEVC| SERVUSTV HD
-http://rv.therevenge.co:80/1234560/1234560/83122
-#EXTINF:-1,|DE|HEVC| RBB BERLIN HD
-http://rv.therevenge.co:80/1234560/1234560/83121
-#EXTINF:-1,|DE|HEVC| RBB BRANDENBURG HD
-http://rv.therevenge.co:80/1234560/1234560/83120
-#EXTINF:-1,|DE|HEVC| SONNENKLAR.TV HD
-http://rv.therevenge.co:80/1234560/1234560/83119
-#EXTINF:-1,|DE|HEVC| SWR FERNSEHEN BW
-http://rv.therevenge.co:80/1234560/1234560/83118
-#EXTINF:-1,|DE|HEVC| WDR HD AACHEN
-http://rv.therevenge.co:80/1234560/1234560/83117
-#EXTINF:-1,|DE|HEVC| WDR HD BONN
-http://rv.therevenge.co:80/1234560/1234560/83116
-#EXTINF:-1,|DE|HEVC| WDR HD DUISBURG
-http://rv.therevenge.co:80/1234560/1234560/83115
-#EXTINF:-1,|DE|HEVC| WDR HD WUPPERTAL
-http://rv.therevenge.co:80/1234560/1234560/83114
-#EXTINF:-1,##### JUGEND | HEVC (4K) #####
-http://rv.therevenge.co:80/1234560/1234560/83113
-#EXTINF:-1,|DE|HEVC| BOOMERANG
-http://rv.therevenge.co:80/1234560/1234560/83112
-#EXTINF:-1,|DE|HEVC| SUPER RTL
-http://rv.therevenge.co:80/1234560/1234560/83111
-#EXTINF:-1,|DE|HEVC| DISNEY CHANNEL HD
-http://rv.therevenge.co:80/1234560/1234560/83109
-#EXTINF:-1,|DE|HEVC| KIKA
-http://rv.therevenge.co:80/1234560/1234560/83108
-#EXTINF:-1,|DE|HEVC| DISNEY CINEMAGIC HD
-http://rv.therevenge.co:80/1234560/1234560/83107
-#EXTINF:-1,|DE|HEVC| NICK+ /MTV
-http://rv.therevenge.co:80/1234560/1234560/83105
-#EXTINF:-1,##### NACHRICHTEN | HEVC (4K) #####
-http://rv.therevenge.co:80/1234560/1234560/83104
-#EXTINF:-1,|DE|HEVC| N-TV
-http://rv.therevenge.co:80/1234560/1234560/83103
-#EXTINF:-1,|DE|HEVC| N-TV HD
-http://rv.therevenge.co:80/1234560/1234560/83102
-#EXTINF:-1,|DE|HEVC| EURONEWS GERMAN
-http://rv.therevenge.co:80/1234560/1234560/83100
-#EXTINF:-1,|DE|HEVC| WELT HD
-http://rv.therevenge.co:80/1234560/1234560/83099
-#EXTINF:-1,##### UNTERHALTUNG | HEVC (4K) #####
-http://rv.therevenge.co:80/1234560/1234560/83098
-#EXTINF:-1,|DE|HEVC| SYFY HD
-http://rv.therevenge.co:80/1234560/1234560/83097
-#EXTINF:-1,|DE|HEVC| TNT SERIE HD
-http://rv.therevenge.co:80/1234560/1234560/83096
-#EXTINF:-1,|DE|HEVC| FOX HD
-http://rv.therevenge.co:80/1234560/1234560/83095
-#EXTINF:-1,|DE|HEVC| 13TH STREET HD
-http://rv.therevenge.co:80/1234560/1234560/83094
-#EXTINF:-1,|DE|HEVC| HEIMATKANAL
-http://rv.therevenge.co:80/1234560/1234560/83093
-#EXTINF:-1,|DE|HEVC| KINOWELT TV
-http://rv.therevenge.co:80/1234560/1234560/83092
-#EXTINF:-1,|DE|HEVC| ROMANCE TV
-http://rv.therevenge.co:80/1234560/1234560/83091
-#EXTINF:-1,##### KINO HD | HEVC (4K) #####
-http://rv.therevenge.co:80/1234560/1234560/83090
-#EXTINF:-1,|DE|HEVC| SKY CINEMA PREMIEREN +24
-http://rv.therevenge.co:80/1234560/1234560/83089
-#EXTINF:-1,|DE|HEVC| SKY CINEMA PREMIEREN HD
-http://rv.therevenge.co:80/1234560/1234560/83088
-#EXTINF:-1,|DE|HEVC| SKY CINEMA SPECIAL HD
-http://rv.therevenge.co:80/1234560/1234560/83087
-#EXTINF:-1,|DE|HEVC|  SKY CINEMA CLASSIC
-http://rv.therevenge.co:80/1234560/1234560/83086
-#EXTINF:-1,|DE|HEVC| SKY CINEMA ACTION HD
-http://rv.therevenge.co:80/1234560/1234560/83085
-#EXTINF:-1,|DE|HEVC| SKY CINEMA ACTION
-http://rv.therevenge.co:80/1234560/1234560/83084
-#EXTINF:-1,|DE|HEVC| SKY CINEMA FUN
-http://rv.therevenge.co:80/1234560/1234560/83083
-#EXTINF:-1,|DE|HEVC| SKY CINEMA FAMILY HD
-http://rv.therevenge.co:80/1234560/1234560/83082
-#EXTINF:-1,|DE|HEVC| SKY CINEMA FAMILY
-http://rv.therevenge.co:80/1234560/1234560/83081
-#EXTINF:-1,|DE|HEVC| SKY CINEMA THRILLER HD
-http://rv.therevenge.co:80/1234560/1234560/83080
-#EXTINF:-1,|DE|HEVC| SKY BEST OF HD
-http://rv.therevenge.co:80/1234560/1234560/83079
-#EXTINF:-1,|DE|HEVC| SKY BEST OF
-http://rv.therevenge.co:80/1234560/1234560/83078
-#EXTINF:-1,|DE|HEVC| SKY ATLANTIC HD
-http://rv.therevenge.co:80/1234560/1234560/83077
-#EXTINF:-1,|DE|HEVC| SKY KRIMI
-http://rv.therevenge.co:80/1234560/1234560/83076
-#EXTINF:-1,|DE|HEVC|  SKY ONE HD
-http://rv.therevenge.co:80/1234560/1234560/83075
-#EXTINF:-1,|DE|HEVC| TNT COMEDY HD
-http://rv.therevenge.co:80/1234560/1234560/83074
-#EXTINF:-1,|DE|HEVC| TNT FILM HD
-http://rv.therevenge.co:80/1234560/1234560/83073
-#EXTINF:-1,##### SKY SELECT | HEVC (4K) #####
-http://rv.therevenge.co:80/1234560/1234560/83072
-#EXTINF:-1,|DE|HEVC| SKY SELECT
-http://rv.therevenge.co:80/1234560/1234560/83071
-#EXTINF:-1,|DE|HEVC| ONE 1
-http://rv.therevenge.co:80/1234560/1234560/83070
-#EXTINF:-1,|DE|HEVC| N24
-http://rv.therevenge.co:80/1234560/1234560/83069
-#EXTINF:-1,|DE|HEVC| KABEL EINS CLASSICS
-http://rv.therevenge.co:80/1234560/1234560/83068
 #EXTINF:-1,##### GERMANY #####
 http://rv.therevenge.co:80/1234560/1234560/81633
 #EXTINF:-1,##### FTA - HD+ #####
@@ -960,14 +655,6 @@ http://rv.therevenge.co:80/1234560/1234560/81550
 http://rv.therevenge.co:80/1234560/1234560/81549
 #EXTINF:-1,TELEKOM - DEL SPORT 7  NUR SPIEL TAG
 http://rv.therevenge.co:80/1234560/1234560/81548
-#EXTINF:-1,TELEKOM - BBL SPORT 1  NUR SPIEL TAG
-http://rv.therevenge.co:80/1234560/1234560/81547
-#EXTINF:-1,TELEKOM - BBL SPORT 2  NUR SPIEL TAG
-http://rv.therevenge.co:80/1234560/1234560/81546
-#EXTINF:-1,TELEKOM - BBL SPORT 3  NUR SPIEL TAG
-http://rv.therevenge.co:80/1234560/1234560/81545
-#EXTINF:-1,TELEKOM - BBL SPORT 4  NUR SPIEL TAG
-http://rv.therevenge.co:80/1234560/1234560/81544
 #EXTINF:-1,TELEKOM - SKY SPORT KOMPAKT 1 HD  NUR SPIEL TAG
 http://rv.therevenge.co:80/1234560/1234560/81543
 #EXTINF:-1,TELEKOM - SKY SPORT KOMPAKT 2 HD  NUR SPIEL TAG
@@ -1144,18 +831,6 @@ http://rv.therevenge.co:80/1234560/1234560/81456
 http://rv.therevenge.co:80/1234560/1234560/81455
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://rv.therevenge.co:80/1234560/1234560/81454
-#EXTINF:-1,FILMCLUB 1 HD
-http://rv.therevenge.co:80/1234560/1234560/81453
-#EXTINF:-1,FILMCLUB 2 HD
-http://rv.therevenge.co:80/1234560/1234560/81452
-#EXTINF:-1,FILMCLUB 3 HD
-http://rv.therevenge.co:80/1234560/1234560/81451
-#EXTINF:-1,FILMCLUB 4 HD
-http://rv.therevenge.co:80/1234560/1234560/81450
-#EXTINF:-1,FILMCLUB 5 HD
-http://rv.therevenge.co:80/1234560/1234560/81449
-#EXTINF:-1,FILMCLUB 6 HD
-http://rv.therevenge.co:80/1234560/1234560/81448
 #EXTINF:-1,BOSS MOVIES 1 HD
 http://rv.therevenge.co:80/1234560/1234560/81447
 #EXTINF:-1,BOSS MOVIES 2 HD
@@ -1232,19 +907,6 @@ https://sc.id-tv.kz/DaVinci_34_35.m3u8
 https://tv.artcom-venture.de/dmf/tv.m3u8
 #EXTINF:-1 tvg-id="dorftv.de" tvg-name="dorf tv" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:-1 tvg-id="DresdenFernsehen.de" tvg-name="Dresden Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Dresden Fernsehen (1080p)
-#EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Arabic (400p)
-https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",DW English (400p)
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English (400p)
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",DW English (720p)
-https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (400p)
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-id="ELBEKANAL.de" tvg-name="ELBEKANAL" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/IKslrJu.png" group-title="",ELBEKANAL (576p)
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
 #EXTINF:-1 tvg-id="eoTV.de" tvg-name="eo TV" tvg-country="DE;AT;CH" tvg-language="German" tvg-logo="https://i.imgur.com/oitJsZU.png" group-title="",eo TV
