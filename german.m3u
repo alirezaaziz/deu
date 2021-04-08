@@ -41,6 +41,14 @@ http://188.35.9.5:10020/stolen/500w/hot.dll
 http://152.89.62.111:8080/m123/m123/146533
 #EXTINF:-1,N24
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203838
+#EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="Deutsche Welle" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelleEN.de" tvg-name="Deutsche Welle (EN)" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle (EN)
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelleES.de" tvg-name="Deutsche Welle (ES)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle (ES)
+http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle+
+http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deutsche Welle
 https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
@@ -63,32 +71,38 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",Deutsche Welle (400p)
 https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-Deutsche-Welle+
-http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (720p)
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (540p)
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_1992_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-tagesschau24+,tagesschau 24
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE FHD
-http://152.89.62.111:8080/m123/m123/146274
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE HD
 http://152.89.62.111:8080/m123/m123/146521
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Undefined",Das Erste
-https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Undefined",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das Erste HD
-https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",Das Erste HD (720p)
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1,DAS ERSTE HD (ARD)
+http://rv.therevenge.co:80/1234560/1234560/81630
+#EXTINF:-1,|DE|HEVC| DAS ERSTE HD
+http://rv.therevenge.co:80/1234560/1234560/83203
+#EXTINF:-1,|DE|HEVC| DAS ERSTE
+http://rv.therevenge.co:80/1234560/1234560/83202
+#EXTINF:-1,DAS ERSTE (ARD)
+http://rv.therevenge.co:80/1234560/1234560/81629
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png tvg-url="" group-title="",COMEDY CENTRAL
 https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://rv.therevenge.co:80/1234560/1234560/81491
+#EXTINF:-1,|DE|HEVC| COMEDY CENTRAL HD
+http://rv.therevenge.co:80/1234560/1234560/83106
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png tvg-url="" group-title="",COMEDY CENTRAL
 https://s3.hopslan.com/tele55/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Campus-TV-Magdeburg+
 http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",Deutsche Welle (480p)
-http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:-1 tvg-id="DieNeueZeit.ch" tvg-name="Die Neue Zeit" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" tvg-url="" group-title="",Die Neue Zeit (576p)
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
 #EXTINF:-1 tvg-id="FCBayernMunchenTV.de" tvg-name="FC Bayern München TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/b6tcf2i.jpg" tvg-url="" group-title="Sport",FC Bayern München TV (1080p)
@@ -165,6 +179,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=5c631817-0713-11eb-9df2-0242ac110002&deviceId=5e8b5a4bb7da5c0007e5c9e9&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",CARTOON NETWORK FHD
 http://152.89.62.111:8080/m123/m123/146346
+#EXTINF:-1,CARTOON NETWORK
+http://rv.therevenge.co:80/1234560/1234560/81495
+#EXTINF:-1,|DE|HEVC| CARTOON NETWORK
+http://rv.therevenge.co:80/1234560/1234560/83110
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5db6a56ce10f0b0009e64037/colorLogoPNG.png" group-title="Undefined",Cats 24/7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db6a56ce10f0b0009e64037/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=4f8f5d53-0580-11eb-8b9f-0242ac110002&deviceId=5db6a56ce10f0b0009e64037&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e8c4c3f141f350007936f7d/colorLogoPNG.png" group-title="Undefined",Chefkoch
@@ -249,8 +267,9 @@ https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",Deutsche Welle
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-country="DE" tvg-url="" group-title="German",Deutsche Welle Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="Deutsche Welle" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",Deutsche Welle (480p)
+http://ott-cdn.ucom.am/s26/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" tvg-country="CH" tvg-url="" group-title="German",Die Neue Zeit
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eJgCFh6.png" tvg-country="DE" tvg-url="" group-title="German",Donau TV
@@ -337,16 +356,6 @@ https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8
 https://58b42f6c8c9bf.streamlock.net:8080/live/melodie/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A21WS1A.png" tvg-country="CH" tvg-url="" group-title="German",Musig24
 https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="German",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="German",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="German",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="German",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="German",München TV
-http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="German",München TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="German",NDR Fernsehen
@@ -533,10 +542,6 @@ https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/smyvTHD.jpg" tvg-country="DE" tvg-url="" group-title="German",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1,|DE|HEVC| DAS ERSTE HD
-http://rv.therevenge.co:80/1234560/1234560/83203
-#EXTINF:-1,|DE|HEVC| DAS ERSTE
-http://rv.therevenge.co:80/1234560/1234560/83202
 #EXTINF:-1,|DE|HEVC| ARTE HD
 http://rv.therevenge.co:80/1234560/1234560/83201
 #EXTINF:-1,|DE|HEVC| 3SAT
@@ -719,16 +724,12 @@ http://rv.therevenge.co:80/1234560/1234560/83113
 http://rv.therevenge.co:80/1234560/1234560/83112
 #EXTINF:-1,|DE|HEVC| SUPER RTL
 http://rv.therevenge.co:80/1234560/1234560/83111
-#EXTINF:-1,|DE|HEVC| CARTOON NETWORK
-http://rv.therevenge.co:80/1234560/1234560/83110
 #EXTINF:-1,|DE|HEVC| DISNEY CHANNEL HD
 http://rv.therevenge.co:80/1234560/1234560/83109
 #EXTINF:-1,|DE|HEVC| KIKA
 http://rv.therevenge.co:80/1234560/1234560/83108
 #EXTINF:-1,|DE|HEVC| DISNEY CINEMAGIC HD
 http://rv.therevenge.co:80/1234560/1234560/83107
-#EXTINF:-1,|DE|HEVC| COMEDY CENTRAL HD
-http://rv.therevenge.co:80/1234560/1234560/83106
 #EXTINF:-1,|DE|HEVC| NICK+ /MTV
 http://rv.therevenge.co:80/1234560/1234560/83105
 #EXTINF:-1,##### NACHRICHTEN | HEVC (4K) #####
@@ -737,8 +738,6 @@ http://rv.therevenge.co:80/1234560/1234560/83104
 http://rv.therevenge.co:80/1234560/1234560/83103
 #EXTINF:-1,|DE|HEVC| N-TV HD
 http://rv.therevenge.co:80/1234560/1234560/83102
-#EXTINF:-1,|DE|HEVC| EURONEWS FRENCH
-http://rv.therevenge.co:80/1234560/1234560/83101
 #EXTINF:-1,|DE|HEVC| EURONEWS GERMAN
 http://rv.therevenge.co:80/1234560/1234560/83100
 #EXTINF:-1,|DE|HEVC| WELT HD
@@ -811,10 +810,6 @@ http://rv.therevenge.co:80/1234560/1234560/81633
 http://rv.therevenge.co:80/1234560/1234560/81632
 #EXTINF:-1,CORONA VIRUS INFO
 http://rv.therevenge.co:80/1234560/1234560/81631
-#EXTINF:-1,DAS ERSTE HD (ARD)
-http://rv.therevenge.co:80/1234560/1234560/81630
-#EXTINF:-1,DAS ERSTE (ARD)
-http://rv.therevenge.co:80/1234560/1234560/81629
 #EXTINF:-1,ARTE HD
 http://rv.therevenge.co:80/1234560/1234560/81628
 #EXTINF:-1,3 SAT
@@ -1071,16 +1066,12 @@ http://rv.therevenge.co:80/1234560/1234560/81498
 http://rv.therevenge.co:80/1234560/1234560/81497
 #EXTINF:-1,SUPER RTL
 http://rv.therevenge.co:80/1234560/1234560/81496
-#EXTINF:-1,CARTOON NETWORK
-http://rv.therevenge.co:80/1234560/1234560/81495
 #EXTINF:-1,DISNEY CHANNEL HD
 http://rv.therevenge.co:80/1234560/1234560/81494
 #EXTINF:-1,KIKA
 http://rv.therevenge.co:80/1234560/1234560/81493
 #EXTINF:-1,DISNEY CINEMAGIC HD
 http://rv.therevenge.co:80/1234560/1234560/81492
-#EXTINF:-1,COMEDY CENTRAL HD
-http://rv.therevenge.co:80/1234560/1234560/81491
 #EXTINF:-1,NICK+ /MTV
 http://rv.therevenge.co:80/1234560/1234560/81490
 #EXTINF:-1,##### NACHRICHTEN #####
@@ -1091,8 +1082,6 @@ http://rv.therevenge.co:80/1234560/1234560/81488
 http://rv.therevenge.co:80/1234560/1234560/81487
 #EXTINF:-1,N24
 http://rv.therevenge.co:80/1234560/1234560/81486
-#EXTINF:-1,EURONEWS FRENCH
-http://rv.therevenge.co:80/1234560/1234560/81485
 #EXTINF:-1,EURONEWS GERMAN
 http://rv.therevenge.co:80/1234560/1234560/81484
 #EXTINF:-1,WELT HD
@@ -1209,8 +1198,6 @@ http://rv.therevenge.co:80/1234560/1234560/81429
 http://rv.therevenge.co:80/1234560/1234560/81428
 #EXTINF:-1,SKY POPCORN SELECT 6 HD
 http://rv.therevenge.co:80/1234560/1234560/81427
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",3sat [Geo-blocked]
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" group-title="",a.tv (1080p)
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="Anixe HD" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/641px-Anixe_HD.svg.png" group-title="",Anixe HD (720p)
@@ -1241,18 +1228,11 @@ https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playl
 http://sc.id-tv.kz:80/DaVinci_38_39.m3u8
 #EXTINF:-1 tvg-id="DaVinci.de" tvg-name="Da Vinci" tvg-country="CIS" tvg-language="Russian" tvg-logo="" group-title="Kids",Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",Das Erste HD (720p)
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" group-title="",Das Erste HD (720p)
-https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="deutsches-musik-fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" group-title="",Deutsches Musik Fernsehen (720p)
 https://tv.artcom-venture.de/dmf/tv.m3u8
 #EXTINF:-1 tvg-id="dorftv.de" tvg-name="dorf tv" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 #EXTINF:-1 tvg-id="DresdenFernsehen.de" tvg-name="Dresden Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Dresden Fernsehen (1080p)
-https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW (400p)
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Arabic (400p)
 https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",DW English
@@ -1281,12 +1261,8 @@ http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="OKWeinstrasse.de" tvg-name="OK Weinstraße" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",OK Weinstraße (360p)
 https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Phoenix [Geo-blocked]
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-id="SonusFM.de" tvg-name="Sonus FM" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="Music",Sonus FM
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",tagesschau24 (720p)
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-id="TeleM1.de" tvg-name="Tele M1" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Tele M1
 https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index.m3u8
 #EXTINF:-1 tvg-id="teltowkanal.de" tvg-name="teltOwkanal" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/05UB2YT.png" group-title="",TeltOwkanal (1080p)
@@ -1299,12 +1275,6 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="Sport",World of Freesports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",ZDF [Geo-blocked]
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",ZDFinfo [Geo-blocked]
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",ZDFneo [Geo-blocked]
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/2U84ozo.png" group-title="",People are Awesome
 https://jukin-peopleareawesome-2-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="",Qello Concerts by Stingray
@@ -1421,8 +1391,6 @@ http://stream.spreeradio.de/spree-80er/mp3-128/konsole
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/0OoMMbd.png" group-title="",Bibel TV
 http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="",Das Erste HD
-https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/bPCsrYQ.jpg" group-title="",Ems Vechte Welle
 https://live.radio-aktiv.de/evw.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="",Franken Fernsehen Nürnberg
@@ -1455,13 +1423,17 @@ https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
 https://s.ok54.de/mok-ks/kassel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="",Offener Kanal Rhein-Main
 https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="Deutsche Welle" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelleEN.de" tvg-name="Deutsche Welle (EN)" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle (EN)
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelleES.de" tvg-name="Deutsche Welle (ES)" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle (ES)
-http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",Deutsche Welle+
-http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png" group-title="",Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1,RTL Klub
+https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8
+#EXTINF:-1,RTL Klub
+https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1,RTL II HD
+https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8
+#EXTINF:-1,RTL II HD
+https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1,RTL Gold
+https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
+#EXTINF:-1,RTL+
+https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
