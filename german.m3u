@@ -21,22 +21,34 @@ https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_4.m3u8
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="",ORF 3 (720p)
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:-1,RTL
-http://rv.imax.re:80/4334276722/8502631953/81618
 #EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
 https://s4.hopslan.com/rtl2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/2.png" tvg-url="" group-title="",RTL2
-https://fernsehzone.online/2ix23.php/rtl2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTL CRIME HD
+http://rv.therevenge.co:80/1234560/1234560/81475
+#EXTINF:-1,RTL PASSION HD
+http://rv.therevenge.co:80/1234560/1234560/81474
+#EXTINF:-1,SUPER RTL
+http://rv.therevenge.co:80/1234560/1234560/81496
+#EXTINF:-1,RTL LIVING
+http://rv.therevenge.co:80/1234560/1234560/81527
+#EXTINF:-1,RTL HD
+http://rv.therevenge.co:80/1234560/1234560/81621
+#EXTINF:-1,RTLII HD
+http://rv.therevenge.co:80/1234560/1234560/81620
+#EXTINF:-1,RTL TELVISION
+http://rv.therevenge.co:80/1234560/1234560/81619
+#EXTINF:-1,RTL2
+http://rv.therevenge.co:80/1234560/1234560/81618
+#EXTINF:-1,RTL PLUS
+http://rv.therevenge.co:80/1234560/1234560/81617
+#EXTINF:-1,RTL NITRO
+http://rv.therevenge.co:80/1234560/1234560/81616
 #EXTINF:-1 tvg-id="Nitro" tvg-name="Nitro" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/02/6.png" tvg-url="" group-title="",Nitro
 https://s2.hopslan.com/nitro/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sat 1 HD
 https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503867/L2Jo6MDMG8S0TTXlGBSxhQ/10699.m3u8
 #EXTINF:-1 tvg-id="pro7maxx" tvg-name="pro7maxx" tvg-country="DE" tvg-language="German" tvg-logo="https://www.2ix2.com/wp-content/uploads/2018/09/pro7maxx-logo.png" tvg-url="" group-title="",pro7maxx
 https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" tvg-country="DE" tvg-url="" group-title="German",Prosieben
-http://188.35.9.5:10020/stolen/496w/hot.dll
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-language="German" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/prosiebenmaxx/logo/prosiebenmaxx_ox__W1000xh0.jpg" tvg-country="DE" tvg-url="" group-title="German",Prosieben Maxx
-http://188.35.9.5:10020/stolen/500w/hot.dll
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3SAT HD
 http://152.89.62.111:8080/m123/m123/146533
 #EXTINF:-1,N24
@@ -407,14 +419,6 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/playlist.m3u8
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/G030MZb.png" tvg-country="CH" tvg-url="" group-title="German",Rouge TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png" tvg-country="DE" tvg-url="" group-title="German",RTL
-http://5.135.92.133:52841/out/u/115_1.m3u8
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png" tvg-country="DE" tvg-url="" group-title="German",RTL Nitro
-http://188.35.9.5:10020/stolen/479d/hot.dll
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus" tvg-language="German" tvg-logo="https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png" tvg-country="DE" tvg-url="" group-title="German",RTL Plus
-http://188.35.9.5:10020/stolen/480c/hot.dll
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/2000px-RTL2_Logo.svg.png" tvg-country="DE" tvg-url="" group-title="German",RTL2
-http://5.135.92.133:52841/out/u/119_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9fAlB8K.png" tvg-country="CH" tvg-url="" group-title="German",RTS Couleur 3
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/SSDLpPU.png" tvg-country="AT" tvg-url="" group-title="German",RTS-Salzburg
@@ -509,18 +513,6 @@ http://rv.therevenge.co:80/1234560/1234560/81631
 http://rv.therevenge.co:80/1234560/1234560/81628
 #EXTINF:-1,3 SAT
 http://rv.therevenge.co:80/1234560/1234560/81627
-#EXTINF:-1,RTL HD
-http://rv.therevenge.co:80/1234560/1234560/81621
-#EXTINF:-1,RTLII HD
-http://rv.therevenge.co:80/1234560/1234560/81620
-#EXTINF:-1,RTL TELVISION
-http://rv.therevenge.co:80/1234560/1234560/81619
-#EXTINF:-1,RTL2
-http://rv.therevenge.co:80/1234560/1234560/81618
-#EXTINF:-1,RTL PLUS
-http://rv.therevenge.co:80/1234560/1234560/81617
-#EXTINF:-1,RTL NITRO
-http://rv.therevenge.co:80/1234560/1234560/81616
 #EXTINF:-1,SIXX HD
 http://rv.therevenge.co:80/1234560/1234560/81615
 #EXTINF:-1,PROSIEBEN HD
@@ -689,8 +681,6 @@ http://rv.therevenge.co:80/1234560/1234560/81529
 http://rv.therevenge.co:80/1234560/1234560/81528
 #EXTINF:-1,TLC HD
 https://s3.hopslan.com/tlc/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTL LIVING
-http://rv.therevenge.co:80/1234560/1234560/81527
 #EXTINF:-1,SPIEGEL GESCHICHTE HD
 http://rv.therevenge.co:80/1234560/1234560/81526
 #EXTINF:-1,DELUXE MUSIC HD
@@ -751,8 +741,6 @@ http://rv.therevenge.co:80/1234560/1234560/81499
 http://rv.therevenge.co:80/1234560/1234560/81498
 #EXTINF:-1,BOOMERANG
 http://rv.therevenge.co:80/1234560/1234560/81497
-#EXTINF:-1,SUPER RTL
-http://rv.therevenge.co:80/1234560/1234560/81496
 #EXTINF:-1,DISNEY CHANNEL HD
 http://rv.therevenge.co:80/1234560/1234560/81494
 #EXTINF:-1,KIKA
@@ -787,10 +775,6 @@ http://rv.therevenge.co:80/1234560/1234560/81478
 http://rv.therevenge.co:80/1234560/1234560/81477
 #EXTINF:-1,KINOWELT TV
 http://rv.therevenge.co:80/1234560/1234560/81476
-#EXTINF:-1,RTL CRIME HD
-http://rv.therevenge.co:80/1234560/1234560/81475
-#EXTINF:-1,RTL PASSION HD
-http://rv.therevenge.co:80/1234560/1234560/81474
 #EXTINF:-1,ROMANCE TV
 http://rv.therevenge.co:80/1234560/1234560/81473
 #EXTINF:-1,##### KINO HD #####
@@ -1087,15 +1071,3 @@ https://s.ok54.de/mok-ks/kassel/playlist.m3u8
 https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschesmusikfernsehen.png" group-title="",Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
-#EXTINF:-1,RTL Klub
-https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8
-#EXTINF:-1,RTL Klub
-https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
-#EXTINF:-1,RTL II HD
-https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8
-#EXTINF:-1,RTL II HD
-https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
-#EXTINF:-1,RTL Gold
-https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
-#EXTINF:-1,RTL+
-https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
