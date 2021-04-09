@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,DeutschlandFunk Radio
-https://dradio-edge-3099-dus-ts-cdn.cast.addradio.de/dradio/dlf/live/mp3/128/stream.mp3
-#EXTINF:-1,DeutschlandFunk Kultur Radio
-https://dradio-edge-3098-dus-ts-cdn.cast.addradio.de/dradio/kultur/live/mp3/128/stream.mp3
-#EXTINF:-1,DeutschlandFunk Nova Radio
-https://dradio-edge-2099-dus-lg-cdn.cast.addradio.de/dradio/nova/live/mp3/128/stream.mp3
 #EXTINF:-1,ARD HD
 http://rv.therevenge.co:80/1234560/1234560/81625
 #EXTINF:-1,ZDF
@@ -15,6 +9,12 @@ http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23426
 http://rv.therevenge.co:80/1234560/1234560/81623
 #EXTINF:-1,ZDF NEO
 http://rv.therevenge.co:80/1234560/1234560/81622
+#EXTINF:-1,DeutschlandFunk Radio
+https://dradio-edge-3099-dus-ts-cdn.cast.addradio.de/dradio/dlf/live/mp3/128/stream.mp3
+#EXTINF:-1,DeutschlandFunk Kultur Radio
+https://dradio-edge-3098-dus-ts-cdn.cast.addradio.de/dradio/kultur/live/mp3/128/stream.mp3
+#EXTINF:-1,DeutschlandFunk Nova Radio
+https://dradio-edge-2099-dus-lg-cdn.cast.addradio.de/dradio/nova/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-url="" group-title="General",ORF 1 (540p)
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_4.m3u8
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png" tvg-url="" group-title="",ORF 2 (720p)
@@ -51,6 +51,10 @@ https://c6.xcxc.cf/web/1/www.24detv.de/c10/1616503867/L2Jo6MDMG8S0TTXlGBSxhQ/106
 https://s3.hopslan.com/pro7maxx/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3SAT HD
 http://152.89.62.111:8080/m123/m123/146533
+#EXTINF:-1,TLC HD
+https://to.hopslan.com/tlc/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TLC HD
+http://rv.therevenge.co:80/1234560/1234560/81528
 #EXTINF:-1,N24
 http://thejoysoflife.is-a-anarchist.com:8080/test2/test2/203838
 #EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="DW" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",DW
@@ -95,13 +99,15 @@ http://rv.therevenge.co:80/1234560/1234560/83203
 http://rv.therevenge.co:80/1234560/1234560/83202
 #EXTINF:-1,DAS ERSTE (ARD)
 http://rv.therevenge.co:80/1234560/1234560/81629
+#EXTINF:-1,KABEL EINS doku HD
+https://s3.hopslan.com/dokuu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png tvg-url="" group-title="",COMEDY CENTRAL
 https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COMEDY CENTRAL HD
 http://rv.therevenge.co:80/1234560/1234560/81491
 #EXTINF:-1,|DE|HEVC| COMEDY CENTRAL HD
 http://rv.therevenge.co:80/1234560/1234560/83106
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png tvg-url="" group-title="",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="TELE 5" tvg-name="TELE 5" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png tvg-url="" group-title="",TELE 5
 https://s3.hopslan.com/tele55/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Campus-TV-Magdeburg+
 http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
@@ -535,8 +541,6 @@ http://rv.therevenge.co:80/1234560/1234560/81607
 http://rv.therevenge.co:80/1234560/1234560/81606
 #EXTINF:-1,KABEL EINS HD
 http://rv.therevenge.co:80/1234560/1234560/81605
-#EXTINF:-1,KABEL EINS doku HD
-https://s3.hopslan.com/dokuu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KABEL EINS CLASSICS HD
 http://rv.therevenge.co:80/1234560/1234560/81604
 #EXTINF:-1,TELE 5 HD
@@ -677,10 +681,6 @@ http://rv.therevenge.co:80/1234560/1234560/81531
 http://rv.therevenge.co:80/1234560/1234560/81530
 #EXTINF:-1,NAT GEO WILD HD
 http://rv.therevenge.co:80/1234560/1234560/81529
-#EXTINF:-1,TLC HD
-http://rv.therevenge.co:80/1234560/1234560/81528
-#EXTINF:-1,TLC HD
-https://s3.hopslan.com/tlc/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SPIEGEL GESCHICHTE HD
 http://rv.therevenge.co:80/1234560/1234560/81526
 #EXTINF:-1,DELUXE MUSIC HD
