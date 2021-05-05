@@ -205,8 +205,6 @@ http://51.210.199.16/hls/stream.m3u8
 https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:-1 tvg-id="HighVision.ir" tvg-name="High Vision" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="",High Vision Tv
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Afn.ir" tvg-name="AFN" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="",AFN TV
-https://unirtmp.tulix.tv/tintv2/tintv2//chunklist_w1726529328.m3u8
 #EXTINF:-1 tvg-id="BazmeAsheghan.ir" tvg-name="Bazme Asheghan" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="",Bazme Asheghan
 https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4 KURD" tvg-logo="https://i.imgur.com/MPVcUbP.png" group-title="IRAN",4 KURD
@@ -231,24 +229,6 @@ https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
 https://stream01.nasimrezvan.com/hls/kWpVnHbakbDBZJLBqMHMMkRT/index.m3u8
 #EXTINF:-1 tvg-id="Haram 1" tvg-name="Haram 1" tvg-country="IR" tvg-language="Arabic" tvg-logo="" group-title="Religious",Haram 1 (360p)
 https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
-#EXTINF:-1,peepbox movie
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23632
-#EXTINF:-1,peepbox jounior
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23633
-#EXTINF:-1,peepbox music
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/29029
-#EXTINF:-1,PMC SD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23670
-#EXTINF:-1,PMC HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23671
-#EXTINF:-1,Tapesh TV SD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23672
-#EXTINF:-1,Tapesh TV HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23673
-#EXTINF:-1,T2 Tapesh HD
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23674
-#EXTINF:-1,Ekran TV
-http://iptvs1.peepboxtv.com:25461/p4pTv3Vx2y/VmqZ7lCLhb/23806
 #EXTINF:-1,### ۩ Film ۩ ###
 #EXTINF:-1,Khamushi darya (480p)
 https://stream.falnd.xyz/movies/99/Khamushi-Darya-480.mp4
@@ -352,6 +332,8 @@ https://srteam.falnd.xyz/series/malakeye-gedayan/15.480.mp4
 https://srteam.falnd.xyz/series/malakeye-gedayan/16.480.mp4
 #EXTINF:-1,Malakeye Gedayan EP17 (480p)
 https://srteam.falnd.xyz/series/malakeye-gedayan/17.480.mp4
+#EXTINF:-1,Malakeye Gedayan EP18 (480p)
+https://srteam.falnd.xyz/series/malakeye-gedayan/18.480.mp4
 #EXTINF:-1,Ghoorbaghe EP1 (480p)
 https://streem.falnd.xyz/series/ghoorbaghe/01.480.mp4
 #EXTINF:-1,Ghoorbaghe EP2 (480p)
