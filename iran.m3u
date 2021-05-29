@@ -56,7 +56,7 @@ https://live1.presstv.com/live/ifilm2_360p/index.m3u8
 #EXTINF:-1 tvg-id="NavahangTV.ir" tvg-name="Navahang TV" tvg-country="IR" tvg-language="Persian" tvg-logo="http://www.navahang.com/apple-touch-icon.png" tvg-url="" group-title="Music",Navahang TV
 http://51.210.227.130/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RadioJavanTV.ir" tvg-name="Radio Javan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music",Radio Javan TV (360p)
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w774851328_b746000.m3u8
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1298337246_b746000.m3u8
 #EXTINF:-1 tvg-id="RadioJavanTV.ir" tvg-name="Radio Javan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music",Radio Javan TV (720p)
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u8
 #EXTINF:-1 tvg-id="RadioJavanTV.ir" tvg-name="Radio Javan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music",Radio Javan TV (1080p)
@@ -240,6 +240,8 @@ https://srteam.falnd.xyz/movies/1400/Bad.az.to.720.mp4
 https://stream.falnd.xyz/movies/99/Shenaye_Parvaneh.480p.mp4
 #EXTINF:-1,Zir Noor Kam (720p) 
 https://srteam.falnd.xyz/movies/1400/zire.noore.kam.720.mp4
+#EXTINF:-1,Jonoon (720p) 
+https://srteam.filmestoon.com/movies/1400/Jonoon_720.mp4
 #EXTINF:-1,Anha EP1 (720p)
 https://srteam.filmestoon.com/series/anha/01.720.mp4
 #EXTINF:-1,The Good, the Bad, the Corny Part 1 (480p)
@@ -288,6 +290,8 @@ https://stream.falnd.xyz/series/haft-khan/08.480.mp4
 https://stream.falnd.xyz/series/haft-khan/08.480.mp4
 #EXTINF:-1,Pishgoo EP1 (480p)
 https://srteam.filmestoon.com/series/pishgoo/01.480.mp4
+#EXTINF:-1,Pishgoo EP2 (480p)
+https://srteam.filmestoon.com/series/pishgoo/02.480.mp4
 #EXTINF:-1,Shab Ahangi EP1 (480p)
 https://streem.falnd.xyz/series/shab-ahangi/01.480.mp4
 #EXTINF:-1,Shab Ahangi EP2 (480p)
@@ -314,6 +318,8 @@ https://srteam.filmestoon.com/series/mardome-mamooli/02.480.mp4
 https://srteam.filmestoon.com/series/mardome-mamooli/03.480.mp4
 #EXTINF:-1,Mardome Mamooli EP4 (480p)
 https://srteam.filmestoon.com/series/mardome-mamooli/04.480.mp4
+#EXTINF:-1,Mardome Mamooli EP5 (480p)
+https://srteam.filmestoon.com/series/mardome-mamooli/05.480.mp4
 #EXTINF:-1,Malakeye Gedayan EP1 (480p)
 https://srteam.falnd.xyz/series/malakeye-gedayan/01.480.mp4
 #EXTINF:-1,Malakeye Gedayan EP2 (480p)
