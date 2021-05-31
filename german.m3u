@@ -11,26 +11,14 @@ https://dradio-edge-3099-dus-ts-cdn.cast.addradio.de/dradio/dlf/live/mp3/128/str
 https://dradio-edge-3098-dus-ts-cdn.cast.addradio.de/dradio/kultur/live/mp3/128/stream.mp3
 #EXTINF:-1,DeutschlandFunk Nova Radio
 https://dradio-edge-2099-dus-lg-cdn.cast.addradio.de/dradio/nova/live/mp3/128/stream.mp3
-#EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="DW" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",DW
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png" group-title="",DW+
-http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW
-https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW+
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DW+
-https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-b.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="News;Undefined",DW
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",DW (400p)
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",DW+ (400p)
 https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",DW (480p)
-http://ott-cdn.ucom.am/s26/index.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (540p)
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_1992_av-p.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (720p)
@@ -261,8 +249,6 @@ https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/NUP8ZBb.png" tvg-country="DE" tvg-url="" group-title="German",RAN1 Regionalfernsehen
 http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/oYho5l3.jpg" tvg-country="DE" tvg-url="" group-title="German",Regio TV Bodensee
-https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XTMWFx7.jpg" tvg-country="DE" tvg-url="" group-title="German",Regio TV Schwaben
 http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",RFO
@@ -411,8 +397,6 @@ https://xite-samsung-de.amagi.tv/playlist.m3u8
 https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/slOK2IH.jpg" group-title="",Comedy Movies DE
 https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/l3C0eDv.jpg" group-title="",Der Serienkanal DE (breaks off)
-https://endemol-derserienkanal-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="",Drama DE
 https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="",Eleven Sports (UK)
@@ -425,8 +409,6 @@ https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/gKNP2Gd.png" group-title="",Insight TV
 https://insighttv-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png" group-title="",OK Koblenz
-https://s.ok54.de/ok4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/xRzItla.png" group-title="",Radio BOB
 https://streams.radiobob.de/bob-national/mp3-192
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/cytXyRK.png" group-title="",Radio Ostrock
