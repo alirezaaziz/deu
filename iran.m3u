@@ -4,7 +4,7 @@ https://s-cloud.irib.ir/twb/live/tv1/tv1_dvr-720p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB TV1 480p
 https://s-cloud.irib.ir/twb/live/tv1/tv1_dvr-480p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB TV2
-https://sdm.telewebion.com/live/tv2/tv2_dvr-576p/index.m3u8
+https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/media_w1549329550_22112.ts
 #EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB TV3 720p
 https://s-cloud.irib.ir/twb/live/tv3/tv3_dvr-720p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB TV3 IR" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-url="" group-title="IRIB",IRIB TV3 480p
@@ -56,7 +56,7 @@ http://51.210.227.130/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RadioJavanTV.ir" tvg-name="Radio Javan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music",Radio Javan TV (360p)
 https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioJavanTV.ir" tvg-name="Radio Javan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music",Radio Javan TV (720p)
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w492998944_b1992000.m3u8
+https://stream.rjtv.stream/live/smil:rjtv.smil/media_w291259515_b1992000_24975.ts
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",PMC HD
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC Persian (S)
@@ -280,6 +280,8 @@ https://srteam.filmestoon.com/series/zakhme-kari/04.720.mp4
 https://srteam.filmestoon.com/series/zakhme-kari/05.720.mp4
 #EXTINF:-1,Zakhme kari EP6(720p)
 https://srteam.filmestoon.com/series/zakhme-kari/06.720.mp4
+#EXTINF:-1,Zakhme kari EP7(720p)
+https://srteam.filmestoon.com/series/zakhme-kari/07.720.mp4
 #EXTGRP:The Good, the Bad, the Corny Part
 #EXTINF:-1,The Good, the Bad, the Corny Part 1 (720p)
 https://stream.filmestoon.com/series/khoob-bad-jelf-radioactive/01.720.mp4
@@ -357,6 +359,8 @@ https://srteam.filmestoon.com/series/pishgoo/06.720.mp4
 https://srteam.filmestoon.com/series/pishgoo/07.720.mp4
 #EXTINF:-1,Pishgoo EP8 (720p)
 https://srteam.filmestoon.com/series/pishgoo/08.720.mp4
+#EXTINF:-1,Pishgoo EP9 (720p)
+https://srteam.filmestoon.com/series/pishgoo/09.720.mp4
 #EXTGRP:Shab Ahangi
 #EXTINF:-1,Shab Ahangi EP1 (720p)
 https://streem.falnd.xyz/series/shab-ahangi/01.720.mp4
