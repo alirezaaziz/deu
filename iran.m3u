@@ -171,6 +171,8 @@ https://stream01.nasimrezvan.com/hls/kWpVnHbakbDBZJLBqMHMMkRT/index.m3u8
 #EXTINF:-1 tvg-id="Haram 1" tvg-name="Haram 1" tvg-country="IR" tvg-language="Arabic" tvg-logo="" group-title="Religious",Haram 1 (360p)
 https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
 #EXTGRP:Film Cinema
+#EXTINF:-1,Khoon Shod (720p)
+https://straem.filmestoon.com/movies/1400/Khoon.Shod-720p.mp4
 #EXTINF:-1,Khorshid (720p)
 https://srteam.filmestoon.com/movies/1400/khorshid.720.mp4
 #EXTINF:-1,Khamushi darya (480p)
@@ -216,6 +218,8 @@ https://srteam.filmestoon.com/series/anha/07.720.mp4
 https://srteam.filmestoon.com/series/anha/08.720.mp4
 #EXTINF:-1,Anha EP9 (720p)
 https://srteam.filmestoon.com/series/anha/09.720.mp4
+#EXTINF:-1,Anha EP10 (720p)
+https://srteam.filmestoon.com/series/anha/10.720.mp4
 #EXTGRP:Zakhme kari
 #EXTINF:-1,Zakhme kari EP1(720p)
 https://srteam.filmestoon.com/series/zakhme-kari/01.720.mp4
