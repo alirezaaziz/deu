@@ -171,6 +171,8 @@ https://stream01.nasimrezvan.com/hls/kWpVnHbakbDBZJLBqMHMMkRT/index.m3u8
 #EXTINF:-1 tvg-id="Haram 1" tvg-name="Haram 1" tvg-country="IR" tvg-language="Arabic" tvg-logo="" group-title="Religious",Haram 1 (360p)
 https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
 #EXTGRP:Film Cinema
+#EXTINF:-1,Jonoon (720p)
+https://srteam.filmestoon.com/movies/1400/Jonoon_720.mp4
 #EXTINF:-1,Khoon Shod (720p)
 https://straem.filmestoon.com/movies/1400/Khoon.Shod-720p.mp4
 #EXTINF:-1,Khorshid (720p)
@@ -204,6 +206,8 @@ https://srteam.filmestoon.com/movies/1400/goorkan-720.mp4
 #EXTGRP:Khatoon
 #EXTINF:-1,Khatoon EP1 (720p)
 https://srteam.filmestoon.com/series/khatoon2021/01.720.mp4
+#EXTINF:-1,Khatoon EP2 (720p)
+https://srteam.filmestoon.com/series/khatoon2021/02.720.mp4
 #EXTGRP:Ghebleye Alam
 #EXTINF:-1,Ghebleye Alam EP1 (720p)
 https://streem.filmestoon.com/series/ghebleye-alam/01.720.mp4
@@ -253,6 +257,8 @@ https://srteam.filmestoon.com/series/zakhme-kari/09.720.mp4
 https://srteam.filmestoon.com/series/zakhme-kari/10.720.mp4
 #EXTINF:-1,Zakhme kari EP11(720p)
 https://srteam.filmestoon.com/series/zakhme-kari/11.720.mp4
+#EXTINF:-1,Zakhme kari EP12(720p)
+https://srteam.filmestoon.com/series/zakhme-kari/12.720.mp4
 #EXTGRP:The Good, the Bad, the Corny Part
 #EXTINF:-1,The Good, the Bad, the Corny Part 1 (720p)
 https://streem.filmestoon.com/series/khoob-bad-jelf-radioactive/01.720.mp4
