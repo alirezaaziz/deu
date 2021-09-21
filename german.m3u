@@ -1,24 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-url="" group-title="General",ORF 1 (540p)
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_4.m3u8
-#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png" tvg-url="" group-title="",ORF 2 (720p)
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="",ORF 3 (720p)
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW+ Hd
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",DW+ (400p)
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream02/streamPlaylist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW Hd
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream04/streamPlaylist.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream02/streamPlaylist.m3u8
 #EXTINF:-1,DeutschlandFunk Radio
 https://dradio-edge-3099-dus-ts-cdn.cast.addradio.de/dradio/dlf/live/mp3/128/stream.mp3
 #EXTINF:-1,DeutschlandFunk Kultur Radio
 https://dradio-edge-3098-dus-ts-cdn.cast.addradio.de/dradio/kultur/live/mp3/128/stream.mp3
-#EXTINF:-1,DeutschlandFunk Nova Radio
-https://dradio-edge-2099-dus-lg-cdn.cast.addradio.de/dradio/nova/live/mp3/128/stream.mp3
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW+
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/V1aKGRi.png" group-title="News",DW
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW" tvg-country="DE;AT;BE;LI;LU;CH" tvg-language="German" tvg-logo="" tvg-url="" group-title="News",DW+ (400p)
-https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (540p)
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_1992_av-p.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",tagesschau24 (720p)
@@ -27,20 +19,10 @@ https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",Das Erste HD (720p)
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:-1,KABEL EINS doku HD
-https://s3.hopslan.com/doku/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-country="DE" tvg-language="German" tvg-logo="https://2ix2.com/wp-content/uploads/2019/09/10.png tvg-url="" group-title="",COMEDY CENTRAL
-https://s2.hopslan.com/viva/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Campus-TV-Magdeburg+
-http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
 #EXTINF:-1 tvg-id="DieNeueZeit.ch" tvg-name="Die Neue Zeit" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" tvg-url="" group-title="",Die Neue Zeit (576p)
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
-#EXTINF:-1 tvg-id="FCBayernMunchenTV.de" tvg-name="FC Bayern München TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/b6tcf2i.jpg" tvg-url="" group-title="Sport",FC Bayern München TV (1080p)
-https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8
 #EXTINF:-1 tvg-id="FS1Salzburg.at" tvg-name="FS1 (Salzburg)" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/HSRpYUl.jpg" tvg-url="" group-title="",FS1 (Salzburg)
 https://stream.fs1.tv/hls/webstream.m3u8
-#EXTINF:-1 tvg-id="GoTV.at" tvg-name="GoTV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/UxISEZf.png" tvg-url="" group-title="",GoTV (576p)
-https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
 #EXTINF:-1 tvg-id="IDHDJKT.de" tvg-name="ID HD (JKT)" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="Movies",ID HD (JKT)
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/nQVDOVb.png" tvg-url="" group-title="",Kanal 9 (1080p)
@@ -53,8 +35,6 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 http://123tv.cdn.ses-ps.com/index.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="Sport",Action Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&deviceId=5be1be871843b56328bc3ef1&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png" group-title="Undefined",Animals
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=9015b970-057f-11eb-aeab-0242ac110002&deviceId=5d767ae7b456c8cf265ce922&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5ad9b6f57ef2767e1846e59f/colorLogoPNG.png" group-title="Undefined",Animals+
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b6f8a12a-554c-4970-82ca-4dc1f84a4016&deviceId=d548b050-1c0f-11eb-8801-b9710ba01352&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="Undefined",Auction Hunters
@@ -63,46 +43,20 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45d07774600007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" group-title="Undefined",BLK TV
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BR FERNSEHEN
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",BR HD
-https://br_hdslive-f.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Baden TV
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Beatz TV
-http://mini-main.site:8080/i3/LyKP9AmYws/871
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e78f4dd001977000787d7e3/colorLogoPNG.png" group-title="Undefined",Being Human
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e78f4dd001977000787d7e3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=dd1d87dc-057f-11eb-a18c-0242ac110002&deviceId=5e78f4dd001977000787d7e3&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e8b551ddcd25500072c4dad/colorLogoPNG.png" group-title="Undefined",Beyblade Burst nick
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&deviceId=5e8b551ddcd25500072c4dad&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e8b60419becf60008c841fd/colorLogoPNG.png" group-title="Undefined",Blaze nick
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=ebc579c0-0712-11eb-97af-0242ac110002&deviceId=5e8b60419becf60008c841fd&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e8b564ff59d130007363823/colorLogoPNG.png" group-title="Undefined",Blue's Clues nick
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=29e99f3f-0713-11eb-a59f-0242ac110002&deviceId=5e8b564ff59d130007363823&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e8b5a4bb7da5c0007e5c9e9/colorLogoPNG.png" group-title="Undefined",Bubble Guppies
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=5c631817-0713-11eb-9df2-0242ac110002&deviceId=5e8b5a4bb7da5c0007e5c9e9&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5db6a56ce10f0b0009e64037/colorLogoPNG.png" group-title="Undefined",Cats 24/7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db6a56ce10f0b0009e64037/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=4f8f5d53-0580-11eb-8b9f-0242ac110002&deviceId=5db6a56ce10f0b0009e64037&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e8c4c3f141f350007936f7d/colorLogoPNG.png" group-title="Undefined",Chefkoch
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8c4c3f141f350007936f7d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=8ae325bb-0580-11eb-9df2-0242ac110002&deviceId=5e8c4c3f141f350007936f7d&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e1efd0dbbe3ba000908b639/colorLogoPNG.png" group-title="Undefined",Comedy
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1efd0dbbe3ba000908b639/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2ede5357-0728-11eb-82fe-0242ac110002&deviceId=5e1efd0dbbe3ba000908b639&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG.png" group-title="Undefined",Comedy Central
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=5ca4fefb-0728-11eb-a18c-0242ac110002&deviceId=5d4947590ba40f75dc29c26b&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5dcea6bc6fb8890009322ff3/colorLogoPNG.png" group-title="Undefined",Comedy Central +
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcea6bc6fb8890009322ff3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90d72ed4-4920-4983-a25f-2926c714e415&deviceId=5dcea6bc6fb8890009322ff3&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5d4948418101147596fd6c5a/colorLogoPNG.png" group-title="Undefined",Comedy Central Made in Germany
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4948418101147596fd6c5a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91083755-0728-11eb-aeab-0242ac110002&deviceId=5d4948418101147596fd6c5a&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e7b8923fc302800079e4f4f/colorLogoPNG.png" group-title="Undefined",Comedy Central Made in Germany+
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7b8923fc302800079e4f4f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=ee59b770-663e-4463-bf9b-3f7c374fbc39&deviceId=5e7b8923fc302800079e4f4f&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png" group-title="Undefined",Crime
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7b6c60fd20c50007910bf5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b2da8f50-0581-11eb-97af-0242ac110002&deviceId=5e7b6c60fd20c50007910bf5&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-Offener-Kanal-Magdeburg+
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8
 #EXTINF:0 tvg-country="DE" tvg-logo="https://images.pluto.tv/channels/5e843d849109b700075d5ada/colorLogoPNG.png" group-title="Undefined",Dark Matter
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e843d849109b700075d5ada/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=ddc64e1e-0581-11eb-82fe-0242ac110002&deviceId=5e843d849109b700075d5ada&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby
-#EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" tvg-logo="http://logos.zattic.com/images/channels/logos/bd9d0bcc49c2b74017ad/black/84x48.png" group-title="GERMANY",ServusTV HD
-https://to.hopslan.com/servustv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-country="DE" tvg-url="" group-title="German",a.tv
 http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",Allgäu TV
@@ -111,8 +65,6 @@ http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlis
 https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" tvg-country="CH" tvg-url="" group-title="German",Canal Alpha Jura
 https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" tvg-country="CH" tvg-url="" group-title="German",Die Neue Zeit
-https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eJgCFh6.png" tvg-country="DE" tvg-url="" group-title="German",Donau TV
 http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eJgCFh6.png" tvg-country="DE" tvg-url="" group-title="German",Donau TV
@@ -215,18 +167,10 @@ http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png" tvg-country="DE" tvg-url="" group-title="German",Offener Kanal Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/B5obZtE.png" tvg-country="DE" tvg-url="" group-title="German",Offener Kanal Salzwedel
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",Offener Kanal Salzwedel
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",OK-Stendal
 http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",OK-Stendal
 http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",Okto
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Z9LgT0v.jpg" tvg-country="AT" tvg-url="" group-title="German",Okto Eight
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/K1hkyd7.png" tvg-country="DE" tvg-url="" group-title="German",Oldenburg Eins
 http://oeins.de:1935/live/studio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/C6Hp5Pb.jpg" tvg-country="AT" tvg-url="" group-title="German",P3tv
@@ -257,6 +201,12 @@ http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
 http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="rheinmaintv" tvg-language="German" tvg-logo="https://i.imgur.com/G7W4K3K.png" tvg-country="DE" tvg-url="" group-title="German",Rheinmain TV
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-url="" group-title="General",ORF 1 (540p)
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_4.m3u8
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png" tvg-url="" group-title="",ORF 2 (720p)
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-url="" group-title="",ORF 3 (720p)
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="RiC" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/SXkIqPG.png" tvg-country="DE" tvg-url="" group-title="German",RiC
 https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",RiC / eoTV
@@ -467,8 +417,6 @@ https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
 https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenneVorarlbergWebradio.de" tvg-name="Antenne Vorarlberg (Webradio)" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/TpBbZwq.png" group-title="",Antenne Vorarlberg (Webradio) (720p) [Not 24/7]
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ARDEvent1.de" tvg-name="ARD Event 1" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png" group-title="",ARD Event 1 (540p)
-http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",ARD-alpha (720p)
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",ARD-alpha (720p)
@@ -477,10 +425,6 @@ https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_1_av-p.m3u8
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3660_av-p.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" tvg-country="DE" tvg-language="" tvg-logo="http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png" group-title="",ARD-alpha (720p)
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-id="ARTITV.de" tvg-name="ARTI TV" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",ARTI TV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
-#EXTINF:-1 tvg-id="ARTITV.de" tvg-name="ARTI TV" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",ARTI TV
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/139.m3u8
 #EXTINF:-1 tvg-id="BadenTV.de" tvg-name="Baden TV" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",Baden TV (720p)
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel TV" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png" group-title="",Bibel TV (720p)
@@ -535,22 +479,12 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:elbe_high/play
 https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="eoTV.de" tvg-name="eoTV HD" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/eotvhd.png" group-title="",eoTV HD (1080p)
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
-#EXTINF:-1 tvg-id="ERFeins.de" tvg-name="ERF 1" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/erf1.png" group-title="",ERF 1
-http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8
-#EXTINF:-1 tvg-id="ERF1.de" tvg-name="ERF 1" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",ERF 1
-https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/chunklist_b18848000_slde.m3u8
 #EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-name="Erz-TV Stollberg" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/VenSjan.png" group-title="",Erz-TV Stollberg (576p)
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroAlTV.de" tvg-name="EuroAl TV" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Q1UOlkA.png" group-title="Music",EuroAl TV
-http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 #EXTINF:-1 tvg-id="Filstalwelle.de" tvg-name="Filstalwelle" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",Filstalwelle
 http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
 #EXTINF:-1 tvg-id="Filstalwelle.de" tvg-name="Filstalwelle" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="",Filstalwelle (576p)
 http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="FOLXMusic.de" tvg-name="FOLX Music" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="Music",FOLX Music (1080p)
-https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
-#EXTINF:-1 tvg-id="FOLXSlovenija.de" tvg-name="FOLX Slovenija" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/R9f5Fmx.png" group-title="Music",FOLX Slovenija (1080p)
-https://serve-first.folxplay.tv/folx/ch-5/master.m3u8
 #EXTINF:-1 tvg-id="FrankenTV.de" tvg-name="Franken Fernsehen" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="",Franken Fernsehen
 https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
 #EXTINF:-1 tvg-id="FriesischerRundfunkFriedeburg.de" tvg-name="Friesischer Rundfunk Friedeburg" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/jynL4Xl.png" group-title="",Friesischer Rundfunk Friedeburg (350p)
@@ -587,12 +521,6 @@ http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
 #EXTINF:-1 tvg-id="Muxxtv.de" tvg-name="Muxx.tv" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/QUOxNbF.png" group-title="",Muxx.tv (1080p)
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="NDREvent1.de" tvg-name="NDR Event 1" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png" group-title="",NDR Event 1
-https://ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="NDREvent2.de" tvg-name="NDR Event 2" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png" group-title="",NDR Event 2
-https://ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="NDREvent3.de" tvg-name="NDR Event 3" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png" group-title="",NDR Event 3 (720p)
-https://ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8
 #EXTINF:-1 tvg-id="NDRHamburg.de" tvg-name="NDR Hamburg" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",NDR Hamburg (720p)
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_1992_av-p.m3u8
 #EXTINF:-1 tvg-id="NDRHamburg.de" tvg-name="NDR Hamburg" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",NDR Hamburg (720p)
@@ -653,12 +581,6 @@ https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
 http://62.113.210.250:1935/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8?&ref=www.okmq.de&seid=800040
 #EXTINF:-1 tvg-id="OffenerKanalMerseburg.de" tvg-name="Offener Kanal Merseburg" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",Offener Kanal Merseburg (1080p)
 http://62.113.210.250:1935/medienasa-live/ok-merseburg_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalSalzwedel.de" tvg-name="Offener Kanal Salzwedel" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",Offener Kanal Salzwedel (1080p)
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalSalzwedel.de" tvg-name="Offener Kanal Salzwedel" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",Offener Kanal Salzwedel (1080p)
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/iptvm3uplaylists.m3u8
-#EXTINF:-1 tvg-id="OffenerKanalSalzwedel.de" tvg-name="Offener Kanal Salzwedel" tvg-country="DE" tvg-language="German" tvg-logo="https://ok-salzwedel.de/wp-content/themes/oksaw/images/logo-home.png" group-title="",Offener Kanal Salzwedel (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8?&ref=ok-salzwedel.de&seid=783487
 #EXTINF:-1 tvg-id="OffenerKanalTrier.de" tvg-name="Offener Kanal Trier" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png" group-title="",Offener Kanal Trier (720p)
 https://s.ok54.de/ott/webstream/playlist.m3u8
 #EXTINF:-1 tvg-id="OffenerKanalSudwestpfalz.de" tvg-name="Offener Kanal Südwestpfalz" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/q5G6MZ5.jpg" group-title="",Offener Kanal TV Südwestpfalz (1080p)
@@ -689,14 +611,6 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-merseburg_h
 https://s.ok54.de/nahetv/webstream/chunks.m3u8
 #EXTINF:-1 tvg-id="OKRheinLokalWorms.de" tvg-name="OK RheinLokal (Worms)" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinlokal.png" group-title="",OK RheinLokal (Worms)
 https://s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8
-#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-name="OK Salzwedel" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",OK Salzwedel (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-salzwedel_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKSALZWEDEL.de" tvg-name="OK SALZWEDEL" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",OK SALZWEDEL (1080p)
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/BratuMarian.m3u8
-#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-name="OK Salzwedel" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png" group-title="",OK Salzwedel (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKSalzwedelTV.de" tvg-name="OK Salzwedel TV" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",OK Salzwedel TV
-http://62.113.210.250/medienasa-live/ok-salzwedel_high/chunklist_w623677241.m3u8
 #EXTINF:-1 tvg-id="OKStendal.de" tvg-name="OK Stendal" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png" group-title="",OK Stendal (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
 #EXTINF:-1 tvg-id="OKStendal.de" tvg-name="OK Stendal" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",OK Stendal (1080p)
@@ -775,10 +689,6 @@ https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/p
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
 #EXTINF:-1 tvg-id="RockAntenne.de" tvg-name="Rock Antenne" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/eZKNvkT.png" group-title="",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
-#EXTINF:-1 tvg-id="Rockland.de" tvg-name="Rockland TV" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rocklandtv.png" group-title="",Rockland TV (720p)
-http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
-#EXTINF:-1 tvg-id="RocklandTVMainz.de" tvg-name="Rockland TV - Mainz" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="",Rockland TV - Mainz (720p)
-http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 #EXTINF:-1 tvg-id="RWEErfurt.de" tvg-name="RWE Erfurt" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/AMzEPGl.jpg" group-title="",RWE Erfurt
 https://stream.keyweb.org:8085/hls/rwetv.m3u8
 #EXTINF:-1 tvg-id="seenluft24.de" tvg-name="seenluft24" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/seenluft24.png" group-title="",seenluft24
@@ -797,7 +707,7 @@ https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/play
 https://swrswr3vrhls-i.akamaihd.net/hls/live/780818/vrswr3/master-540p-1928.m3u8
 #EXTINF:-1 tvg-id="Sylt1.de" tvg-name="Sylt1" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sylt1.png" group-title="",Sylt1 (404p)
 https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SA14dtirolTV.de" tvg-name="SÃ¼dtirol TV" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",SÃ¼dtirol TV (720p)
+#EXTINF:-1 tvg-id="SA14dtirolTV.de" tvg-name="SÃ¼dtirol TV" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",Südtirol TV (720p)
 https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png" group-title="",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
@@ -813,8 +723,6 @@ https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TideTVHamburgab1200.de" tvg-name="Tide TV (Hamburg - ab 12:00)" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/p2lQVo0.png" group-title="",Tide TV (Hamburg - ab 12:00) (1080p)
 https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8?&ref=www.tidenet.de&seid=166119
-#EXTINF:-1 tvg-id="tiviTURK.de" tvg-name="tiviTÜRK" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="",tiviTÜRK
-https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="TVBayernLive.de" tvg-name="TV Bayern Live" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/WyJLIzA.jpg" group-title="",TV Bayern Live
 https://s3.welocal.world/tvbayernlive/media/134371/videos/hls.m3u8
 #EXTINF:-1 tvg-id="TVHalle.de" tvg-name="TV Halle" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvhalle.png" group-title="",TV Halle (720p)
@@ -829,8 +737,6 @@ https://stream01.stream.welocal.world/stream/tvi/ngrp:tvi.stream_all/playlist.m3
 https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/chunklist_w1756332856_b446000.m3u8
 #EXTINF:-1 tvg-id="TVMainfranken.de" tvg-name="TV Mainfranken" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="",TV Mainfranken (1080p)
 https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMittelrhein.de" tvg-name="TV Mittelrhein" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmittelrhein.png" group-title="",TV Mittelrhein (404p)
-https://sdn-global-live-http-cache.3qsdn.com/2979/amlst:5714-sbr/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOberfranken.de" tvg-name="TV Oberfranken" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png" group-title="",TV Oberfranken (1080p)
 https://stream02.stream.welocal.world/stream/tvo/ngrp:tvo.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TV38SudostNiedersachen.de" tvg-name="TV38 Südost-Niedersachen" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="",TV38 Südost-Niedersachen (576p)
@@ -843,13 +749,5 @@ http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master_3628.m3u8
 #EXTINF:-1 tvg-id="WDRKoeln.de" tvg-name="WDR Koeln" tvg-country="DE" tvg-language="" tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="",WDR Koeln (720p)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
-#EXTINF:-1 tvg-id="WesterwaldTV.de" tvg-name="Westerwald TV" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/westerwaldtv.png" group-title="",Westerwald TV (404p)
-https://sdn-global-live-http-cache.3qsdn.com/2980/amlst:5715-sbr/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="Sports",World of Freesports (720p)
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="Sports",World of Freesports
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",ZDF [Geo-blocked]
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ZWEI2Music.de" tvg-name="ZWEI2 Music" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/VVwHID9.png" group-title="Music",ZWEI2 Music (1080p)
 https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
