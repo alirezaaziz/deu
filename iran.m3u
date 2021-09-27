@@ -173,6 +173,8 @@ https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
 #EXTGRP:Film Cinema
 #EXTINF:-1,Parisa (720p)
 https://stream.filmestoon.com/movies/1400/parisa-720.mp4
+#EXTINF:-1,botax (720p)
+https://steam.filmestoon.com/movies/botox.720.mp4
 #EXTINF:-1,Az Raeis Jomhoor Padash nagirid (720p)
 https://srteam.filmestoon.com/movies/1400/az-raeis-jomhoor-padash-nagirid-720.mp4
 #EXTINF:-1,Jonoon (720p)
@@ -210,6 +212,8 @@ https://srteam.filmestoon.com/movies/1400/goorkan-720.mp4
 #EXTGRP:Meydane Sorkh
 #EXTINF:-1,Meydane Sorkh EP1 (720p)
 https://srteam.filmestoon.com/series/meydane-sorkh/01.720.mp4
+#EXTINF:-1,Meydane Sorkh EP2 (720p)
+https://srteam.filmestoon.com/series/meydane-sorkh/02.720.mp4
 #EXTGRP:Khatoon
 #EXTINF:-1,Khatoon EP1 (720p)
 https://srteam.filmestoon.com/series/khatoon2021/01.720.mp4
@@ -366,6 +370,8 @@ https://stream.filmestoon.com/series/haft-khan/24.720.mp4
 https://stream.filmestoon.com/series/haft-khan/25.720.mp4
 #EXTINF:-1,Haft Khan EP26(720p)
 https://stream.filmestoon.com/series/haft-khan/26.720.mp4
+#EXTINF:-1,Haft Khan EP27(720p)
+https://stream.filmestoon.com/series/haft-khan/27.720.mp4
 #EXTGRP:Pishgoo
 #EXTINF:-1,Pishgoo EP1 (720p)
 https://srteam.filmestoon.com/series/pishgoo/01.720.mp4
@@ -403,6 +409,8 @@ https://srteam.filmestoon.com/series/pishgoo/16.720.mp4
 https://srteam.filmestoon.com/series/pishgoo/17.720.mp4
 #EXTINF:-1,Pishgoo EP18 (720p)
 https://srteam.filmestoon.com/series/pishgoo/18.720.mp4
+#EXTINF:-1,Pishgoo EP19 (720p)
+https://srteam.filmestoon.com/series/pishgoo/19.720.mp4
 #EXTGRP:Shab Ahangi
 #EXTINF:-1,Shab Ahangi EP1 (720p)
 https://steam.filmestoon.com/series/shab-ahangi/01.720.mp4
@@ -450,6 +458,8 @@ https://steam.filmestoon.com/series/shab-ahangi/21.720.mp4
 https://steam.filmestoon.com/series/shab-ahangi/22.720.mp4
 #EXTINF:-1,Shab Ahangi EP23(720p)
 https://steam.filmestoon.com/series/shab-ahangi/23.720.mp4
+#EXTINF:-1,Shab Ahangi EP24(720p)
+https://steam.filmestoon.com/series/shab-ahangi/24.720.mp4
 #EXTGRP:Mardome Mamooli
 #EXTINF:-1,Mardome Mamooli EP1 (720p)
 https://srteam.filmestoon.com/series/mardome-mamooli/01.720.mp4
