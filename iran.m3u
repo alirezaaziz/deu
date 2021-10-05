@@ -173,6 +173,8 @@ https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
 #EXTGRP:Film Cinema
 #EXTINF:-1,Parisa (720p)
 https://stream.filmestoon.com/movies/1400/parisa-720.mp4
+#EXTINF:-1,Meditaraneh (720p)
+https://srteam.filmestoon.com/movies/1400/Meditaraneh-720.mp4
 #EXTINF:-1,botax (720p)
 https://steam.filmestoon.com/movies/botox.720.mp4
 #EXTINF:-1,Az Raeis Jomhoor Padash nagirid (720p)
@@ -229,6 +231,8 @@ https://srteam.filmestoon.com/series/khatoon2021/05.720.mp4
 https://srteam.filmestoon.com/series/khatoon2021/06.480.mp4
 #EXTINF:-1,Khatoon EP7 (720p)
 https://stream.filmestoon.com/series/khatoon2021/07.720.mp4
+#EXTINF:-1,Khatoon EP8 (720p)
+https://srteam.filmestoon.com/series/khatoon2021/08.720.mp4
 #EXTGRP:Ghebleye Alam
 #EXTINF:-1,Ghebleye Alam EP1 (720p)
 https://streem.filmestoon.com/series/ghebleye-alam/01.720.mp4
@@ -238,6 +242,8 @@ https://streem.filmestoon.com/series/ghebleye-alam/02.720.mp4
 https://srteam.filmestoon.com/series/ghebleye-alam/03.720.mp4
 #EXTINF:-1,Ghebleye Alam EP4 (720p)
 https://srteam.filmestoon.com/series/ghebleye-alam/04.720.mp4
+#EXTINF:-1,Ghebleye Alam EP5&6 (720p)
+https://srteam.filmestoon.com/series/ghebleye-alam/05.06.720.mp4
 #EXTGRP:Anha
 #EXTINF:-1,Anha EP1 (720p)
 https://srteam.filmestoon.com/series/anha/01.720.mp4
@@ -411,6 +417,8 @@ https://srteam.filmestoon.com/series/pishgoo/17.720.mp4
 https://srteam.filmestoon.com/series/pishgoo/18.720.mp4
 #EXTINF:-1,Pishgoo EP19 (720p)
 https://srteam.filmestoon.com/series/pishgoo/19.720.mp4
+#EXTINF:-1,Pishgoo EP20 (720p)
+https://srteam.filmestoon.com/series/pishgoo/20.720.mp4
 #EXTGRP:Shab Ahangi
 #EXTINF:-1,Shab Ahangi EP1 (720p)
 https://steam.filmestoon.com/series/shab-ahangi/01.720.mp4
