@@ -211,11 +211,23 @@ https://stream.filmestoon.com/movies/99/abadan.yazdah.60.480.mp4
 https://stream.filmestoon.com/movies/99/The.Night.2020.720.mp4
 #EXTINF:-1,Goorkan (720p)
 https://srteam.filmestoon.com/movies/1400/goorkan-720.mp4
+#EXTGRP:Herfei
+#EXTINF:-1,Herfei EP1 (720p)
+https://srteam.filmestoon.com/series/herfei/01.720.mp4
+#EXTGRP:Khosoof
+#EXTINF:-1,Khosoof EP1 (720p)
+https://srteam.filmestoon.com/series/khosoof/01.720.mp4
 #EXTGRP:Meydane Sorkh
 #EXTINF:-1,Meydane Sorkh EP1 (720p)
 https://srteam.filmestoon.com/series/meydane-sorkh/01.720.mp4
 #EXTINF:-1,Meydane Sorkh EP2 (720p)
 https://srteam.filmestoon.com/series/meydane-sorkh/02.720.mp4
+#EXTINF:-1,Meydane Sorkh EP3 (720p)
+https://srteam.filmestoon.com/series/meydane-sorkh/03.720.mp4
+#EXTINF:-1,Meydane Sorkh EP4 (720p)
+https://srteam.filmestoon.com/series/meydane-sorkh/04.720.mp4
+#EXTINF:-1,Meydane Sorkh EP5 (720p)
+https://srteam.filmestoon.com/series/meydane-sorkh/05.720.mp4
 #EXTGRP:Khatoon
 #EXTINF:-1,Khatoon EP1 (720p)
 https://srteam.filmestoon.com/series/khatoon2021/01.720.mp4
@@ -244,6 +256,8 @@ https://srteam.filmestoon.com/series/ghebleye-alam/03.720.mp4
 https://srteam.filmestoon.com/series/ghebleye-alam/04.720.mp4
 #EXTINF:-1,Ghebleye Alam EP5&6 (720p)
 https://srteam.filmestoon.com/series/ghebleye-alam/05.06.720.mp4
+#EXTINF:-1,Ghebleye Alam EP7 (720p)
+https://srteam.filmestoon.com/series/ghebleye-alam/07.720.mp4
 #EXTGRP:Anha
 #EXTINF:-1,Anha EP1 (720p)
 https://srteam.filmestoon.com/series/anha/01.720.mp4

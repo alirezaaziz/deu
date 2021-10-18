@@ -281,10 +281,6 @@ https://123tv-mx1.flex-cdn.net/index.m3u8
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",ARD-alpha (720p)
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",ARD-alpha (720p)
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png" group-title="",ARD-alpha (720p)
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3660_av-p.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" tvg-country="DE" tvg-language="" tvg-logo="http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png" group-title="",ARD-alpha (720p)
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="BadenTV.de" tvg-name="Baden TV" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",Baden TV (720p)
@@ -311,10 +307,6 @@ http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
 https://tv.artcom-venture.de/dmf/tv.m3u8
 #EXTINF:-1 tvg-id="DresdenFernsehen.de" tvg-name="Dresden Fernsehen" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",Dresden Fernsehen (1080p)
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="DUST.de" tvg-name="DUST" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="",DUST (720p)
-https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EktaTV.de" tvg-name="Ekta TV" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",Ekta TV
-https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8
 #EXTINF:-1 tvg-id="Elbekanal.de" tvg-name="Elbekanal" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",Elbekanal (576p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/elbe_high/playlist.m3u8
 #EXTINF:-1 tvg-id="ELBEKANAL.de" tvg-name="ELBEKANAL" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",ELBEKANAL
@@ -371,8 +363,6 @@ https://stream03.stream.welocal.world/stream/nla/ngrp:nla.stream_all/chunklist_w
 https://stream03.stream.welocal.world/stream/nla/ngrp:nla.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTVPassau.de" tvg-name="Niederbayern TV Passau" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/niederbayerntv.png" group-title="",Niederbayern TV Passau (1080p)
 https://stream03.stream.welocal.world/stream/npa/ngrp:npa.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NRT2HDPlus.de" tvg-name="NRT 2 HD+" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",NRT 2 HD+
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
 #EXTINF:-1 tvg-id="NRWISION.de" tvg-name="NRWISION" tvg-country="DE" tvg-language="" tvg-logo="" group-title="",NRWISION
 https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist_w1070249849.m3u8
 #EXTINF:-1 tvg-id="NRWisionHD.de" tvg-name="NRWision HD" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" group-title="",NRWision HD
