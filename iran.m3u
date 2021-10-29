@@ -211,12 +211,28 @@ https://stream.filmestoon.com/movies/99/abadan.yazdah.60.480.mp4
 https://stream.filmestoon.com/movies/99/The.Night.2020.720.mp4
 #EXTINF:-1,Goorkan (720p)
 https://srteam.filmestoon.com/movies/1400/goorkan-720.mp4
+#EXTGRP:Jazireh
+#EXTINF:-1,Jazireh EP1 (720p)
+https://srteam.filmestoon.com/series/jazireh/01.720.mp4
+#EXTGRP:Neysane Abi
+#EXTINF:-1,Neysane Abi EP1 (720p)
+https://srteam.filmestoon.com/series/neysane-abi/01.720.mp4
+#EXTINF:-1,Neysane Abi EP2 (720p)
+https://srteam.filmestoon.com/series/neysane-abi/02.720.mp4
 #EXTGRP:Herfei
 #EXTINF:-1,Herfei EP1 (720p)
 https://srteam.filmestoon.com/series/herfei/01.720.mp4
+#EXTINF:-1,Herfei EP2 (720p)
+https://srteam.filmestoon.com/series/herfei/02.720.mp4
+#EXTINF:-1,Herfei EP3 (720p)
+https://srteam.filmestoon.com/series/herfei/03.720.mp4
 #EXTGRP:Khosoof
 #EXTINF:-1,Khosoof EP1 (720p)
 https://srteam.filmestoon.com/series/khosoof/01.720.mp4
+#EXTINF:-1,Khosoof EP2 (720p)
+https://srteam.filmestoon.com/series/khosoof/02.720.mp4
+#EXTINF:-1,Khosoof EP3 (720p)
+https://srteam.filmestoon.com/series/khosoof/03.720.mp4
 #EXTGRP:Meydane Sorkh
 #EXTINF:-1,Meydane Sorkh EP1 (720p)
 https://srteam.filmestoon.com/series/meydane-sorkh/01.720.mp4
@@ -228,6 +244,10 @@ https://srteam.filmestoon.com/series/meydane-sorkh/03.720.mp4
 https://srteam.filmestoon.com/series/meydane-sorkh/04.720.mp4
 #EXTINF:-1,Meydane Sorkh EP5 (720p)
 https://srteam.filmestoon.com/series/meydane-sorkh/05.720.mp4
+#EXTINF:-1,Meydane Sorkh EP6 (720p)
+https://srteam.filmestoon.com/series/meydane-sorkh/06.720.mp4
+#EXTINF:-1,Meydane Sorkh EP7 (720p)
+https://srteam.filmestoon.com/series/meydane-sorkh/07.720.mp4
 #EXTGRP:Khatoon
 #EXTINF:-1,Khatoon EP1 (720p)
 https://srteam.filmestoon.com/series/khatoon2021/01.720.mp4
@@ -482,6 +502,12 @@ https://steam.filmestoon.com/series/shab-ahangi/22.720.mp4
 https://steam.filmestoon.com/series/shab-ahangi/23.720.mp4
 #EXTINF:-1,Shab Ahangi EP24(720p)
 https://steam.filmestoon.com/series/shab-ahangi/24.720.mp4
+#EXTINF:-1,Shab Ahangi EP25(720p)
+https://steam.filmestoon.com/series/shab-ahangi/25.720.mp4
+#EXTINF:-1,Shab Ahangi EP26(720p)
+https://steam.filmestoon.com/series/shab-ahangi/26.720.mp4
+#EXTINF:-1,Shab Ahangi EP27(720p)
+https://steam.filmestoon.com/series/shab-ahangi/27.720.mp4
 #EXTGRP:Mardome Mamooli
 #EXTINF:-1,Mardome Mamooli EP1 (720p)
 https://srteam.filmestoon.com/series/mardome-mamooli/01.720.mp4
