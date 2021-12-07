@@ -213,9 +213,18 @@ https://stream.filmestoon.com/movies/99/The.Night.2020.720.mp4
 https://srteam.filmestoon.com/movies/1400/goorkan-720.mp4
 #EXTINF:-1,Oliver twist (720p)
 https://srteam.filmestoon.com/movies/1400/oliver.twist.720.mp4
+#EXTGRP:Rooze balva
+#EXTINF:-1,Rooze balva EP1 (720p)
+https://srteam.filmestoon.com/series/rooze-balva/01.720.mp4
+#EXTINF:-1,Rooze balva EP2 (720p)
+https://srteam.filmestoon.com/series/rooze-balva/02.720.mp4
+#EXTINF:-1,Rooze balva EP3 (720p)
+https://srteam.filmestoon.com/series/rooze-balva/03.720.mp4
 #EXTGRP:Joker
 #EXTINF:-1,Joker EP1 (720p)
 https://srteam.filmestoon.com/series/joker/01.720.mp4
+#EXTINF:-1,Joker EP2 (720p)
+https://srteam.filmestoon.com/series/joker/02.720.mp4
 #EXTGRP:Jazireh
 #EXTINF:-1,Jazireh EP1 (720p)
 https://srteam.filmestoon.com/series/jazireh/01.720.mp4
@@ -229,6 +238,8 @@ https://srteam.filmestoon.com/series/jazireh/04.720.mp4
 https://srteam.filmestoon.com/series/jazireh/05.720.mp4
 #EXTINF:-1,Jazireh EP6 (720p)
 https://srteam.filmestoon.com/series/jazireh/06.720.mp4
+#EXTINF:-1,Jazireh EP7 (720p)
+https://srteam.filmestoon.com/series/jazireh/07.720.mp4
 #EXTGRP:Neysane Abi
 #EXTINF:-1,Neysane Abi EP1 (720p)
 https://srteam.filmestoon.com/series/neysane-abi/01.720.mp4
@@ -270,6 +281,8 @@ https://stream.filmestoon.com/series/khosoof/05.720.mp4
 https://stream.filmestoon.com/series/khosoof/06.720.mp4
 #EXTINF:-1,Khosoof EP7 (720p)
 https://stream.filmestoon.com/series/khosoof/07.720.mp4
+#EXTINF:-1,Khosoof EP8 (720p)
+https://srteam.filmestoon.com/series/khosoof/08.720.mp4
 #EXTGRP:Meydane Sorkh
 #EXTINF:-1,Meydane Sorkh EP1 (720p)
 https://srteam.filmestoon.com/series/meydane-sorkh/01.720.mp4
@@ -293,6 +306,8 @@ https://stream.filmestoon.com/series/meydane-sorkh/09.720.mp4
 https://stream.filmestoon.com/series/meydane-sorkh/10.720.mp4
 #EXTINF:-1,Meydane Sorkh EP11 (720p)
 https://stream.filmestoon.com/series/meydane-sorkh/11.720.mp4
+#EXTINF:-1,Meydane Sorkh EP12 (720p)
+https://srteam.filmestoon.com/series/meydane-sorkh/12.720.mp4
 #EXTGRP:Khatoon
 #EXTINF:-1,Khatoon EP1 (720p)
 https://srteam.filmestoon.com/series/khatoon2021/01.720.mp4
@@ -471,6 +486,12 @@ https://stream.filmestoon.com/series/haft-khan/32.720.mp4
 https://stream.filmestoon.com/series/haft-khan/33.720.mp4
 #EXTINF:-1,Haft Khan EP34(720p)
 https://stream.filmestoon.com/series/haft-khan/34.720.mp4
+#EXTINF:-1,Haft Khan EP35(720p)
+https://stream.filmestoon.com/series/haft-khan/35.720.mp4
+#EXTINF:-1,Haft Khan EP36(720p)
+https://stream.filmestoon.com/series/haft-khan/36.720.mp4
+#EXTINF:-1,Haft Khan EP37(720p)
+https://stream.filmestoon.com/series/haft-khan/37.720.mp4
 #EXTGRP:Pishgoo
 #EXTINF:-1,Pishgoo EP1 (720p)
 https://srteam.filmestoon.com/series/pishgoo/01.720.mp4
