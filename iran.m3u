@@ -96,6 +96,8 @@ http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4 TURK MUSIC" tvg-logo="https://i.imgur.com/hHv1tSI.png" group-title="IRAN",4 TURK MUSIC
 http://51.210.199.30/hls/stream.m3u8
 #EXTGRP:Film Cinema
+#EXTINF:-1,Binavayan (720p)
+https://serp.seocheck.one/movies/1400/Binavayan.720.mp4
 #EXTINF:-1,Parisa (720p)
 https://steam.filmestoon.com/movies/1400/parisa-720.mp4
 #EXTINF:-1,Meditaraneh (720p)
@@ -224,6 +226,8 @@ https://srteam.filmestoon.com/series/neysane-abi/12.720.mp4
 https://srteam.filmestoon.com/series/neysane-abi/13.720.mp4
 #EXTINF:-1,Neysane Abi EP14 (720p)
 https://srteam.filmestoon.com/series/neysane-abi/14.720.mp4
+#EXTINF:-1,Neysane Abi EP15 (720p)
+https://srteam.filmestoon.com/series/neysane-abi/15.720.mp4
 #EXTGRP:Herfei
 #EXTINF:-1,Herfei EP1 (720p)
 https://steam.filmestoon.com/series/herfei/01.720.mp4
@@ -342,6 +346,8 @@ https://srteam.filmestoon.com/series/khatoon2021/10.720.mp4
 https://srteam.filmestoon.com/series/khatoon2021/11.720.mp4
 #EXTINF:-1,Khatoon EP12 (720p)
 https://srteam.filmestoon.com/series/khatoon2021/12.720.mp4
+#EXTINF:-1,Khatoon EP13 (720p)
+https://srteam.filmestoon.com/series/khatoon2021/13.720.mp4
 #EXTGRP:Chandshanbe ba sina
 #EXTINF:-1,Chandshanbe ba sina EP13(720p)
 https://steam.filmestoon.com/series/chandshanbeh-ba-sina/se9/13.1080.mp4
