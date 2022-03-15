@@ -142,6 +142,8 @@ https://steam.filmestoon.com/movies/1400/goorkan-720.mp4
 https://steam.filmestoon.com/movies/1400/oliver.twist.720.mp4
 #EXTINF:-1,Hafteie Yekbar Adam Bash (720p)
 https://steam.filmestoon.com/movies/1400/Hafteie.Yekbar.Adam.Bash-720.mp4
+#EXTINF:-1,Sahnezani (720p)
+https://steam.farsicdn.xyz/movies/1400/Sahnezani-720.mp4
 #EXTGRP:Rooze balva
 #EXTINF:-1,Rooze balva EP1 (720p)
 https://steam.filmestoon.com/series/rooze-balva/01.720.mp4
@@ -149,11 +151,9 @@ https://steam.filmestoon.com/series/rooze-balva/01.720.mp4
 https://steam.filmestoon.com/series/rooze-balva/02.720.mp4
 #EXTINF:-1,Rooze balva EP3 (720p)
 https://steam.filmestoon.com/series/rooze-balva/03.720.mp4
-#EXTGRP:Bandbazi
-#EXTINF:-1,Bandbazi EP1 (720p)
-https://serp.seocheck.one/series/bandbazi/01.720.mp4
-#EXTINF:-1,Bandbazi EP2 (720p)
-https://serp.seocheck.one/series/bandbazi/02.720.mp4
+#EXTGRP:Soda
+#EXTINF:-1,Soda EP1 (720p)
+https://steam.farsicdn.xyz/series/soda/01.720.mp4
 #EXTGRP:Joker
 #EXTINF:-1,Joker EP1 (720p)
 https://steam.filmestoon.com/series/joker/01.720.mp4
@@ -180,39 +180,57 @@ https://srteam.filmestoon.com/series/joker/0303.720.mp4
 #EXTINF:-1,Joker EP4 S03 (720p)
 https://srteam.filmestoon.com/series/joker/0304.720.mp4
 #EXTINF:-1,Joker EP1 S04 (720p)
-https://srteam.filmestoon.com/series/joker/0401.720.mp4
+https://srteam.farsicdn.xyz/series/joker/0401.480.mp4
+#EXTINF:-1,Joker EP2 S04 (720p)
+https://srteam.farsicdn.xyz/series/joker/0402.480.mp4
+#EXTINF:-1,Joker EP3 S04 (720p)
+https://srteam.farsicdn.xyz/series/joker/0403.720.mp4
+#EXTINF:-1,Joker EP4 S04 (720p)
+https://srteam.farsicdn.xyz/series/joker/0404.720.mp4
 
 #EXTGRP:Neysane Abi
 #EXTINF:-1,Neysane Abi EP1 (720p)
-https://steam.filmestoon.com/series/neysane-abi/01.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/01.720.mp4
 #EXTINF:-1,Neysane Abi EP2 (720p)
-https://steam.filmestoon.com/series/neysane-abi/02.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/02.720.mp4
 #EXTINF:-1,Neysane Abi EP3 (720p)
-https://steam.filmestoon.com/series/neysane-abi/03.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/03.720.mp4
 #EXTINF:-1,Neysane Abi EP4 (720p)
-https://steam.filmestoon.com/series/neysane-abi/04.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/04.720.mp4
 #EXTINF:-1,Neysane Abi EP5 (720p)
-https://steam.filmestoon.com/series/neysane-abi/05.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/05.720.mp4
 #EXTINF:-1,Neysane Abi EP6 (720p)
-https://steam.filmestoon.com/series/neysane-abi/06.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/06.720.mp4
 #EXTINF:-1,Neysane Abi EP7 (720p)
-https://steam.filmestoon.com/series/neysane-abi/07.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/07.720.mp4
 #EXTINF:-1,Neysane Abi EP8 (720p)
-https://steam.filmestoon.com/series/neysane-abi/08.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/08.720.mp4
 #EXTINF:-1,Neysane Abi EP9 (720p)
-https://steam.filmestoon.com/series/neysane-abi/09.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/09.720.mp4
 #EXTINF:-1,Neysane Abi EP10 (720p)
-https://steam.filmestoon.com/series/neysane-abi/10.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/10.720.mp4
 #EXTINF:-1,Neysane Abi EP11 (720p)
-https://steam.filmestoon.com/series/neysane-abi/11.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/11.720.mp4
 #EXTINF:-1,Neysane Abi EP12 (720p)
-https://srteam.filmestoon.com/series/neysane-abi/12.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/12.720.mp4
 #EXTINF:-1,Neysane Abi EP13 (720p)
-https://srteam.filmestoon.com/series/neysane-abi/13.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/13.720.mp4
 #EXTINF:-1,Neysane Abi EP14 (720p)
-https://srteam.filmestoon.com/series/neysane-abi/14.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/14.720.mp4
 #EXTINF:-1,Neysane Abi EP15 (720p)
-https://srteam.filmestoon.com/series/neysane-abi/15.720.mp4
+https://stream.farsicdn.xyz/series/neysane-abi/15.720.mp4
+#EXTINF:-1,Neysane Abi EP16 (720p)
+https://stream.farsicdn.xyz/series/neysane-abi/16.720.mp4
+#EXTINF:-1,Neysane Abi EP17 (720p)
+https://stream.farsicdn.xyz/series/neysane-abi/17.720.mp4
+#EXTINF:-1,Neysane Abi EP18 (720p)
+https://stream.farsicdn.xyz/series/neysane-abi/18.720.mp4
+#EXTINF:-1,Neysane Abi EP19 (720p)
+https://stream.farsicdn.xyz/series/neysane-abi/19.720.mp4
+#EXTINF:-1,Neysane Abi EP20 (720p)
+https://stream.farsicdn.xyz/series/neysane-abi/20.720.mp4
+#EXTINF:-1,Neysane Abi EP21 (720p)
+https://stream.farsicdn.xyz/series/neysane-abi/21.720.mp4
 #EXTGRP:Herfei
 #EXTINF:-1,Herfei EP1 (720p)
 https://steam.filmestoon.com/series/herfei/01.720.mp4
@@ -278,33 +296,45 @@ https://srteam.filmestoon.com/series/khosoof/15.720.mp4
 
 #EXTGRP:Khatoon
 #EXTINF:-1,Khatoon EP1 (720p)
-https://steam.filmestoon.com/series/khatoon2021/01.720.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/01.720.mp4
 #EXTINF:-1,Khatoon EP2 (720p)
-https://steam.filmestoon.com/series/khatoon2021/02.720.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/02.720.mp4
 #EXTINF:-1,Khatoon EP3 (720p)
-https://steam.filmestoon.com/series/khatoon2021/03.720.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/03.720.mp4
 #EXTINF:-1,Khatoon EP4 (720p)
-https://streem.filmestoon.com/series/khatoon2021/04.720.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/04.720.mp4
 #EXTINF:-1,Khatoon EP5 (720p)
-https://steam.filmestoon.com/series/khatoon2021/05.720.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/05.720.mp4
 #EXTINF:-1,Khatoon EP6 (720p)
-https://steam.filmestoon.com/series/khatoon2021/06.480.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/06.480.mp4
 #EXTINF:-1,Khatoon EP7 (720p)
-https://steam.filmestoon.com/series/khatoon2021/07.720.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/07.720.mp4
 #EXTINF:-1,Khatoon EP8 (720p)
-https://steam.filmestoon.com/series/khatoon2021/08.720.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/08.720.mp4
 #EXTINF:-1,Khatoon EP9 (720p)
-https://steam.filmestoon.com/series/khatoon2021/09.720.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/09.720.mp4
 #EXTINF:-1,Khatoon EP10 (720p)
-https://srteam.filmestoon.com/series/khatoon2021/10.720.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/10.720.mp4
 #EXTINF:-1,Khatoon EP11 (720p)
-https://srteam.filmestoon.com/series/khatoon2021/11.720.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/11.720.mp4
 #EXTINF:-1,Khatoon EP12 (720p)
-https://srteam.filmestoon.com/series/khatoon2021/12.720.mp4
+https://srteam.farsicdn.xyz/series/khatoon2021/12.720.mp4
 #EXTINF:-1,Khatoon EP13 (720p)
-https://srteam.filmestoon.com/series/khatoon2021/13.720.mp4
-
-
+https://srteam.farsicdn.xyz/series/khatoon2021/13.720.mp4
+#EXTINF:-1,Khatoon EP14 (720p)
+https://srteam.farsicdn.xyz/series/khatoon2021/14.720.mp4
+#EXTINF:-1,Khatoon EP15 (720p)
+https://srteam.farsicdn.xyz/series/khatoon2021/15.720.mp4
+#EXTINF:-1,Khatoon EP16 (720p)
+https://srteam.farsicdn.xyz/series/khatoon2021/16.720.mp4
+#EXTINF:-1,Khatoon EP17 (720p)
+https://srteam.farsicdn.xyz/series/khatoon2021/17.720.mp4
+#EXTINF:-1,Khatoon EP18 (720p)
+https://srteam.farsicdn.xyz/series/khatoon2021/18.720.mp4
+#EXTINF:-1,Khatoon EP19 (720p)
+https://srteam.farsicdn.xyz/series/khatoon2021/19.720.mp4
+#EXTINF:-1,Khatoon EP20 (720p)
+https://srteam.farsicdn.xyz/series/khatoon2021/20.720.mp4
 
 #EXTINF:-1 tvg-id="1TvPersian.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Entertainment",1TvPersian (720p) [Not 24/7]
 https://1-215-11778-1.b.cdn13.com/onetvpersia001.m3u8
