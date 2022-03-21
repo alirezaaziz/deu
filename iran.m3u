@@ -98,52 +98,19 @@ http://51.210.199.30/hls/stream.m3u8
 #EXTGRP:Film Cinema
 #EXTINF:-1,Binavayan (720p)
 https://serp.seocheck.one/movies/1400/Binavayan.720.mp4
-#EXTINF:-1,Parisa (720p)
-https://steam.filmestoon.com/movies/1400/parisa-720.mp4
-#EXTINF:-1,Meditaraneh (720p)
-https://steam.filmestoon.com/movies/1400/Meditaraneh-720.mp4
-#EXTINF:-1,botax (720p)
-https://steam.filmestoon.com/movies/botox.720.mp4
-#EXTINF:-1,Az Raeis Jomhoor Padash nagirid (720p)
-https://steam.filmestoon.com/movies/1400/az-raeis-jomhoor-padash-nagirid-720.mp4
-#EXTINF:-1,Jonoon (720p)
-https://steam.filmestoon.com/movies/1400/Jonoon_720.mp4
-#EXTINF:-1,Khoon Shod (720p)
-https://straem.filmestoon.com/movies/1400/Khoon.Shod-720p.mp4
-#EXTINF:-1,Khorshid (720p)
-https://steam.filmestoon.com/movies/1400/khorshid.720.mp4
-#EXTINF:-1,Khamushi darya (480p)
-https://steam.filmestoon.com/movies/99/Khamushi-Darya-480.mp4
-#EXTINF:-1,Ghayeghran (720p)
-https://steam.filmestoon.com/movies/99/ghayeghran.720.mp4
-#EXTINF:-1,Bi Onvan (480p)
-https://steam.filmestoon.com/movies/99/bi-onvan-480.mp4
-#EXTINF:-1,bellafigura (480p)
-https://steam.filmestoon.com/movies/1400/bellafigura_480.mp4
-#EXTINF:-1,Bad Az To (720p) 
-https://steam.filmestoon.com/movies/1400/Bad.az.to.720.mp4
-#EXTINF:-1,Shenaye Parvaneh (480p) 
-https://steam.filmestoon.com/movies/99/Shenaye_Parvaneh.480p.mp4
-#EXTINF:-1,Zir Noor Kam (720p) 
-https://steam.filmestoon.com/movies/1400/zire.noore.kam.720.mp4
-#EXTINF:-1,Jonoon (720p) 
-https://steam.filmestoon.com/movies/1400/Jonoon_720.mp4
-#EXTINF:-1,Aghaye Sansoor (480p)
-https://steam.filmestoon.com/movies/1400/aghaye.sansoor.480.mp4
-#EXTINF:-1,Didane In Film Jorm Ast (480p)
-https://steam.filmestoon.com/movies/99/didaninfilmjormast-480p.mp4
-#EXTINF:-1,Abadan 11.60 (480p)
-https://steam.filmestoon.com/movies/99/abadan.yazdah.60.480.mp4
-#EXTINF:-1,The Night (Shab) (720p)
-https://steam.filmestoon.com/movies/99/The.Night.2020.720.mp4
-#EXTINF:-1,Goorkan (720p)
-https://steam.filmestoon.com/movies/1400/goorkan-720.mp4
 #EXTINF:-1,Oliver twist (720p)
 https://steam.filmestoon.com/movies/1400/oliver.twist.720.mp4
 #EXTINF:-1,Hafteie Yekbar Adam Bash (720p)
 https://steam.filmestoon.com/movies/1400/Hafteie.Yekbar.Adam.Bash-720.mp4
 #EXTINF:-1,Sahnezani (720p)
 https://steam.farsicdn.xyz/movies/1400/Sahnezani-720.mp4
+#EXTINF:-1,Dynamite (720p)
+https://steam.farsicdn.xyz/movies/1400/Dynamite-720.mp4
+#EXTGRP:Raze Bagha
+#EXTINF:-1,Raze Bagha EP1 (720p)
+https://srteam.farsicdn.xyz/series/raze-bagha/01.720.mp4
+#EXTINF:-1,Raze Bagha EP2 (720p)
+https://srteam.farsicdn.xyz/series/raze-bagha/02.720.mp4
 #EXTGRP:Rooze balva
 #EXTINF:-1,Rooze balva EP1 (720p)
 https://steam.filmestoon.com/series/rooze-balva/01.720.mp4
@@ -192,6 +159,8 @@ https://srteam.farsicdn.xyz/series/joker/0402.480.mp4
 https://srteam.farsicdn.xyz/series/joker/0403.720.mp4
 #EXTINF:-1,Joker EP4 S04 (720p)
 https://srteam.farsicdn.xyz/series/joker/0404.720.mp4
+#EXTINF:-1,Joker EP1 S05 (720p)
+https://srteam.farsicdn.xyz/series/joker/SE05/0501.720.mp4
 
 #EXTGRP:Neysane Abi
 #EXTINF:-1,Neysane Abi EP1 (720p)
@@ -356,6 +325,8 @@ https://srteam.farsicdn.xyz/series/khatoon2021/18.720.mp4
 https://srteam.farsicdn.xyz/series/khatoon2021/19.720.mp4
 #EXTINF:-1,Khatoon EP20 (720p)
 https://srteam.farsicdn.xyz/series/khatoon2021/20.720.mp4
+#EXTINF:-1,Khatoon EP21 (720p)
+https://srteam.farsicdn.xyz/series/khatoon2021/21.720.mp4
 
 #EXTINF:-1 tvg-id="1TvPersian.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Entertainment",1TvPersian (720p) [Not 24/7]
 https://1-215-11778-1.b.cdn13.com/onetvpersia001.m3u8
