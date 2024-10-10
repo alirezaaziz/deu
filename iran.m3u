@@ -6,14 +6,46 @@ https://hls.pmchd.live/hls/stream.m3u8
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Radio Javan" status="online",Radio Javan 
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Iran International TV" status="online",Avang
+#EXTINF:-1 tvg-id="Avang" status="online",Avang
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="BBC Persian" status="online",Navahang 
+#EXTINF:-1 tvg-id="Navahang" status="online",Navahang 
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="VOA Persian" status="online",VOA Persian 
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_1080/chunklist.m3u8
-#EXTINF:-1 tvg-id="Radio Javan" status="online",Radio Javan 
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1146853681_b2892000.m3u8
+#EXTINF:-1 tvg-id="AFN Music" status="online",AFN Music 
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="Persiana Music" status="online",Persiana Music 
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana HD" status="online",Persiana HD 
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana Iranian" status="online",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana One" status="online",Persiana One
+https://onehls.persiana.live/hls/stream.
+#EXTINF:-1 tvg-id="Persiana Two" status="online",Persiana Two
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana Comedy" status="online",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana Nostalgia" status="online",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana Cinema" status="online",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana Turkiye" status="online",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana Family" status="online",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana Korea" status="online",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana  Science" status="online",Persiana  Science
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana Junior" status="online",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana Rap" status="online",Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana Latino" status="online",Persiana Latino
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana Sonnati" status="online",Persiana Sonnati
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Persiana 4Kurd HD" status="online",Persiana 4Kurd HD
+https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir" status="online",AVA Family (720p) 
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVASeries.ir" status="online",AVA Series (720p)
