@@ -19,7 +19,7 @@ https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Persiana Iranian" status="online",Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Persiana One" status="online",Persiana One
-https://onehls.persiana.live/hls/stream.
+https://onehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Persiana Two" status="online",Persiana Two
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Persiana Comedy" status="online",Persiana Comedy
