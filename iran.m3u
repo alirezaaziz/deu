@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTGRP: Live TV
 #EXTINF:-1 tvg-id="PMC" status="online",PMC 
-https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202
+https://pmchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMC Select" status="online",PMC Select
 https://s5.radio.co/sf0a1af54c/listen
 #EXTINF:-1 tvg-id="Radio Javan" status="online",Radio Javan 
