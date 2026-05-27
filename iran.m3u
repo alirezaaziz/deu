@@ -52,8 +52,20 @@ https://realhls.persiana.live/hls/stream.m3u8
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVASeries.ir" status="online",AVA Series (720p)
 https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Iran International TV" status="online",Iran International TV
+https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
+#EXTINF:-1 tvg-id="farsitvlive" status="online",farsitvlive
+https://panel.farsitv.us:19360/farsitvlive/Source.m3u8
+#EXTINF:-1 tvg-id="MBC Persia" status="online",MBC Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4U TV" status="online",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4U Family" status="online",4U Family
+https://familyhls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MTC" status="online",MTC
 https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="homeplushls" status="online",homeplushls
+https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Arvan TV" status="online",Arvan TV
 https://arvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Gold Star TV" status="online",Gold Star TV
@@ -68,8 +80,6 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Net TV" status="online",Net TV
 https://nethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Newflix TV" status="online",Newflix TV
-https://newfhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Khatereh TV" status="online",Khatereh TV
 https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
 #EXTINF:-1 tvg-id="Payam Javan TV" status="online",Payam Javan TV
@@ -78,8 +88,6 @@ https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 https://live.yourtime.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITN TV" status="online",ITN TV
 https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MBC Persia" status="online",MBC Persia 
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="Ekran Movies" status="online",Ekran Movies (720p) 
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="OXIRTV.ir" status="error",OXIR TV (720p)
@@ -90,13 +98,33 @@ https://parshls.wns.live/hls/stream.m3u8
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 #EXTINF:-1 tvg-id="TapeshTV.ir" status="online",Tapesh TV (720p) 
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-id="Tapesh iran" status="online",Tapesh iran
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
 #EXTINF:-1 tvg-id="SL1.ir" status="online",SL 1 (720p)
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL2.ir" status="online",SL 2 (720p)
 https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="T2 Movie" status="online",T2 Movie (720p) 
-https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-id="T2TV" status="online",T2 (720p) 
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TinTV.ir" status="online",Tin TV (720p) 
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+#EXTINF:-1 tvg-id="247BoxTV.ir@SD",247 Box TV
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="iFilm2.ir@SD",iFilm 2
+https://live.presstv.ir/hls/ifilm2.m3u8
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD",iFilm Persian
+https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-id="CafeFilm.ir@SD",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ClassicTV.ir@SD",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DatisTV.ir@SD",Datis TV
+https://dathls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ICCplus.us@SD",ICC Plus (1080p)
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BBC Persian",BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="VOA Persian",VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 tvg-id="Pulse Media",Pulse Media
+https://pulsehls.wns.live/hls/stream.m3u8
