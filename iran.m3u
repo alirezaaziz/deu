@@ -20,9 +20,6 @@ https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AFN Music" group-title="🇮🇷 Persian - Music",AFN Music
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="4Music.fr@SD" group-title="🇮🇷 Persian - Music",4 Music
-https://itthls.wns.live/hls/stream.m3u8
-
 ## Persiana Network ─────────────────────────────────
 #EXTINF:-1 tvg-id="Persiana Music" group-title="🇮🇷 Persian - Music",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
