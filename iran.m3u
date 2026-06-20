@@ -1,270 +1,750 @@
 #EXTM3U
-#EXTGRP: Live TV
-#EXTINF:-1 tvg-id="PMC" status="online",PMC 
+
+## ─── Persian / Farsi ─────────────────────────────────────
+
+#EXTINF:-1 tvg-id="PMC" group-title="🇮🇷 Persian - Music",PMC
 https://pmchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PMC Select" status="online",PMC Select
+
+#EXTINF:-1 tvg-id="PMC Select" group-title="🇮🇷 Persian - Music",PMC Select
 https://s5.radio.co/sf0a1af54c/listen
-#EXTINF:-1 tvg-id="Radio Javan" status="online",Radio Javan 
+
+#EXTINF:-1 tvg-id="Radio Javan" group-title="🇮🇷 Persian - Music",Radio Javan
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Avang" status="online",Avang
+
+#EXTINF:-1 tvg-id="Avang" group-title="🇮🇷 Persian - Music",Avang
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Navahang" status="online",Navahang 
+
+#EXTINF:-1 tvg-id="Navahang" group-title="🇮🇷 Persian - Music",Navahang
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AFN Music" status="online",AFN Music 
+
+#EXTINF:-1 tvg-id="AFN Music" group-title="🇮🇷 Persian - Music",AFN Music
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
-#EXTINF:-1 tvg-id="Persiana Music" status="online",Persiana Music 
+
+#EXTINF:-1 tvg-id="4Music.fr@SD" group-title="🇮🇷 Persian - Music",4 Music
+https://itthls.wns.live/hls/stream.m3u8
+
+## Persiana Network ─────────────────────────────────
+#EXTINF:-1 tvg-id="Persiana Music" group-title="🇮🇷 Persian - Music",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana HD" status="online",Persiana HD 
-https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Iranian" status="online",Persiana Iranian
-https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Iranian" status="online",Persiana Sport
+
+#EXTINF:-1 tvg-id="Persiana Iranian" group-title="🇮🇷 Persian - Sports",Persiana Sport
 https://edge22.776740.ir.cdn.ir/hls2/persiana.m3u8
-#EXTINF:-1 tvg-id="Persiana One" status="online",Persiana Series
+
+#EXTINF:-1 tvg-id="Persiana One" group-title="🇮🇷 Persian - Movies & Series",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Comedy" status="online",Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Nostalgia" status="online",Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Cinema" status="online",Persiana Cinema
+
+#EXTINF:-1 tvg-id="Persiana Cinema" group-title="🇮🇷 Persian - Movies & Series",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Turkiye" status="online",Persiana Turkiye
+
+#EXTINF:-1 tvg-id="Persiana Comedy" group-title="🇮🇷 Persian - Movies & Series",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana Nostalgia" group-title="🇮🇷 Persian - Movies & Series",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana Turkiye" group-title="🇮🇷 Persian - Movies & Series",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Family" status="online",Persiana Family
-https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Korea" status="online",Persiana Korea
+
+#EXTINF:-1 tvg-id="Persiana Korea" group-title="🇮🇷 Persian - Movies & Series",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Junior" status="online",Persiana Junior
+
+#EXTINF:-1 tvg-id="Persiana Family" group-title="🇮🇷 Persian - Kids & Family",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana Junior" group-title="🇮🇷 Persian - Kids & Family",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Sonnati" status="online",Persiana Sonnati
+
+#EXTINF:-1 tvg-id="Persiana HD" group-title="🇮🇷 Persian - Entertainment",Persiana HD
+https://euhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana Iranian" group-title="🇮🇷 Persian - Entertainment",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana Sonnati" group-title="🇮🇷 Persian - Entertainment",Persiana Sonnati
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana 4Kurd HD" status="online",Persiana 4Kurd HD
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana fight" status="online",Persiana fight
-https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Medical" status="online",Persiana Medical
-https://phd2hls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Docs" status="online",Persiana Docs
-https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana SetMix" status="online",Persiana SetMix
-https://setmixhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Persiana Reality" status="online",Persiana Reality
+
+#EXTINF:-1 tvg-id="Persiana Reality" group-title="🇮🇷 Persian - Entertainment",Persiana Reality
 https://realhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVAFamily.ir" status="online",AVA Family (720p) 
-https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVASeries.ir" status="online",AVA Series (720p)
-https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Iran International TV" status="online",Iran International TV
+
+#EXTINF:-1 tvg-id="Persiana SetMix" group-title="🇮🇷 Persian - Entertainment",Persiana SetMix
+https://setmixhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana 4Kurd HD" group-title="🇮🇷 Persian - Entertainment",Persiana 4Kurd HD
+https://4kuhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana Medical" group-title="🇮🇷 Persian - Docs & Specialty",Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana Docs" group-title="🇮🇷 Persian - Docs & Specialty",Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana fight" group-title="🇮🇷 Persian - Docs & Specialty",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Iran International TV" group-title="🇮🇷 Persian - News",Iran International TV
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
-#EXTINF:-1 tvg-id="BBC Persian",BBC Persian
+
+#EXTINF:-1 tvg-id="BBC Persian" group-title="🇮🇷 Persian - News",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="VOA Persian",VOA Persian
+
+#EXTINF:-1 tvg-id="VOA Persian" group-title="🇮🇷 Persian - News",VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1 tvg-id="Your Time" status="online",Your Time
-https://live.yourtime.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Telewebion Sport 1" status="online",Telewebion Sport 1
-https://live-aburayhan1111.telewebion.ir/ek/sport1/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="Telewebion Sport 2" status="online",Telewebion Sport 2
-https://live-aburayhan1111.telewebion.ir/ek/sport2/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="Telewebion Sport 3" status="online",Telewebion Sport 3
-https://live-aburayhan1111.telewebion.ir/ek/sport3/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="MBC Persia" status="online",MBC Persia
-https://hls.mbcpersia.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="farsitvlive" status="online",farsitvlive
-https://panel.farsitv.us:19360/farsitvlive/Source.m3u8
-#EXTINF:-1 tvg-id="4U TV" status="online",4U TV
-https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="4U Family" status="online",4U Family
-https://familyhls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MTC" status="online",MTC
-https://mtchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="FX TV 1" status="online",FX TV 1
-https://fxtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="FX TV 2" status="online",FX TV 2
-https://toonixhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITN TV" status="online",ITN TV
-https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TapeshTV.ir" status="online",Tapesh TV (720p) 
-https://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 tvg-id="Tapesh iran" status="online",Tapesh iran
-https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
-#EXTINF:-1 tvg-id="Grand Cinema TV" status="online",Grand Cinema TV
-https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Maah TV" status="online",Maah TV
-https://hls.maahtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Net TV" status="online",Net TV
-https://nethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Khatereh TV" status="online",Khatereh TV
-https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
-#EXTINF:-1 tvg-id="Payam Javan TV" status="online",Payam Javan TV
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Ekran Movies" status="online",Ekran Movies (720p) 
-https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="OXIRTV.ir" status="error",OXIR TV (720p)
-https://hls.oxir.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ParsTV.ir" status="online",Pars TV (720p) 
-https://parshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PayvandTV.ir" status="online",Payvand TV (720p) 
-https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1 tvg-id="SL1.ir" status="online",SL 1 (720p)
-https://slonehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SL2.ir" status="online",SL 2 (720p)
-https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="T2TV" status="online",T2 (720p) 
-https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TinTV.ir" status="online",Tin TV (720p) 
-https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
-#EXTINF:-1 tvg-id="247BoxTV.ir@SD",247 Box TV
-https://hls.247box.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="iFilm2.ir@SD",iFilm 2
-https://live.presstv.ir/hls/ifilm2.m3u8
-#EXTINF:-1 tvg-id="iFilmPersian.ir@SD",iFilm Persian
-https://live.presstv.ir/hls/ifilmfa.m3u8
-#EXTINF:-1 tvg-id="CafeFilm.ir@SD",Cafe Film
-https://cafefhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ClassicTV.ir@SD",Classic TV
-https://clshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="DatisTV.ir@SD",Datis TV
-https://dathls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ICCplus.us@SD",ICC Plus (1080p)
+
+#EXTINF:-1 tvg-id="ICCplus.us@SD" group-title="🇮🇷 Persian - Movies & Series",ICC Plus (1080p)
 https://icchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Pulse Media",Pulse Media
-https://pulsehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="homeplushls" status="online",homeplushls
-https://homeplushls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Arvan TV" status="online",Arvan TV
-https://arvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Gold Star TV" status="online",Gold Star TV
+
+#EXTINF:-1 tvg-id="AVAFamily.ir" group-title="🇮🇷 Persian - Movies & Series",AVA Family (720p)
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AVASeries.ir" group-title="🇮🇷 Persian - Movies & Series",AVA Series (720p)
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="FX TV 1" group-title="🇮🇷 Persian - Movies & Series",FX TV 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="FX TV 2" group-title="🇮🇷 Persian - Movies & Series",FX TV 2
+https://toonixhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ITN TV" group-title="🇮🇷 Persian - Movies & Series",ITN TV
+https://itnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Grand Cinema TV" group-title="🇮🇷 Persian - Movies & Series",Grand Cinema TV
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Ekran Movies" group-title="🇮🇷 Persian - Movies & Series",Ekran Movies (720p)
+https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="OXIRTV.ir" group-title="🇮🇷 Persian - Movies & Series",OXIR TV (720p)
+https://hls.oxir.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="iFilm2.ir@SD" group-title="🇮🇷 Persian - Movies & Series",iFilm 2
+https://live.presstv.ir/hls/ifilm2.m3u8
+
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD" group-title="🇮🇷 Persian - Movies & Series",iFilm Persian
+https://live.presstv.ir/hls/ifilmfa.m3u8
+
+#EXTINF:-1 tvg-id="CafeFilm.ir@SD" group-title="🇮🇷 Persian - Movies & Series",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTV.ir@SD" group-title="🇮🇷 Persian - Movies & Series",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Gold Star TV" group-title="🇮🇷 Persian - Movies & Series",Gold Star TV
 https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+
+#EXTINF:-1 tvg-id="MetaFilmTV.ir@SD" group-title="🇮🇷 Persian - Movies & Series",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AfraFilm.ir@SD" group-title="🇮🇷 Persian - Movies & Series",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AfraSeries.ir@SD" group-title="🇮🇷 Persian - Movies & Series",Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ZedTV.ir@HD" group-title="🇮🇷 Persian - Movies & Series",Zed TV
+https://zedhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="4U Family" group-title="🇮🇷 Persian - Kids & Family",4U Family
+https://familyhls.4utv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MBC Persia" group-title="🇮🇷 Persian - Entertainment",MBC Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Your Time" group-title="🇮🇷 Persian - Entertainment",Your Time
+https://live.yourtime.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="farsitvlive" group-title="🇮🇷 Persian - Entertainment",farsitvlive
+https://panel.farsitv.us:19360/farsitvlive/Source.m3u8
+
+#EXTINF:-1 tvg-id="4U TV" group-title="🇮🇷 Persian - Entertainment",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MTC" group-title="🇮🇷 Persian - Entertainment",MTC
+https://mtchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TapeshTV.ir" group-title="🇮🇷 Persian - Entertainment",Tapesh TV (720p)
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tapesh iran" group-title="🇮🇷 Persian - Entertainment",Tapesh Iran
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Maah TV" group-title="🇮🇷 Persian - Entertainment",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Net TV" group-title="🇮🇷 Persian - Entertainment",Net TV
+https://nethls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Khatereh TV" group-title="🇮🇷 Persian - Entertainment",Khatereh TV
+https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
+
+#EXTINF:-1 tvg-id="Payam Javan TV" group-title="🇮🇷 Persian - Entertainment",Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SL1.ir" group-title="🇮🇷 Persian - Entertainment",SL 1 (720p)
+https://slonehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL2.ir" group-title="🇮🇷 Persian - Entertainment",SL 2 (720p)
+https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="T2TV" group-title="🇮🇷 Persian - Entertainment",T2 (720p)
+https://t2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TinTV.ir" group-title="🇮🇷 Persian - Entertainment",Tin TV (720p)
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="247BoxTV.ir@SD" group-title="🇮🇷 Persian - Entertainment",247 Box TV
+https://hls.247box.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="DatisTV.ir@SD" group-title="🇮🇷 Persian - Entertainment",Datis TV
+https://dathls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Pulse Media" group-title="🇮🇷 Persian - Entertainment",Pulse Media
+https://pulsehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="HomePlus.ir@SD" group-title="🇮🇷 Persian - Entertainment",Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ArvanTV.ir@SD" group-title="🇮🇷 Persian - Entertainment",Arvan TV
+https://arvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AraxTV.ir@SD" group-title="🇮🇷 Persian - Entertainment",Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ArkoTV.ir@SD" group-title="🇮🇷 Persian - Entertainment",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+
+## ─── German / Deutsch ────────────────────────────────────
+#EXTINF:-1 tvg-id="DasErste.de" group-title="🇩🇪 German - Main Channels",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+
+#EXTINF:-1 tvg-id="ZDF.de" group-title="🇩🇪 German - Main Channels",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
+
+#EXTINF:-1 tvg-id="3sat.de" group-title="🇩🇪 German - Main Channels",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
+
+#EXTINF:-1 tvg-id="ARTE.de" group-title="🇩🇪 German - Main Channels",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 tvg-name="DF1 HD" tvg-id="DF1.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png",DF1 HD
+
+#EXTINF:-1 tvg-id="DF1.de" group-title="🇩🇪 German - Main Channels",DF1 HD
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+
+#EXTINF:-1 tvg-id="ARD-alpha.de" group-title="🇩🇪 German - Main Channels",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+
+#EXTINF:-1 tvg-id="One.de" group-title="🇩🇪 German - Main Channels",one HD
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
+
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="🇩🇪 German - Main Channels",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="🇩🇪 German - Main Channels",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltderWunder.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+
+#EXTINF:-1 tvg-id="ProSieben.de@SD" group-title="🇩🇪 German - Main Channels",ProSieben
+https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/pro7maxxX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ProSiebenmaxxX.de@SD" group-title="🇩🇪 German - Main Channels",ProSiebenmaxxX
+https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/pro7z/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RTLSuper.de@HD" group-title="🇩🇪 German - Main Channels",Super RTL HD
+https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="phoenix.de" group-title="🇩🇪 German - News",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+
+#EXTINF:-1 tvg-id="tagesschau24.de" group-title="🇩🇪 German - News",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
-https://welt.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
-https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="Anixe.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
+
+#EXTINF:-1 tvg-id="Nachrichten360.de@HD" group-title="🇩🇪 German - News",Nachrichten 360 (1080p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDE.de@SD" group-title="🇩🇪 German - News",RT DE (1080p)
+https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTL.de@HD" group-title="🇩🇪 German - Entertainment",RTL HD (1080p)
+https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/rtla111/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RTLzwei.de@SD" group-title="🇩🇪 German - Entertainment",RTL Zwei (1080p)
+https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/rtl2q/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RTLnitro.de@SD" group-title="🇩🇪 German - Entertainment",RTL nitro (1080p)
+https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/nitro1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RTLLuxembourg.de@SD" group-title="🇩🇪 German - Entertainment",RTL Luxembourg (1080p)
+https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.de@SD" group-title="🇩🇪 German - Entertainment",Comedy Central
+https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/vivaX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="arte.de@SD" group-title="🇩🇪 German - Entertainment",ARTE (720p)
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" group-title="🇩🇪 German - Entertainment",kabel eins Doku
+https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dokusat.de" group-title="🇩🇪 German - Entertainment",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
+
+#EXTINF:-1 tvg-id="WeltderWunder.de" group-title="🇩🇪 German - Entertainment",Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.de@SD" group-title="🇩🇪 German - Entertainment",NTV
+https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/ntvX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="OstWest24.de@SD" group-title="🇩🇪 German - Entertainment",Ost West 24 (1080p)
+https://iptv.prosto.tv/ch237/index.m3u8
+
+#EXTINF:-1 tvg-id="DeluxeMusic.de@SD" group-title="🇩🇪 German - Music",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeluxeDance.de@SD" group-title="🇩🇪 German - Music",Deluxe Dance (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de@SD" group-title="🇩🇪 German - Music",SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+
+#EXTINF:-1 tvg-id="DASDING908.de@SD" group-title="🇩🇪 German - Music",DASDING 90.8 (720p)
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+
+#EXTINF:-1 tvg-id="VolksmusikTV.de@SD" group-title="🇩🇪 German - Music",Volksmusik TV (1080p)
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Music",Vevo Pop Germany (1080p)
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Music",Vevo Schlager Pop (1080p)
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XITE.nl@SD" group-title="🇩🇪 German - Music",XITE (720p)
+https://oldkors-9u3p1.cfcross.workers.dev/?url=https%3A%2F%2Fxite-rakuten.amagi.tv%2F360p-vtt%2Findex.m3u8
+
+#EXTINF:-1 tvg-id="Kika.de" group-title="🇩🇪 German - Kids",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-name="Lilo.TV" tvg-id="lilo.tv" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/lilotv.png",Lilo.TV
+
+#EXTINF:-1 tvg-id="lilo.tv" group-title="🇩🇪 German - Kids",Lilo.TV
 https://lilo.iptv-playoutcenter.de/lilo/lilo-sat1/playlist.m3u8
-#EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV
-https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="Religion" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png",K-TV
-https://streamcdnf34-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/playlist.m3u8
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
+
+#EXTINF:-1 tvg-id="RiC.de@SD" group-title="🇩🇪 German - Kids",RiC (1080p)
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.de@SD" group-title="🇩🇪 German - Kids",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Kids",LooLoo Kids TV (1080p)
+https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Kids",Naruto Germany (1080p)
+https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD" group-title="🇩🇪 German - Sports",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de@SD" group-title="🇩🇪 German - Sports",Motorvision TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
+#EXTINF:-1 tvg-id="RedBullTV.at@DE" group-title="🇩🇪 German - Sports",Red Bull TV DE (1080p)
+https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Strongman.us@Germany" group-title="🇩🇪 German - Sports",Strongman Champions League (720p)
+https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WorldofFreesports.de@SD" group-title="🇩🇪 German - Sports",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" group-title="🇩🇪 German - Docs & Nature",Adventure Earth (1080p)
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de@SD" group-title="🇩🇪 German - Docs & Nature",ANIMAL KINGDOM (720p)
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+
+#EXTINF:-1 tvg-id="AutenticHistory.de@SD" group-title="🇩🇪 German - Docs & Nature",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AutenticTravel.de@SD" group-title="🇩🇪 German - Docs & Nature",Autentic Travel (1080p)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@German" group-title="🇩🇪 German - Docs & Nature",Terra Mater WILD (1080p)
+https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@English" group-title="🇩🇪 German - Docs & Nature",Terra Mater WILD English (1080p)
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Docs & Nature",Travelxp Germany (720p)
+https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Docs & Nature",Fluss Monster (1080p)
+https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Docs & Nature",Wicked Tuna Germany (1080p)
+https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Amasia (720p)
+https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",BBC Top Gear Germany (1080p)
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",DEFA TV (720p)
+https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",FilmGold Germany (1080p)
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Graham Norton Germany (1080p)
+https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Hell's Kitchen Germany (1080p)
+https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Krimi (720p)
+https://4dad3dcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0FSRFBsdXNLcmltaV9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Lindenstrasse (720p)
+https://ad2ef2da.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0FSRFBsdXNMaW5kZW5zdHJhZV9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Germany" group-title="🇩🇪 German - Movies & Series",Rakuten TV Action Movies Germany (1080p)
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Germany" group-title="🇩🇪 German - Movies & Series",Rakuten TV Comedy Movies Germany (1080p)
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Rakuten TV Crime Series Germany (1080p)
+https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Germany" group-title="🇩🇪 German - Movies & Series",Rakuten TV Drama Movies Germany (1080p)
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Germany" group-title="🇩🇪 German - Movies & Series",Rakuten TV Family Movies Germany (1080p)
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Rakuten TV German Cinema (1080p)
+https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Rakuten TV Romance Movies Germany (1080p)
+https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Rakuten TV Thrillers Germany (1080p)
+https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Germany" group-title="🇩🇪 German - Movies & Series",Rakuten TV Top Movies Germany (1080p)
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Royalworld Germany (720p)
+https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Top Sci-Fi (1080p)
+https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Movies & Series",Top Serien (1080p)
+https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="ZeeOne.uk@German" group-title="🇩🇪 German - Movies & Series",Zee One German (720p)
+https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" group-title="🇩🇪 German - Regional",WDR HD
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
+
+#EXTINF:-1 tvg-id="WDR1Live.de@SD" group-title="🇩🇪 German - Regional",WDR 1 Live (720p)
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Aachen" group-title="🇩🇪 German - Regional",WDR Fernsehen Aachen (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Bielefeld" group-title="🇩🇪 German - Regional",WDR Fernsehen Bielefeld (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Bonn" group-title="🇩🇪 German - Regional",WDR Fernsehen Bonn (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Dortmund" group-title="🇩🇪 German - Regional",WDR Fernsehen Dortmund (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Duisburg" group-title="🇩🇪 German - Regional",WDR Fernsehen Duisburg (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Dusseldorf" group-title="🇩🇪 German - Regional",WDR Fernsehen Düsseldorf (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Essen" group-title="🇩🇪 German - Regional",WDR Fernsehen Essen (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Munster" group-title="🇩🇪 German - Regional",WDR Fernsehen Münster (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Siegen" group-title="🇩🇪 German - Regional",WDR Fernsehen Siegen (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Wuppertal" group-title="🇩🇪 German - Regional",WDR Fernsehen Wuppertal (720p)
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+
+#EXTINF:-1 tvg-id="SWRFernsehen.de" group-title="🇩🇪 German - Regional",SWR Baden-Württemberg HD
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="NDRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
+
+#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de@SD" group-title="🇩🇪 German - Regional",SWR Fernsehen Rheinland-Pfalz (720p)
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Niedersachsen" group-title="🇩🇪 German - Regional",NDR Niedersachsen HD
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png",Radio Bremen TV HD
+
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg" group-title="🇩🇪 German - Regional",NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehen.de@MecklenburgVorpommern" group-title="🇩🇪 German - Regional",NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehen.de@SchleswigHolstein" group-title="🇩🇪 German - Regional",NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD" group-title="🇩🇪 German - Regional",NDR Fernsehen International (720p)
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioBremen.de" group-title="🇩🇪 German - Regional",Radio Bremen TV HD
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
+
+#EXTINF:-1 tvg-id="BR.de" group-title="🇩🇪 German - Regional",BR Fernsehen Nord HD
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
+
+#EXTINF:-1 tvg-id="MDRSachsen.de" group-title="🇩🇪 German - Regional",MDR Sachsen HD
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
+
+#EXTINF:-1 tvg-id="MDRFernsehen.de@SachsenAnhalt" group-title="🇩🇪 German - Regional",MDR Fernsehen Sachsen-Anhalt (1080p)
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen" group-title="🇩🇪 German - Regional",MDR Fernsehen Thüringen (1080p)
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
+
+#EXTINF:-1 tvg-id="HR.de" group-title="🇩🇪 German - Regional",hr-fernsehen
 https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
-#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
+
+#EXTINF:-1 tvg-id="rbbBerlin.de" group-title="🇩🇪 German - Regional",rbb Berlin HD
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
+
+#EXTINF:-1 tvg-id="rbbFernsehen.de@Brandenburg" group-title="🇩🇪 German - Regional",RBB Brandenburg (1080p)
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+
+#EXTINF:-1 tvg-id="SRFernsehen.de" group-title="🇩🇪 German - Regional",SR Fernsehen HD
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-name="Südthüringer Regionalfernsehen" tvg-id="srf-online.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/suedthueringer_regionalfernsehen.png",Südthüringer Regionalfernsehen
-https://wowza.telvi.de/srf/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Rennsteig.tv" tvg-id="rennsteig.tv" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rennsteigtv.png",Rennsteig.tv
-http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="h-eins.tv" tvg-id="h-eins.tv" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/h1tv.png",h1
+
+#EXTINF:-1 tvg-id="SaarlandFernsehen1.de@SD" group-title="🇩🇪 German - Regional",Saarland Fernsehen 1 (1080p)
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaarlandFernsehen2.de@SD" group-title="🇩🇪 German - Regional",Saarland Fernsehen 2 (720p)
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SachsenEins.de@SD" group-title="🇩🇪 German - Regional",Sachsen Eins (1080p)
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="h-eins.tv" group-title="🇩🇪 German - Regional",h1
 https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/atv.png",a.tv
+
+#EXTINF:-1 tvg-id="AlexBerlin.de@SD" group-title="🇩🇪 German - Local",Alex Berlin (1080p)
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="a.tv.de" group-title="🇩🇪 German - Local",a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="allgäu.tv" tvg-id="AllgauTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/allgaeutv.png",allgäu.tv
+
+#EXTINF:-1 tvg-id="AugsburgTV.de@SD" group-title="🇩🇪 German - Local",Augsburg TV (1080p)
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AllgauTV.de" group-title="🇩🇪 German - Local",allgäu.tv
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Baden TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/badentv.png",Baden TV
+
+#EXTINF:-1 tvg-id="BadenTV.de" group-title="🇩🇪 German - Local",Baden TV
 https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Chemnitz Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/chemnitzfernsehen.png",Chemnitz Fernsehen
+
+#EXTINF:-1 tvg-id="BadenTVSud.de@SD" group-title="🇩🇪 German - Local",Baden TV Süd (480p)
+https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de@SD" group-title="🇩🇪 German - Local",Chemnitz Fernsehen
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Dresden Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png",Dresden Fernsehen
+
+#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de@SD" group-title="🇩🇪 German - Local",Dresden Fernsehen
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
+
+#EXTINF:-1 tvg-id="emsTVLingen.de@SD" group-title="🇩🇪 German - Local",ems TV Lingen (720p)
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filstalwelle.de@SD" group-title="🇩🇪 German - Local",Filstalwelle (1080p)
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FrankenTV.de" group-title="🇩🇪 German - Local",Franken Fernsehen
 https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Hamburg 1" tvg-id="Hamburg1.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hamburg1.png",Hamburg 1
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Local",FrankenPlus (1080p)
+https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hamburg1.de" group-title="🇩🇪 German - Local",Hamburg 1
 https://stream.hamburg1.de/live_abr/hamburg1_abr/live/hamburg1_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="KabelJournal" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kabeljournal.png",KabelJournal
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Local",KabelJournal
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="L-TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ltv.png",L-TV
+
+#EXTINF:-1 tvg-id="LTV.de@SD" group-title="🇩🇪 German - Local",L-TV
 https://live2.telvi.de/hls/l-tv_s1.m3u8
-#EXTINF:-1 tvg-name="Leipzig Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/leipzigfernsehen.png",Leipzig Fernsehen
+
+#EXTINF:-1 tvg-id="labor14.de@HD" group-title="🇩🇪 German - Local",labor14 (720p)
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lausitzwelle.de@SD" group-title="🇩🇪 German - Local",Lausitzwelle (1080p)
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de@SD" group-title="🇩🇪 German - Local",Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="münchen.tv" tvg-id="MunchenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/muenchentv.png",münchen.tv
+
+#EXTINF:-1 tvg-id="MunchenTV.de" group-title="🇩🇪 German - Local",münchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-name="noa4 Hamburg HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Hamburg HD
+
+#EXTINF:-1 tvg-id="NiederbayernTV.de@SD" group-title="🇩🇪 German - Local",Niederbayern TV (720p)
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+
+#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de@SD" group-title="🇩🇪 German - Local",Niederbayern TV Deggendorf & Straubing (1080p)
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de@SD" group-title="🇩🇪 German - Local",Niederbayern TV Landshut (1080p)
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+
+#EXTINF:-1 tvg-id="NiederbayernTVPassau.de@SD" group-title="🇩🇪 German - Local",Niederbayern TV Passau (1080p)
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+
+#EXTINF:-1 tvg-id="noa4Hamburg.de@SD" group-title="🇩🇪 German - Local",noa4 Hamburg HD
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-name="noa4 Norderstedt HD" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/noa4.png",noa4 Norderstedt HD
+
+#EXTINF:-1 tvg-id="noa4Norderstedt.de@SD" group-title="🇩🇪 German - Local",noa4 Norderstedt HD
 https://hls1.wtnet.de/noa4/apple/wifi.m3u8
-#EXTINF:-1 tvg-name="OK4 (Adenau Andernach Koblenz Neuwied)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkoblenz.png",OK4 (Adenau Andernach Koblenz Neuwied)
+
+#EXTINF:-1 tvg-id="NRWision.de@SD" group-title="🇩🇪 German - Local",NRWision (1080p)
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OberpfalzTV.de@SD" group-title="🇩🇪 German - Local",Oberpfalz TV (1080p)
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OK4.de@SD" group-title="🇩🇪 German - Local",OK4 (720p)
 https://s.ok54.de/abr_ok4/live/playlist.m3u8
-#EXTINF:-1 tvg-name="OK54 (Trier)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oktrier.png",OK54 (Trier)
+
+#EXTINF:-1 tvg-id="OK54.de@SD" group-title="🇩🇪 German - Local",OK54 (Trier) (720p)
 https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="OK Kaiserslautern" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkaiserslautern.png",OK Kaiserslautern
+
+#EXTINF:-1 tvg-id="OKKaiserslautern.de@SD" group-title="🇩🇪 German - Local",OK Kaiserslautern
 https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK naheTV (Idar-Oberstein)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oknahetv.png",OK naheTV (Idar-Oberstein)
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Local",OK naheTV (Idar-Oberstein)
 https://s.ok54.de/abr_nahetv/webstream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK RheinLokal (Worms)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinlokal.png",OK RheinLokal (Worms)
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Local",OK RheinLokal (Worms)
 https://s.ok54.de/abr_rheinlokal/webstream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Suedwestpfalz" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksuedwestpfalz.png",OK Suedwestpfalz
+
+#EXTINF:-1 tvg-id="" group-title="🇩🇪 German - Local",OK Suedwestpfalz
 https://s.ok54.de/abr_okswp/webstream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Weinstraße (Neustadt)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okweinstrasse.png",OK Weinstraße (Neustadt)
+
+#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de@SD" group-title="🇩🇪 German - Local",OK Weinstraße (Neustadt)
 https://s.ok54.de/abr_okwstr/live/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Flensburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/fltv.png",OK Flensburg
+
+#EXTINF:-1 tvg-id="OKFlensburg.de@SD" group-title="🇩🇪 German - Local",OK Flensburg
 https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-name="OK Kiel" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kieltv.png",OK Kiel
+
+#EXTINF:-1 tvg-id="OKKiel.de@SD" group-title="🇩🇪 German - Local",OK Kiel
 https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
-#EXTINF:-1 tvg-name="OK Merseburg-Querfurt" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmerseburg.png",OK Merseburg-Querfurt
+
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de@SD" group-title="🇩🇪 German - Local",OK Merseburg-Querfurt
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-merseburg_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Rhein-Main (Offenbach Frankfurt)" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okrheinmain.png",OK Rhein-Main (Offenbach Frankfurt)
+
+#EXTINF:-1 tvg-id="OKRheinMain.de@SD" group-title="🇩🇪 German - Local",OK Rhein-Main (Offenbach Frankfurt)
 https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Kassel" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okkassel.png",OK Kassel
+
+#EXTINF:-1 tvg-id="OKKassel.de@SD" group-title="🇩🇪 German - Local",OK Kassel
 https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Ludwigshafen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okludwigshafen.png",OK Ludwigshafen
-https://s.ok54.de/oklu/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Dessau" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okdessau.png",OK Dessau
-https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Magdeburg" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okmagdeburg.png",OK Magdeburg
-https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-magdeburg_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Salzwedel" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/oksalzwedel.png",OK Salzwedel
-https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Stendal" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okstendal.png",OK Stendal
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
-#EXTINF:-1 tvg-name="OK Wernigerode" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png",OK Wernigerode
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 tvg-name="Tide TV" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png",Tide TV
+
+#EXTINF:-1 tvg-id="RegioTVStuttgart.de@SD" group-title="🇩🇪 German - Local",Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RFH.de@SD" group-title="🇩🇪 German - Local",RFH (1080p)
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
+
+#EXTINF:-1 tvg-id="RFO.de@SD" group-title="🇩🇪 German - Local",RFO (1080p)
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Seenluft24.de@SD" group-title="🇩🇪 German - Local",Seenluft24 (1080p)
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SRF.de@SD" group-title="🇩🇪 German - Local",SRF (720p)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="teltOwkanal.de@SD" group-title="🇩🇪 German - Local",teltOwkanal (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TideTV.de@SD" group-title="🇩🇪 German - Local",Tide TV
 https://h058.video-stream-hosting.de/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Krone.TV" tvg-id="KroneTV.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kronetv.png",Krone.TV
+
+#EXTINF:-1 tvg-id="TV38SudostNiedersachen.de@SD" group-title="🇩🇪 German - Local",TV38 Südost-Niedersachsen (1080p)
+https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVIngolstadt.de@SD" group-title="🇩🇪 German - Local",TV Ingolstadt (1080p)
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMainfranken.de@SD" group-title="🇩🇪 German - Local",TV Mainfranken (1080p)
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVOberfranken.de@SD" group-title="🇩🇪 German - Local",TV Oberfranken TVO (1080p)
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de@SD" group-title="🇩🇪 German - Local",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@English" group-title="🇩🇪 German - International (DW)",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@Arabic" group-title="🇩🇪 German - International (DW)",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@Espanol" group-title="🇩🇪 German - International (DW)",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@Russian" group-title="🇩🇪 German - International (DW)",DW Russian (1080p)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+
+
+#EXTINF:-1 tvg-id="BibelTV.de" group-title="🇩🇪 German - Religion",Bibel TV
+https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BibelTVImpuls.de@SD" group-title="🇩🇪 German - Religion",Bibel TV Impuls (720p)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BibelTVMusik.de@SD" group-title="🇩🇪 German - Religion",Bibel TV Musik (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV.de" group-title="🇩🇪 German - Religion",K-TV
+https://streamcdnf34-a19bf41486254a3485a864c8b0c14fe1.msvdn.net/live/S28743697/LpD0q2aoyujI/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EchtJetztTV.de@SD" group-title="🇩🇪 German - Religion",EchtJetzt TV (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SophiaTV.de@SD" group-title="🇩🇪 German - Religion",Sophia TV (720p)
+https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SenderNeuJerusalem.de@SD" group-title="🇩🇪 German - Religion",Sender Neu Jerusalem (576p)
+https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+
+#EXTINF:-1 tvg-id="HSE.de@SD" group-title="🇩🇪 German - Shopping",HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HSEExtra.de@SD" group-title="🇩🇪 German - Shopping",HSE24 Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HSETrend.de@SD" group-title="🇩🇪 German - Shopping",HSE24 Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QVC.de@SD" group-title="🇩🇪 German - Shopping",QVC Germany (720p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+
+#EXTINF:-1 tvg-id="Juwelo.de@SD" group-title="🇩🇪 German - Shopping",Juwelo (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+
+#EXTINF:-1 tvg-id="KaufBeiTV.de@SD" group-title="🇩🇪 German - Shopping",KaufBei TV (576p)
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+
+#EXTINF:-1 tvg-id="KroneTV.at" group-title="🌍 International - Austrian",Krone.TV
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls3_nodrm/kronetv_hd-nodrm.m3u8
-#EXTINF:-1 tvg-name="Okto" tvg-id="OKTO.at" group-title="International;Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okto.png",Okto
+
+#EXTINF:-1 tvg-id="OKTO.at" group-title="🌍 International - Austrian",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
