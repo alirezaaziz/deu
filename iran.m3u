@@ -238,15 +238,6 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="ZDFinfo.de" group-title="🇩🇪 German - Main Channels",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-id="ProSieben.de@SD" group-title="🇩🇪 German - Main Channels",ProSieben
-https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/pro7maxxX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ProSiebenmaxxX.de@SD" group-title="🇩🇪 German - Main Channels",ProSiebenmaxxX
-https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/pro7z/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="RTLSuper.de@HD" group-title="🇩🇪 German - Main Channels",Super RTL HD
-https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="phoenix.de" group-title="🇩🇪 German - News",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 
@@ -256,38 +247,14 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:-1 tvg-id="Nachrichten360.de@HD" group-title="🇩🇪 German - News",Nachrichten 360 (1080p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTDE.de@SD" group-title="🇩🇪 German - News",RT DE (1080p)
-https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTL.de@HD" group-title="🇩🇪 German - Entertainment",RTL HD (1080p)
-https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/rtla111/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="RTLzwei.de@SD" group-title="🇩🇪 German - Entertainment",RTL Zwei (1080p)
-https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/rtl2q/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="RTLnitro.de@SD" group-title="🇩🇪 German - Entertainment",RTL nitro (1080p)
-https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/nitro1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="RTLLuxembourg.de@SD" group-title="🇩🇪 German - Entertainment",RTL Luxembourg (1080p)
-https://stream.rtl.lu/data/live/tele/channel1/720p.m3u8
-
-#EXTINF:-1 tvg-id="ComedyCentral.de@SD" group-title="🇩🇪 German - Entertainment",Comedy Central
-https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/vivaX/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="arte.de@SD" group-title="🇩🇪 German - Entertainment",ARTE (720p)
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" group-title="🇩🇪 German - Entertainment",kabel eins Doku
-https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dokusat.de" group-title="🇩🇪 German - Entertainment",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeltderWunder.de" group-title="🇩🇪 German - Entertainment",Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NTV.de@SD" group-title="🇩🇪 German - Entertainment",NTV
-https://corsply-u7i2d9xg.cfcross.workers.dev/?url=https://s6.hopslan.com/ntvX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="OstWest24.de@SD" group-title="🇩🇪 German - Entertainment",Ost West 24 (1080p)
 https://iptv.prosto.tv/ch237/index.m3u8
