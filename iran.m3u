@@ -20,6 +20,9 @@ https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AFN Music" group-title="🇮🇷 Persian - Music",AFN Music
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Sun Music" group-title="🇮🇷 Persian - Music",Sun Music
+https://hls.sunmusic.live/hls/stream.m3u8
+
 ## Persiana Network ─────────────────────────────────
 #EXTINF:-1 tvg-id="Persiana Music" group-title="🇮🇷 Persian - Music",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
@@ -105,11 +108,20 @@ https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITN TV" group-title="🇮🇷 Persian - Movies & Series",ITN TV
 https://itnhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="Royal TV" group-title="🇮🇷 Persian - Movies & Series",Royal TV
+https://arvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Jahan Nama TV" group-title="🇮🇷 Persian - Movies & Series",Jahan Nama TV
+https://stream01.gaplication.com/hls/jahannamatvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinex" group-title="🇮🇷 Persian - Movies & Series",Cinex
+https://gcinemahls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="Grand Cinema TV" group-title="🇮🇷 Persian - Movies & Series",Grand Cinema TV
 https://gcinemahls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Ekran Movies" group-title="🇮🇷 Persian - Movies & Series",Ekran Movies (720p)
-https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
+https://spf-onetv-9i4j.cfallinone.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 
 #EXTINF:-1 tvg-id="OXIRTV.ir" group-title="🇮🇷 Persian - Movies & Series",OXIR TV (720p)
 https://hls.oxir.live/hls/stream.m3u8
@@ -165,6 +177,15 @@ https://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 tvg-id="Tapesh iran" group-title="🇮🇷 Persian - Entertainment",Tapesh Iran
 https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
 
+#EXTINF:-1 tvg-id="T2 Movies" group-title="🇮🇷 Persian - Entertainment",T2 Movies
+https://spf-onetv-9i4j.cfallinone.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+
+#EXTINF:-1 tvg-id="T2 America" group-title="🇮🇷 Persian - Entertainment",T2 America
+https://spf-onetv-9i4j.cfallinone.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
+
+#EXTINF:-1 tvg-id="T2 International" group-title="🇮🇷 Persian - Entertainment",T2 International
+https://spf-onetv-9i4j.cfallinone.workers.dev/?url=https://ca-rt.onetv.app/T2International/index-0.m3u8
+
 #EXTINF:-1 tvg-id="Maah TV" group-title="🇮🇷 Persian - Entertainment",Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
 
@@ -210,6 +231,14 @@ https://araxhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ArkoTV.ir@SD" group-title="🇮🇷 Persian - Entertainment",Arko TV
 https://arkhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="TM TV" group-title="🇮🇷 Persian - Entertainment",TM TV
+https://hls.tmtv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Iran Independent TV" group-title="🇮🇷 Persian - Iran Independent TV
+https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="GEM Drama" group-title="🇮🇷 Persian - GEM Drama
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Drama2/playlist.m3u8
 ## ─── German / Deutsch ────────────────────────────────────
 #EXTINF:-1 tvg-id="DasErste.de" group-title="🇩🇪 German - Main Channels",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
