@@ -234,11 +234,8 @@ https://arkhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TM TV" group-title="🇮🇷 Persian - Entertainment",TM TV
 https://hls.tmtv.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Iran Independent TV" group-title="🇮🇷 Persian - Iran Independent TV
+#EXTINF:-1 tvg-id="Iran Independent TV" group-title="🇮🇷 Persian - Entertainment",Iran Independent TV
 https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
-
-#EXTINF:-1 tvg-id="GEM Drama" group-title="🇮🇷 Persian - GEM Drama
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Drama2/playlist.m3u8
 ## ─── German / Deutsch ────────────────────────────────────
 #EXTINF:-1 tvg-id="DasErste.de" group-title="🇩🇪 German - Main Channels",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
