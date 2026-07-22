@@ -150,6 +150,9 @@ https://afrafhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfraSeries.ir@SD" group-title="🇮🇷 Persian - Movies & Series",Afra Series
 https://afrashls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="Setareh" group-title="🇮🇷 Persian - Movies & Series",Setareh TV
+https://setarehhls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="ZedTV.ir@HD" group-title="🇮🇷 Persian - Movies & Series",Zed TV
 https://zedhls.wns.live/hls/stream.m3u8
 
