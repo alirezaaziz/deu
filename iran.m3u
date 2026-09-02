@@ -27,9 +27,6 @@ https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Persiana Music" group-title="🇮🇷 Persian - Music",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Persiana Iranian" group-title="🇮🇷 Persian - Sports",Persiana Sport
-https://edge22.776740.ir.cdn.ir/hls2/persiana.m3u8
-
 #EXTINF:-1 tvg-id="Persiana One" group-title="🇮🇷 Persian - Movies & Series",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
 
@@ -80,6 +77,18 @@ https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Persiana fight" group-title="🇮🇷 Persian - Docs & Specialty",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana Podcast" group-title="🇮🇷 Persian - Docs & Specialty",Persiana Podcast
+https://podhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana Rap" group-title="🇮🇷 Persian - Docs & Specialty",Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana China" group-title="🇮🇷 Persian - Docs & Specialty",Persiana China
+https://chinahls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Persiana Voyage" group-title="🇮🇷 Persian - Docs & Specialty",Persiana Voyage
+https://voyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Iran International TV" group-title="🇮🇷 Persian - News",Iran International TV
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
@@ -170,21 +179,6 @@ https://mtchls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="TapeshTV.ir" group-title="🇮🇷 Persian - Entertainment",Tapesh TV (720p)
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tapesh iran" group-title="🇮🇷 Persian - Entertainment",Tapesh Iran
-https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
-
-#EXTINF:-1 tvg-id="T2TV" group-title="🇮🇷 Persian - Entertainment",T2 (720p)
-https://t2hls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="T2 Movies" group-title="🇮🇷 Persian - Entertainment",T2 Movies
-https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
-
-#EXTINF:-1 tvg-id="T2 America" group-title="🇮🇷 Persian - Entertainment",T2 America
-https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
-
-#EXTINF:-1 tvg-id="T2 International" group-title="🇮🇷 Persian - Entertainment",T2 International
-https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2International/index-0.m3u8
 
 #EXTINF:-1 tvg-id="Maah TV" group-title="🇮🇷 Persian - Entertainment",Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
