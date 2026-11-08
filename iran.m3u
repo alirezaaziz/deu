@@ -1,12 +1,14 @@
 #EXTM3U
 
 ## ─── Persian / Farsi ─────────────────────────────────────
-
-#EXTINF:-1 tvg-id="PMC" group-title="🇮🇷 Persian - Music",PMC
-https://pmchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PMC Royale" group-title="🇮🇷 Persian - Music",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="PMC Select" group-title="🇮🇷 Persian - Music",PMC Select
 https://s5.radio.co/sf0a1af54c/listen
+
+#EXTINF:-1 tvg-id="PMC" group-title="🇮🇷 Persian - Music",PMC
+https://pmchls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Radio Javan" group-title="🇮🇷 Persian - Music",Radio Javan
 https://rjtvhls.wns.live/hls/stream.m3u8
@@ -42,14 +44,14 @@ https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Persiana HD" group-title="🇮🇷 Persian - Entertainment",Persiana HD
 https://euhls.persiana.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="Persiana Comedy" group-title="🇮🇷 Persian - Movies & Series",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="Persiana One" group-title="🇮🇷 Persian - Movies & Series",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Persiana Cinema" group-title="🇮🇷 Persian - Movies & Series",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Persiana Comedy" group-title="🇮🇷 Persian - Movies & Series",Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Persiana Junior" group-title="🇮🇷 Persian - Kids & Family",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
@@ -98,6 +100,15 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 
 #EXTINF:-1 tvg-id="VOA Persian" group-title="🇮🇷 Persian - News",VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Your Time" group-title="🇮🇷 Persian - Entertainment",Your Time
+https://live.yourtime.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IRIB TV3" group-title="🇮🇷 Persian - Entertainment",IRIB TV3
+https://cp11.adabmedia.com/hls2/tv3test.m3u8
+
+#EXTINF:-1 tvg-id="MBC Persia" group-title="🇮🇷 Persian - Entertainment",MBC Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Radio Shemroon TV" group-title="🇮🇷 Persian - Movies & Series",Radio Shemroon TV
 https://rshemhls.wns.live/hls/stream.m3u8
@@ -153,20 +164,8 @@ https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AfraFilm.ir@SD" group-title="🇮🇷 Persian - Movies & Series",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Setareh" group-title="🇮🇷 Persian - Movies & Series",Setareh TV
-https://setarehhls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="ZedTV.ir@HD" group-title="🇮🇷 Persian - Movies & Series",Zed TV
-https://zedhls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="4U Family" group-title="🇮🇷 Persian - Kids & Family",4U Family
 https://familyhls.4utv.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="MBC Persia" group-title="🇮🇷 Persian - Entertainment",MBC Persia
-https://hls.mbcpersia.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Your Time" group-title="🇮🇷 Persian - Entertainment",Your Time
-https://live.yourtime.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="4U TV" group-title="🇮🇷 Persian - Entertainment",4U TV
 https://hls.4utv.live/hls/stream.m3u8
@@ -198,12 +197,6 @@ https://radio.khatereh.online:5443/LiveApp/streams/jWF37YKCgZ0FSYTR8636879744996
 #EXTINF:-1 tvg-id="Payam Javan TV" group-title="🇮🇷 Persian - Entertainment",Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SL1.ir" group-title="🇮🇷 Persian - Entertainment",SL 1 (720p)
-https://slonehls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="SL2.ir" group-title="🇮🇷 Persian - Entertainment",SL 2 (720p)
-https://sltwohls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="TinTV.ir" group-title="🇮🇷 Persian - Entertainment",Tin TV (720p)
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 
@@ -215,9 +208,6 @@ https://hls.247box.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="DatisTV.ir@SD" group-title="🇮🇷 Persian - Entertainment",Datis TV
 https://dathls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="Pulse Media" group-title="🇮🇷 Persian - Entertainment",Pulse Media
-https://pulsehls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="ArvanTV.ir@SD" group-title="🇮🇷 Persian - Entertainment",Arvan TV
 https://arvhls.wns.live/hls/stream.m3u8
@@ -245,6 +235,21 @@ https://ifilmhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Iran Comedy" group-title="🇮🇷 Persian - Entertainment",Iran Comedy
 https://irnamahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL1.ir" group-title="🇮🇷 Persian - Entertainment",SL 1 (720p)
+https://slonehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL2.ir" group-title="🇮🇷 Persian - Entertainment",SL 2 (720p)
+https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Setareh" group-title="🇮🇷 Persian - Movies & Series",Setareh TV
+https://setarehhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ZedTV.ir@HD" group-title="🇮🇷 Persian - Movies & Series",Zed TV
+https://zedhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Pulse Media" group-title="🇮🇷 Persian - Entertainment",Pulse Media
+https://pulsehls.wns.live/hls/stream.m3u8
 ## ─── German / Deutsch ────────────────────────────────────
 #EXTINF:-1 tvg-id="DasErste.de" group-title="🇩🇪 German - Main Channels",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
