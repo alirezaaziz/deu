@@ -99,6 +99,9 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 #EXTINF:-1 tvg-id="VOA Persian" group-title="🇮🇷 Persian - News",VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Radio Shemroon TV" group-title="🇮🇷 Persian - Movies & Series",Radio Shemroon TV
+https://rshemhls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="ICCplus.us@SD" group-title="🇮🇷 Persian - Movies & Series",ICC Plus (1080p)
 https://icchls.wns.live/hls/stream.m3u8
 
@@ -127,7 +130,7 @@ https://stream01.gaplication.com/hls/jahannamatvlive/index.m3u8
 https://gcinemahls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Ekran Movies" group-title="🇮🇷 Persian - Movies & Series",Ekran Movies (720p)
-https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+https://spf-onetv-9i4j.cfbanana.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 
 #EXTINF:-1 tvg-id="OXIRTV.ir" group-title="🇮🇷 Persian - Movies & Series",OXIR TV (720p)
 https://hls.oxir.live/hls/stream.m3u8
@@ -180,6 +183,15 @@ https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TapeshTV.ir" group-title="🇮🇷 Persian - Entertainment",Tapesh TV (720p)
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Tapesh" group-title="🇮🇷 Persian - Entertainment",Tapesh
+https://hls.tapeshtv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Tapesh Iran" group-title="🇮🇷 Persian - Entertainment",Tapesh Iran
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="T2 TV" group-title="🇮🇷 Persian - Entertainment",T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="Maah TV" group-title="🇮🇷 Persian - Entertainment",Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
 
@@ -230,6 +242,18 @@ https://hls.tmtv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Iran Independent TV" group-title="🇮🇷 Persian - Entertainment",Iran Independent TV
 https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="Romantico TV" group-title="🇮🇷 Persian - Entertainment",Romantico TV
+https://live.livestreamtv.ca/romanticotvshow/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Today TV" group-title="🇮🇷 Persian - Entertainment",Today TV
+https://live.ontodaytv.com/hls/ontoday.m3u8
+
+#EXTINF:-1 tvg-id="Iran Film" group-title="🇮🇷 Persian - Entertainment",Iran Film
+https://ifilmhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Iran Comedy" group-title="🇮🇷 Persian - Entertainment",Iran Comedy
+https://irnamahls.wns.live/hls/stream.m3u8
 ## ─── German / Deutsch ────────────────────────────────────
 #EXTINF:-1 tvg-id="DasErste.de" group-title="🇩🇪 German - Main Channels",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
